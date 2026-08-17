@@ -1,0 +1,1853 @@
+[
+  {
+    "petId": "pt-1",
+    "vaccinations": [
+      {
+        "id": "pt-1-vac-0",
+        "petId": "pt-1",
+        "name": {
+          "en": "Bordetella",
+          "ar": "البورديتيلا"
+        },
+        "administeredAt": "2026-03-13T09:00:00.000Z",
+        "nextDueAt": "2027-03-13T09:00:00.000Z",
+        "batchNumber": "VX-17223",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "valid"
+      },
+      {
+        "id": "pt-1-vac-1",
+        "petId": "pt-1",
+        "name": {
+          "en": "Feline Calicivirus",
+          "ar": "الكاليسي الفيروسي"
+        },
+        "administeredAt": "2026-05-17T09:00:00.000Z",
+        "nextDueAt": "2027-05-17T09:00:00.000Z",
+        "batchNumber": "VX-54842",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "valid"
+      },
+      {
+        "id": "pt-1-vac-2",
+        "petId": "pt-1",
+        "name": {
+          "en": "Leptospirosis",
+          "ar": "اللبتوسبيرا"
+        },
+        "administeredAt": "2025-11-03T09:00:00.000Z",
+        "nextDueAt": "2026-11-03T09:00:00.000Z",
+        "batchNumber": "VX-92461",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "valid"
+      },
+      {
+        "id": "pt-1-vac-3",
+        "petId": "pt-1",
+        "name": {
+          "en": "Feline Panleukopenia (FPV)",
+          "ar": "التهاب الأمعاء الفيروسي"
+        },
+        "administeredAt": "2026-01-07T09:00:00.000Z",
+        "nextDueAt": "2027-01-07T09:00:00.000Z",
+        "batchNumber": "VX-40080",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "valid"
+      }
+    ],
+    "visits": [
+      {
+        "id": "pt-1-visit-0",
+        "petId": "pt-1",
+        "date": "2025-09-10T09:00:00.000Z",
+        "type": "telehealth",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-1-visit-1",
+        "petId": "pt-1",
+        "date": "2025-06-25T09:00:00.000Z",
+        "type": "vaccination",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-1-visit-2",
+        "petId": "pt-1",
+        "date": "2025-04-09T09:00:00.000Z",
+        "type": "dental",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-1-visit-3",
+        "petId": "pt-1",
+        "date": "2026-06-02T09:00:00.000Z",
+        "type": "emergency",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "prescriptions": [
+      {
+        "id": "pt-1-rx-1",
+        "petId": "pt-1",
+        "consultationId": "cons-1",
+        "issuedAt": "2026-07-16T09:00:00.000Z",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "licenseNumber": "VET-SA-40218",
+        "signed": true,
+        "signatureHash": "sig_388a0c2f",
+        "items": [
+          {
+            "productId": "p-016",
+            "drug": {
+              "en": "Broad-spectrum dewormer",
+              "ar": "علاج ديدان واسع الطيف"
+            },
+            "dose": "1 tablet per 10 kg",
+            "frequency": {
+              "en": "Single dose, repeat in 14 days",
+              "ar": "جرعة واحدة تُكرَّر بعد ١٤ يومًا"
+            },
+            "durationDays": 14
+          },
+          {
+            "productId": "p-011",
+            "drug": {
+              "en": "Digestive probiotic",
+              "ar": "بروبيوتيك للهضم"
+            },
+            "dose": "1 scoop with food",
+            "frequency": {
+              "en": "Once daily",
+              "ar": "مرة يوميًا"
+            },
+            "durationDays": 21
+          }
+        ],
+        "notes": {
+          "en": "Recheck stool sample after two weeks.",
+          "ar": "إعادة فحص عينة البراز بعد أسبوعين."
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "labs": [
+      {
+        "id": "pt-1-lab-1",
+        "petId": "pt-1",
+        "name": {
+          "en": "Complete blood count",
+          "ar": "صورة دم كاملة"
+        },
+        "performedAt": "2026-01-29T09:00:00.000Z",
+        "lab": {
+          "en": "Aleef Diagnostics",
+          "ar": "مختبرات أليف"
+        },
+        "summary": {
+          "en": "All values within reference range.",
+          "ar": "جميع القيم ضمن المعدل الطبيعي."
+        },
+        "values": [
+          {
+            "label": {
+              "en": "Haemoglobin",
+              "ar": "الهيموغلوبين"
+            },
+            "value": "13.4 g/dL",
+            "range": "12–18",
+            "flag": "normal"
+          },
+          {
+            "label": {
+              "en": "White blood cells",
+              "ar": "كريات الدم البيضاء"
+            },
+            "value": "9.1 ×10⁹/L",
+            "range": "5.5–19.5",
+            "flag": "normal"
+          },
+          {
+            "label": {
+              "en": "Creatinine",
+              "ar": "الكرياتينين"
+            },
+            "value": "1.8 mg/dL",
+            "range": "0.8–1.8",
+            "flag": "high"
+          }
+        ],
+        "source": "vet_verified"
+      }
+    ],
+    "allergies": [],
+    "weightHistory": [
+      {
+        "date": "2025-09-13T09:00:00.000Z",
+        "weightKg": 6.03
+      },
+      {
+        "date": "2025-10-28T09:00:00.000Z",
+        "weightKg": 5.94
+      },
+      {
+        "date": "2025-12-12T09:00:00.000Z",
+        "weightKg": 6.16
+      },
+      {
+        "date": "2026-01-26T09:00:00.000Z",
+        "weightKg": 6.07
+      },
+      {
+        "date": "2026-03-12T09:00:00.000Z",
+        "weightKg": 6.26
+      },
+      {
+        "date": "2026-04-26T09:00:00.000Z",
+        "weightKg": 6.77
+      },
+      {
+        "date": "2026-06-10T09:00:00.000Z",
+        "weightKg": 6.39
+      },
+      {
+        "date": "2026-07-25T09:00:00.000Z",
+        "weightKg": 6.9
+      }
+    ],
+    "chronicConditions": []
+  },
+  {
+    "petId": "pt-2",
+    "vaccinations": [
+      {
+        "id": "pt-2-vac-0",
+        "petId": "pt-2",
+        "name": {
+          "en": "Canine Distemper",
+          "ar": "السُّعار الكلبي"
+        },
+        "administeredAt": "2024-09-21T09:00:00.000Z",
+        "nextDueAt": "2025-09-21T09:00:00.000Z",
+        "batchNumber": "VX-43136",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "overdue"
+      },
+      {
+        "id": "pt-2-vac-1",
+        "petId": "pt-2",
+        "name": {
+          "en": "Feline Calicivirus",
+          "ar": "الكاليسي الفيروسي"
+        },
+        "administeredAt": "2024-11-25T09:00:00.000Z",
+        "nextDueAt": "2025-11-25T09:00:00.000Z",
+        "batchNumber": "VX-95517",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "overdue"
+      },
+      {
+        "id": "pt-2-vac-2",
+        "petId": "pt-2",
+        "name": {
+          "en": "Rabies",
+          "ar": "داء الكلب"
+        },
+        "administeredAt": "2026-03-16T09:00:00.000Z",
+        "nextDueAt": "2027-03-16T09:00:00.000Z",
+        "batchNumber": "VX-57898",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "valid"
+      },
+      {
+        "id": "pt-2-vac-3",
+        "petId": "pt-2",
+        "name": {
+          "en": "Canine Distemper",
+          "ar": "السُّعار الكلبي"
+        },
+        "administeredAt": "2026-05-20T09:00:00.000Z",
+        "nextDueAt": "2027-05-20T09:00:00.000Z",
+        "batchNumber": "VX-89721",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "valid"
+      }
+    ],
+    "visits": [
+      {
+        "id": "pt-2-visit-0",
+        "petId": "pt-2",
+        "date": "2026-01-11T09:00:00.000Z",
+        "type": "vaccination",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-2-visit-1",
+        "petId": "pt-2",
+        "date": "2025-10-26T09:00:00.000Z",
+        "type": "dental",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-2-visit-2",
+        "petId": "pt-2",
+        "date": "2026-06-14T09:00:00.000Z",
+        "type": "checkup",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-2-visit-3",
+        "petId": "pt-2",
+        "date": "2026-03-29T09:00:00.000Z",
+        "type": "telehealth",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-2-visit-4",
+        "petId": "pt-2",
+        "date": "2025-07-07T09:00:00.000Z",
+        "type": "dental",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "prescriptions": [
+      {
+        "id": "pt-2-rx-1",
+        "petId": "pt-2",
+        "consultationId": "cons-1",
+        "issuedAt": "2026-06-27T09:00:00.000Z",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "licenseNumber": "VET-SA-40218",
+        "signed": true,
+        "signatureHash": "sig_398a0dc2",
+        "items": [
+          {
+            "productId": "p-016",
+            "drug": {
+              "en": "Broad-spectrum dewormer",
+              "ar": "علاج ديدان واسع الطيف"
+            },
+            "dose": "1 tablet per 10 kg",
+            "frequency": {
+              "en": "Single dose, repeat in 14 days",
+              "ar": "جرعة واحدة تُكرَّر بعد ١٤ يومًا"
+            },
+            "durationDays": 14
+          },
+          {
+            "productId": "p-011",
+            "drug": {
+              "en": "Digestive probiotic",
+              "ar": "بروبيوتيك للهضم"
+            },
+            "dose": "1 scoop with food",
+            "frequency": {
+              "en": "Once daily",
+              "ar": "مرة يوميًا"
+            },
+            "durationDays": 21
+          }
+        ],
+        "notes": {
+          "en": "Recheck stool sample after two weeks.",
+          "ar": "إعادة فحص عينة البراز بعد أسبوعين."
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "labs": [
+      {
+        "id": "pt-2-lab-1",
+        "petId": "pt-2",
+        "name": {
+          "en": "Complete blood count",
+          "ar": "صورة دم كاملة"
+        },
+        "performedAt": "2026-06-11T09:00:00.000Z",
+        "lab": {
+          "en": "Aleef Diagnostics",
+          "ar": "مختبرات أليف"
+        },
+        "summary": {
+          "en": "All values within reference range.",
+          "ar": "جميع القيم ضمن المعدل الطبيعي."
+        },
+        "values": [
+          {
+            "label": {
+              "en": "Haemoglobin",
+              "ar": "الهيموغلوبين"
+            },
+            "value": "13.4 g/dL",
+            "range": "12–18",
+            "flag": "normal"
+          },
+          {
+            "label": {
+              "en": "White blood cells",
+              "ar": "كريات الدم البيضاء"
+            },
+            "value": "9.1 ×10⁹/L",
+            "range": "5.5–19.5",
+            "flag": "normal"
+          },
+          {
+            "label": {
+              "en": "Creatinine",
+              "ar": "الكرياتينين"
+            },
+            "value": "1.8 mg/dL",
+            "range": "0.8–1.8",
+            "flag": "high"
+          }
+        ],
+        "source": "vet_verified"
+      }
+    ],
+    "allergies": [
+      {
+        "id": "pt-2-allergy-1",
+        "petId": "pt-2",
+        "allergen": {
+          "en": "Chicken protein",
+          "ar": "بروتين الدجاج"
+        },
+        "severity": "moderate",
+        "reaction": {
+          "en": "Itching and mild skin redness",
+          "ar": "حكة واحمرار بسيط في الجلد"
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "weightHistory": [
+      {
+        "date": "2025-09-13T09:00:00.000Z",
+        "weightKg": 3.45
+      },
+      {
+        "date": "2025-10-28T09:00:00.000Z",
+        "weightKg": 3.91
+      },
+      {
+        "date": "2025-12-12T09:00:00.000Z",
+        "weightKg": 4.08
+      },
+      {
+        "date": "2026-01-26T09:00:00.000Z",
+        "weightKg": 3.93
+      },
+      {
+        "date": "2026-03-12T09:00:00.000Z",
+        "weightKg": 4.11
+      },
+      {
+        "date": "2026-04-26T09:00:00.000Z",
+        "weightKg": 3.96
+      },
+      {
+        "date": "2026-06-10T09:00:00.000Z",
+        "weightKg": 4.13
+      },
+      {
+        "date": "2026-07-25T09:00:00.000Z",
+        "weightKg": 3.99
+      }
+    ],
+    "chronicConditions": []
+  },
+  {
+    "petId": "pt-3",
+    "vaccinations": [
+      {
+        "id": "pt-3-vac-0",
+        "petId": "pt-3",
+        "name": {
+          "en": "Feline Calicivirus",
+          "ar": "الكاليسي الفيروسي"
+        },
+        "administeredAt": "2025-06-20T09:00:00.000Z",
+        "nextDueAt": "2026-06-20T09:00:00.000Z",
+        "batchNumber": "VX-64459",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "overdue"
+      },
+      {
+        "id": "pt-3-vac-1",
+        "petId": "pt-3",
+        "name": {
+          "en": "Leptospirosis",
+          "ar": "اللبتوسبيرا"
+        },
+        "administeredAt": "2025-04-16T09:00:00.000Z",
+        "nextDueAt": "2026-04-16T09:00:00.000Z",
+        "batchNumber": "VX-26840",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "overdue"
+      },
+      {
+        "id": "pt-3-vac-2",
+        "petId": "pt-3",
+        "name": {
+          "en": "Rabies",
+          "ar": "داء الكلب"
+        },
+        "administeredAt": "2025-02-10T09:00:00.000Z",
+        "nextDueAt": "2026-02-10T09:00:00.000Z",
+        "batchNumber": "VX-49697",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "overdue"
+      },
+      {
+        "id": "pt-3-vac-3",
+        "petId": "pt-3",
+        "name": {
+          "en": "Canine Distemper",
+          "ar": "السُّعار الكلبي"
+        },
+        "administeredAt": "2024-12-07T09:00:00.000Z",
+        "nextDueAt": "2025-12-07T09:00:00.000Z",
+        "batchNumber": "VX-12078",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "overdue"
+      }
+    ],
+    "visits": [
+      {
+        "id": "pt-3-visit-0",
+        "petId": "pt-3",
+        "date": "2026-03-15T09:00:00.000Z",
+        "type": "telehealth",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-3-visit-1",
+        "petId": "pt-3",
+        "date": "2025-12-28T09:00:00.000Z",
+        "type": "checkup",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "prescriptions": [
+      {
+        "id": "pt-3-rx-1",
+        "petId": "pt-3",
+        "consultationId": "cons-1",
+        "issuedAt": "2026-07-02T09:00:00.000Z",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "licenseNumber": "VET-SA-40218",
+        "signed": true,
+        "signatureHash": "sig_3a8a0f55",
+        "items": [
+          {
+            "productId": "p-016",
+            "drug": {
+              "en": "Broad-spectrum dewormer",
+              "ar": "علاج ديدان واسع الطيف"
+            },
+            "dose": "1 tablet per 10 kg",
+            "frequency": {
+              "en": "Single dose, repeat in 14 days",
+              "ar": "جرعة واحدة تُكرَّر بعد ١٤ يومًا"
+            },
+            "durationDays": 14
+          },
+          {
+            "productId": "p-011",
+            "drug": {
+              "en": "Digestive probiotic",
+              "ar": "بروبيوتيك للهضم"
+            },
+            "dose": "1 scoop with food",
+            "frequency": {
+              "en": "Once daily",
+              "ar": "مرة يوميًا"
+            },
+            "durationDays": 21
+          }
+        ],
+        "notes": {
+          "en": "Recheck stool sample after two weeks.",
+          "ar": "إعادة فحص عينة البراز بعد أسبوعين."
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "labs": [
+      {
+        "id": "pt-3-lab-1",
+        "petId": "pt-3",
+        "name": {
+          "en": "Complete blood count",
+          "ar": "صورة دم كاملة"
+        },
+        "performedAt": "2026-04-03T09:00:00.000Z",
+        "lab": {
+          "en": "Aleef Diagnostics",
+          "ar": "مختبرات أليف"
+        },
+        "summary": {
+          "en": "All values within reference range.",
+          "ar": "جميع القيم ضمن المعدل الطبيعي."
+        },
+        "values": [
+          {
+            "label": {
+              "en": "Haemoglobin",
+              "ar": "الهيموغلوبين"
+            },
+            "value": "13.4 g/dL",
+            "range": "12–18",
+            "flag": "normal"
+          },
+          {
+            "label": {
+              "en": "White blood cells",
+              "ar": "كريات الدم البيضاء"
+            },
+            "value": "9.1 ×10⁹/L",
+            "range": "5.5–19.5",
+            "flag": "normal"
+          },
+          {
+            "label": {
+              "en": "Creatinine",
+              "ar": "الكرياتينين"
+            },
+            "value": "1.8 mg/dL",
+            "range": "0.8–1.8",
+            "flag": "high"
+          }
+        ],
+        "source": "vet_verified"
+      }
+    ],
+    "allergies": [
+      {
+        "id": "pt-3-allergy-1",
+        "petId": "pt-3",
+        "allergen": {
+          "en": "Chicken protein",
+          "ar": "بروتين الدجاج"
+        },
+        "severity": "moderate",
+        "reaction": {
+          "en": "Itching and mild skin redness",
+          "ar": "حكة واحمرار بسيط في الجلد"
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "weightHistory": [
+      {
+        "date": "2025-09-13T09:00:00.000Z",
+        "weightKg": 27.23
+      },
+      {
+        "date": "2025-10-28T09:00:00.000Z",
+        "weightKg": 27.49
+      },
+      {
+        "date": "2025-12-12T09:00:00.000Z",
+        "weightKg": 28.35
+      },
+      {
+        "date": "2026-01-26T09:00:00.000Z",
+        "weightKg": 29.21
+      },
+      {
+        "date": "2026-03-12T09:00:00.000Z",
+        "weightKg": 29.47
+      },
+      {
+        "date": "2026-04-26T09:00:00.000Z",
+        "weightKg": 30.32
+      },
+      {
+        "date": "2026-06-10T09:00:00.000Z",
+        "weightKg": 30.58
+      },
+      {
+        "date": "2026-07-25T09:00:00.000Z",
+        "weightKg": 31.44
+      }
+    ],
+    "chronicConditions": []
+  },
+  {
+    "petId": "pt-4",
+    "vaccinations": [
+      {
+        "id": "pt-4-vac-0",
+        "petId": "pt-4",
+        "name": {
+          "en": "Parvovirus",
+          "ar": "البارفو"
+        },
+        "administeredAt": "2025-07-17T09:00:00.000Z",
+        "nextDueAt": "2026-07-17T09:00:00.000Z",
+        "batchNumber": "VX-66626",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "overdue"
+      },
+      {
+        "id": "pt-4-vac-1",
+        "petId": "pt-4",
+        "name": {
+          "en": "Canine Distemper",
+          "ar": "السُّعار الكلبي"
+        },
+        "administeredAt": "2025-05-13T09:00:00.000Z",
+        "nextDueAt": "2026-05-13T09:00:00.000Z",
+        "batchNumber": "VX-14245",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "overdue"
+      }
+    ],
+    "visits": [
+      {
+        "id": "pt-4-visit-0",
+        "petId": "pt-4",
+        "date": "2026-02-02T09:00:00.000Z",
+        "type": "vaccination",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-4-visit-1",
+        "petId": "pt-4",
+        "date": "2025-11-17T09:00:00.000Z",
+        "type": "telehealth",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-4-visit-2",
+        "petId": "pt-4",
+        "date": "2025-09-01T09:00:00.000Z",
+        "type": "checkup",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "prescriptions": [],
+    "labs": [],
+    "allergies": [
+      {
+        "id": "pt-4-allergy-1",
+        "petId": "pt-4",
+        "allergen": {
+          "en": "Chicken protein",
+          "ar": "بروتين الدجاج"
+        },
+        "severity": "moderate",
+        "reaction": {
+          "en": "Itching and mild skin redness",
+          "ar": "حكة واحمرار بسيط في الجلد"
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "weightHistory": [
+      {
+        "date": "2025-09-13T09:00:00.000Z",
+        "weightKg": 0.4
+      },
+      {
+        "date": "2025-10-28T09:00:00.000Z",
+        "weightKg": 0.63
+      },
+      {
+        "date": "2025-12-12T09:00:00.000Z",
+        "weightKg": 0.27
+      },
+      {
+        "date": "2026-01-26T09:00:00.000Z",
+        "weightKg": 0.5
+      },
+      {
+        "date": "2026-03-12T09:00:00.000Z",
+        "weightKg": 0.14
+      },
+      {
+        "date": "2026-04-26T09:00:00.000Z",
+        "weightKg": 0.38
+      },
+      {
+        "date": "2026-06-10T09:00:00.000Z",
+        "weightKg": 0.62
+      },
+      {
+        "date": "2026-07-25T09:00:00.000Z",
+        "weightKg": 0.26
+      }
+    ],
+    "chronicConditions": [
+      {
+        "en": "Mild seasonal dermatitis",
+        "ar": "التهاب جلدي موسمي خفيف"
+      }
+    ]
+  },
+  {
+    "petId": "pt-5",
+    "vaccinations": [
+      {
+        "id": "pt-5-vac-0",
+        "petId": "pt-5",
+        "name": {
+          "en": "Canine Distemper",
+          "ar": "السُّعار الكلبي"
+        },
+        "administeredAt": "2026-06-13T09:00:00.000Z",
+        "nextDueAt": "2027-06-13T09:00:00.000Z",
+        "batchNumber": "VX-50637",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "valid"
+      },
+      {
+        "id": "pt-5-vac-1",
+        "petId": "pt-5",
+        "name": {
+          "en": "Feline Calicivirus",
+          "ar": "الكاليسي الفيروسي"
+        },
+        "administeredAt": "2024-10-15T09:00:00.000Z",
+        "nextDueAt": "2025-10-15T09:00:00.000Z",
+        "batchNumber": "VX-13018",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "overdue"
+      },
+      {
+        "id": "pt-5-vac-2",
+        "petId": "pt-5",
+        "name": {
+          "en": "Feline Panleukopenia (FPV)",
+          "ar": "التهاب الأمعاء الفيروسي"
+        },
+        "administeredAt": "2026-02-03T09:00:00.000Z",
+        "nextDueAt": "2027-02-03T09:00:00.000Z",
+        "batchNumber": "VX-65399",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "valid"
+      },
+      {
+        "id": "pt-5-vac-3",
+        "petId": "pt-5",
+        "name": {
+          "en": "Rabies",
+          "ar": "داء الكلب"
+        },
+        "administeredAt": "2026-04-09T09:00:00.000Z",
+        "nextDueAt": "2027-04-09T09:00:00.000Z",
+        "batchNumber": "VX-27780",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "valid"
+      }
+    ],
+    "visits": [
+      {
+        "id": "pt-5-visit-0",
+        "petId": "pt-5",
+        "date": "2026-04-04T09:00:00.000Z",
+        "type": "telehealth",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-5-visit-1",
+        "petId": "pt-5",
+        "date": "2026-06-20T09:00:00.000Z",
+        "type": "vaccination",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-5-visit-2",
+        "petId": "pt-5",
+        "date": "2025-04-27T09:00:00.000Z",
+        "type": "dental",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-5-visit-3",
+        "petId": "pt-5",
+        "date": "2025-07-13T09:00:00.000Z",
+        "type": "emergency",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "prescriptions": [
+      {
+        "id": "pt-5-rx-1",
+        "petId": "pt-5",
+        "consultationId": "cons-1",
+        "issuedAt": "2026-05-23T09:00:00.000Z",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "licenseNumber": "VET-SA-40218",
+        "signed": true,
+        "signatureHash": "sig_348a05e3",
+        "items": [
+          {
+            "productId": "p-016",
+            "drug": {
+              "en": "Broad-spectrum dewormer",
+              "ar": "علاج ديدان واسع الطيف"
+            },
+            "dose": "1 tablet per 10 kg",
+            "frequency": {
+              "en": "Single dose, repeat in 14 days",
+              "ar": "جرعة واحدة تُكرَّر بعد ١٤ يومًا"
+            },
+            "durationDays": 14
+          },
+          {
+            "productId": "p-011",
+            "drug": {
+              "en": "Digestive probiotic",
+              "ar": "بروبيوتيك للهضم"
+            },
+            "dose": "1 scoop with food",
+            "frequency": {
+              "en": "Once daily",
+              "ar": "مرة يوميًا"
+            },
+            "durationDays": 21
+          }
+        ],
+        "notes": {
+          "en": "Recheck stool sample after two weeks.",
+          "ar": "إعادة فحص عينة البراز بعد أسبوعين."
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "labs": [
+      {
+        "id": "pt-5-lab-1",
+        "petId": "pt-5",
+        "name": {
+          "en": "Complete blood count",
+          "ar": "صورة دم كاملة"
+        },
+        "performedAt": "2026-06-11T09:00:00.000Z",
+        "lab": {
+          "en": "Aleef Diagnostics",
+          "ar": "مختبرات أليف"
+        },
+        "summary": {
+          "en": "All values within reference range.",
+          "ar": "جميع القيم ضمن المعدل الطبيعي."
+        },
+        "values": [
+          {
+            "label": {
+              "en": "Haemoglobin",
+              "ar": "الهيموغلوبين"
+            },
+            "value": "13.4 g/dL",
+            "range": "12–18",
+            "flag": "normal"
+          },
+          {
+            "label": {
+              "en": "White blood cells",
+              "ar": "كريات الدم البيضاء"
+            },
+            "value": "9.1 ×10⁹/L",
+            "range": "5.5–19.5",
+            "flag": "normal"
+          },
+          {
+            "label": {
+              "en": "Creatinine",
+              "ar": "الكرياتينين"
+            },
+            "value": "1.8 mg/dL",
+            "range": "0.8–1.8",
+            "flag": "high"
+          }
+        ],
+        "source": "vet_verified"
+      }
+    ],
+    "allergies": [],
+    "weightHistory": [
+      {
+        "date": "2025-09-13T09:00:00.000Z",
+        "weightKg": 16.65
+      },
+      {
+        "date": "2025-10-28T09:00:00.000Z",
+        "weightKg": 16.66
+      },
+      {
+        "date": "2025-12-12T09:00:00.000Z",
+        "weightKg": 17.56
+      },
+      {
+        "date": "2026-01-26T09:00:00.000Z",
+        "weightKg": 17.57
+      },
+      {
+        "date": "2026-03-12T09:00:00.000Z",
+        "weightKg": 17.87
+      },
+      {
+        "date": "2026-04-26T09:00:00.000Z",
+        "weightKg": 18.48
+      },
+      {
+        "date": "2026-06-10T09:00:00.000Z",
+        "weightKg": 18.78
+      },
+      {
+        "date": "2026-07-25T09:00:00.000Z",
+        "weightKg": 19.39
+      }
+    ],
+    "chronicConditions": []
+  },
+  {
+    "petId": "pt-6",
+    "vaccinations": [
+      {
+        "id": "pt-6-vac-0",
+        "petId": "pt-6",
+        "name": {
+          "en": "Canine Distemper",
+          "ar": "السُّعار الكلبي"
+        },
+        "administeredAt": "2025-10-09T09:00:00.000Z",
+        "nextDueAt": "2026-10-09T09:00:00.000Z",
+        "batchNumber": "VX-16348",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "valid"
+      },
+      {
+        "id": "pt-6-vac-1",
+        "petId": "pt-6",
+        "name": {
+          "en": "Feline Calicivirus",
+          "ar": "الكاليسي الفيروسي"
+        },
+        "administeredAt": "2025-12-13T09:00:00.000Z",
+        "nextDueAt": "2026-12-13T09:00:00.000Z",
+        "batchNumber": "VX-68729",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "valid"
+      },
+      {
+        "id": "pt-6-vac-2",
+        "petId": "pt-6",
+        "name": {
+          "en": "Feline Panleukopenia (FPV)",
+          "ar": "التهاب الأمعاء الفيروسي"
+        },
+        "administeredAt": "2025-06-01T09:00:00.000Z",
+        "nextDueAt": "2026-06-01T09:00:00.000Z",
+        "batchNumber": "VX-31110",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "overdue"
+      },
+      {
+        "id": "pt-6-vac-3",
+        "petId": "pt-6",
+        "name": {
+          "en": "Rabies",
+          "ar": "داء الكلب"
+        },
+        "administeredAt": "2025-08-05T09:00:00.000Z",
+        "nextDueAt": "2026-08-05T09:00:00.000Z",
+        "batchNumber": "VX-83491",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "clinic": {
+          "en": "Aleef Veterinary Clinic",
+          "ar": "عيادة أليف البيطرية"
+        },
+        "source": "vet_verified",
+        "status": "due_soon"
+      }
+    ],
+    "visits": [
+      {
+        "id": "pt-6-visit-0",
+        "petId": "pt-6",
+        "date": "2026-06-20T09:00:00.000Z",
+        "type": "vaccination",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-6-visit-1",
+        "petId": "pt-6",
+        "date": "2025-04-27T09:00:00.000Z",
+        "type": "dental",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-6-visit-2",
+        "petId": "pt-6",
+        "date": "2026-01-17T09:00:00.000Z",
+        "type": "checkup",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-6-visit-3",
+        "petId": "pt-6",
+        "date": "2026-04-04T09:00:00.000Z",
+        "type": "telehealth",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      },
+      {
+        "id": "pt-6-visit-4",
+        "petId": "pt-6",
+        "date": "2025-12-14T09:00:00.000Z",
+        "type": "telehealth",
+        "reason": {
+          "en": "Routine wellness examination",
+          "ar": "فحص دوري للاطمئنان"
+        },
+        "diagnosis": {
+          "en": "Healthy — no abnormalities detected",
+          "ar": "سليم — لا توجد ملاحظات مرضية"
+        },
+        "treatment": {
+          "en": "Weight monitoring and dental cleaning advised",
+          "ar": "يوصى بمتابعة الوزن وتنظيف الأسنان"
+        },
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "prescriptions": [
+      {
+        "id": "pt-6-rx-1",
+        "petId": "pt-6",
+        "consultationId": "cons-1",
+        "issuedAt": "2026-07-19T09:00:00.000Z",
+        "vetId": "v-1",
+        "vetName": {
+          "en": "Dr. Yasmin Farouk",
+          "ar": "د. ياسمين فاروق"
+        },
+        "licenseNumber": "VET-SA-40218",
+        "signed": true,
+        "signatureHash": "sig_358a0776",
+        "items": [
+          {
+            "productId": "p-016",
+            "drug": {
+              "en": "Broad-spectrum dewormer",
+              "ar": "علاج ديدان واسع الطيف"
+            },
+            "dose": "1 tablet per 10 kg",
+            "frequency": {
+              "en": "Single dose, repeat in 14 days",
+              "ar": "جرعة واحدة تُكرَّر بعد ١٤ يومًا"
+            },
+            "durationDays": 14
+          },
+          {
+            "productId": "p-011",
+            "drug": {
+              "en": "Digestive probiotic",
+              "ar": "بروبيوتيك للهضم"
+            },
+            "dose": "1 scoop with food",
+            "frequency": {
+              "en": "Once daily",
+              "ar": "مرة يوميًا"
+            },
+            "durationDays": 21
+          }
+        ],
+        "notes": {
+          "en": "Recheck stool sample after two weeks.",
+          "ar": "إعادة فحص عينة البراز بعد أسبوعين."
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "labs": [
+      {
+        "id": "pt-6-lab-1",
+        "petId": "pt-6",
+        "name": {
+          "en": "Complete blood count",
+          "ar": "صورة دم كاملة"
+        },
+        "performedAt": "2026-06-18T09:00:00.000Z",
+        "lab": {
+          "en": "Aleef Diagnostics",
+          "ar": "مختبرات أليف"
+        },
+        "summary": {
+          "en": "All values within reference range.",
+          "ar": "جميع القيم ضمن المعدل الطبيعي."
+        },
+        "values": [
+          {
+            "label": {
+              "en": "Haemoglobin",
+              "ar": "الهيموغلوبين"
+            },
+            "value": "13.4 g/dL",
+            "range": "12–18",
+            "flag": "normal"
+          },
+          {
+            "label": {
+              "en": "White blood cells",
+              "ar": "كريات الدم البيضاء"
+            },
+            "value": "9.1 ×10⁹/L",
+            "range": "5.5–19.5",
+            "flag": "normal"
+          },
+          {
+            "label": {
+              "en": "Creatinine",
+              "ar": "الكرياتينين"
+            },
+            "value": "1.8 mg/dL",
+            "range": "0.8–1.8",
+            "flag": "high"
+          }
+        ],
+        "source": "vet_verified"
+      }
+    ],
+    "allergies": [
+      {
+        "id": "pt-6-allergy-1",
+        "petId": "pt-6",
+        "allergen": {
+          "en": "Chicken protein",
+          "ar": "بروتين الدجاج"
+        },
+        "severity": "moderate",
+        "reaction": {
+          "en": "Itching and mild skin redness",
+          "ar": "حكة واحمرار بسيط في الجلد"
+        },
+        "source": "vet_verified"
+      }
+    ],
+    "weightHistory": [
+      {
+        "date": "2025-09-13T09:00:00.000Z",
+        "weightKg": 4.89
+      },
+      {
+        "date": "2025-10-28T09:00:00.000Z",
+        "weightKg": 4.63
+      },
+      {
+        "date": "2025-12-12T09:00:00.000Z",
+        "weightKg": 4.65
+      },
+      {
+        "date": "2026-01-26T09:00:00.000Z",
+        "weightKg": 4.99
+      },
+      {
+        "date": "2026-03-12T09:00:00.000Z",
+        "weightKg": 5.05
+      },
+      {
+        "date": "2026-04-26T09:00:00.000Z",
+        "weightKg": 4.99
+      },
+      {
+        "date": "2026-06-10T09:00:00.000Z",
+        "weightKg": 5.4
+      },
+      {
+        "date": "2026-07-25T09:00:00.000Z",
+        "weightKg": 5.14
+      }
+    ],
+    "chronicConditions": []
+  }
+]

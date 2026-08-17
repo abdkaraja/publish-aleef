@@ -1,0 +1,226 @@
+[
+  {
+    "id": "po-1",
+    "reference": "PO-2026-1200",
+    "supplierId": "sup-1",
+    "productIds": [
+      "p-028",
+      "p-035",
+      "p-042"
+    ],
+    "quantity": 134,
+    "total": 12328,
+    "createdAt": "2026-07-11T09:00:00.000Z",
+    "expectedAt": "2026-08-18T09:00:00.000Z",
+    "status": "sent",
+    "auto": true
+  },
+  {
+    "id": "po-2",
+    "reference": "PO-2026-1201",
+    "supplierId": "sup-2",
+    "productIds": [
+      "p-008",
+      "p-015",
+      "p-063"
+    ],
+    "quantity": 306,
+    "total": 5508,
+    "createdAt": "2026-07-14T09:00:00.000Z",
+    "expectedAt": "2026-08-03T09:00:00.000Z",
+    "status": "confirmed",
+    "auto": false
+  },
+  {
+    "id": "po-3",
+    "reference": "PO-2026-1202",
+    "supplierId": "sup-3",
+    "productIds": [
+      "p-040",
+      "p-033",
+      "p-017"
+    ],
+    "quantity": 215,
+    "total": 13545,
+    "createdAt": "2026-07-13T09:00:00.000Z",
+    "expectedAt": "2026-08-02T09:00:00.000Z",
+    "status": "received",
+    "auto": false
+  },
+  {
+    "id": "po-4",
+    "reference": "PO-2026-1203",
+    "supplierId": "sup-4",
+    "productIds": [
+      "p-025",
+      "p-032",
+      "p-039"
+    ],
+    "quantity": 49,
+    "total": 3136,
+    "createdAt": "2026-06-18T09:00:00.000Z",
+    "expectedAt": "2026-08-02T09:00:00.000Z",
+    "status": "draft",
+    "auto": true
+  },
+  {
+    "id": "po-5",
+    "reference": "PO-2026-1204",
+    "supplierId": "sup-5",
+    "productIds": [
+      "p-054",
+      "p-047",
+      "p-040"
+    ],
+    "quantity": 125,
+    "total": 8750,
+    "createdAt": "2026-07-17T09:00:00.000Z",
+    "expectedAt": "2026-08-11T09:00:00.000Z",
+    "status": "sent",
+    "auto": false
+  },
+  {
+    "id": "po-6",
+    "reference": "PO-2026-1205",
+    "supplierId": "sup-1",
+    "productIds": [
+      "p-060",
+      "p-067",
+      "p-046"
+    ],
+    "quantity": 94,
+    "total": 6580,
+    "createdAt": "2026-06-08T09:00:00.000Z",
+    "expectedAt": "2026-08-02T09:00:00.000Z",
+    "status": "confirmed",
+    "auto": false
+  },
+  {
+    "id": "po-7",
+    "reference": "PO-2026-1206",
+    "supplierId": "sup-2",
+    "productIds": [
+      "p-057",
+      "p-050",
+      "p-002"
+    ],
+    "quantity": 287,
+    "total": 22099,
+    "createdAt": "2026-07-15T09:00:00.000Z",
+    "expectedAt": "2026-08-18T09:00:00.000Z",
+    "status": "sent",
+    "auto": true
+  },
+  {
+    "id": "po-8",
+    "reference": "PO-2026-1207",
+    "supplierId": "sup-3",
+    "productIds": [
+      "p-042",
+      "p-049",
+      "p-056"
+    ],
+    "quantity": 90,
+    "total": 6840,
+    "createdAt": "2026-07-04T09:00:00.000Z",
+    "expectedAt": "2026-08-17T09:00:00.000Z",
+    "status": "draft",
+    "auto": false
+  },
+  {
+    "id": "po-9",
+    "reference": "PO-2026-1208",
+    "supplierId": "sup-4",
+    "productIds": [
+      "p-048",
+      "p-041",
+      "p-034"
+    ],
+    "quantity": 146,
+    "total": 7446,
+    "createdAt": "2026-07-17T09:00:00.000Z",
+    "expectedAt": "2026-08-04T09:00:00.000Z",
+    "status": "sent",
+    "auto": false
+  },
+  {
+    "id": "po-10",
+    "reference": "PO-2026-1209",
+    "supplierId": "sup-5",
+    "productIds": [
+      "p-022",
+      "p-015",
+      "p-036"
+    ],
+    "quantity": 205,
+    "total": 13325,
+    "createdAt": "2026-07-10T09:00:00.000Z",
+    "expectedAt": "2026-07-27T09:00:00.000Z",
+    "status": "confirmed",
+    "auto": true
+  },
+  {
+    "id": "po-11",
+    "reference": "PO-2026-1210",
+    "supplierId": "sup-1",
+    "productIds": [
+      "p-036",
+      "p-029",
+      "p-050"
+    ],
+    "quantity": 277,
+    "total": 22437,
+    "createdAt": "2026-07-14T09:00:00.000Z",
+    "expectedAt": "2026-08-01T09:00:00.000Z",
+    "status": "confirmed",
+    "auto": false
+  },
+  {
+    "id": "po-12",
+    "reference": "PO-2026-1211",
+    "supplierId": "sup-2",
+    "productIds": [
+      "p-042",
+      "p-049",
+      "p-056"
+    ],
+    "quantity": 67,
+    "total": 3551,
+    "createdAt": "2026-07-13T09:00:00.000Z",
+    "expectedAt": "2026-08-02T09:00:00.000Z",
+    "status": "received",
+    "auto": false
+  },
+  {
+    "id": "po-13",
+    "reference": "PO-2026-1212",
+    "supplierId": "sup-3",
+    "productIds": [
+      "p-017",
+      "p-024",
+      "p-031"
+    ],
+    "quantity": 381,
+    "total": 12573,
+    "createdAt": "2026-06-10T09:00:00.000Z",
+    "expectedAt": "2026-08-16T09:00:00.000Z",
+    "status": "draft",
+    "auto": true
+  },
+  {
+    "id": "po-14",
+    "reference": "PO-2026-1213",
+    "supplierId": "sup-4",
+    "productIds": [
+      "p-032",
+      "p-025",
+      "p-046"
+    ],
+    "quantity": 279,
+    "total": 9765,
+    "createdAt": "2026-07-11T09:00:00.000Z",
+    "expectedAt": "2026-08-09T09:00:00.000Z",
+    "status": "sent",
+    "auto": false
+  }
+]

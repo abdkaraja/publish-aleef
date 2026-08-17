@@ -1,0 +1,1 @@
+function o(t,e){if(!e||e<0)return "\u2014";if(e<12)return t.t("pet.ageMonths",{count:e});let i=Math.floor(e/12),r=e%12,n=t.t("pet.ageYears",{count:i});return r?`${n} ${t.t("pet.ageMonths",{count:r})}`:n}var s={cat:"cat",dog:"dog",bird:"bird",fish:"fish",rabbit:"rabbit",reptile:"paw",hamster:"paw",horse:"paw"};export{o,s};

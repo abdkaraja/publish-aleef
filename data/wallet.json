@@ -1,0 +1,132 @@
+[
+  {
+    "id": "wt-1",
+    "customerId": "u-001",
+    "amount": 572,
+    "direction": "escrow_hold",
+    "description": {
+      "en": "Boarding booking BD-7301",
+      "ar": "حجز إيواء BD-7301"
+    },
+    "createdAt": "2026-03-03T09:00:00.000Z",
+    "reference": "WT-6100",
+    "status": "completed"
+  },
+  {
+    "id": "wt-2",
+    "customerId": "u-001",
+    "amount": 105,
+    "direction": "escrow_release",
+    "description": {
+      "en": "Boarding booking BD-7301",
+      "ar": "حجز إيواء BD-7301"
+    },
+    "createdAt": "2026-03-30T09:00:00.000Z",
+    "reference": "WT-6101",
+    "status": "completed"
+  },
+  {
+    "id": "wt-3",
+    "customerId": "u-001",
+    "amount": 630,
+    "direction": "credit",
+    "description": {
+      "en": "Boarding booking BD-7301",
+      "ar": "حجز إيواء BD-7301"
+    },
+    "createdAt": "2026-06-19T09:00:00.000Z",
+    "reference": "WT-6102",
+    "status": "completed"
+  },
+  {
+    "id": "wt-4",
+    "customerId": "u-001",
+    "amount": 163,
+    "direction": "escrow_release",
+    "description": {
+      "en": "Boarding booking BD-7301",
+      "ar": "حجز إيواء BD-7301"
+    },
+    "createdAt": "2026-04-09T09:00:00.000Z",
+    "reference": "WT-6103",
+    "status": "completed"
+  },
+  {
+    "id": "wt-5",
+    "customerId": "u-001",
+    "amount": 688,
+    "direction": "escrow_hold",
+    "description": {
+      "en": "Boarding booking BD-7301",
+      "ar": "حجز إيواء BD-7301"
+    },
+    "createdAt": "2026-06-21T09:00:00.000Z",
+    "reference": "WT-6104",
+    "status": "completed"
+  },
+  {
+    "id": "wt-6",
+    "customerId": "u-001",
+    "amount": 221,
+    "direction": "debit",
+    "description": {
+      "en": "Boarding booking BD-7301",
+      "ar": "حجز إيواء BD-7301"
+    },
+    "createdAt": "2026-03-02T09:00:00.000Z",
+    "reference": "WT-6105",
+    "status": "completed"
+  },
+  {
+    "id": "wt-7",
+    "customerId": "u-001",
+    "amount": 746,
+    "direction": "credit",
+    "description": {
+      "en": "Boarding booking BD-7301",
+      "ar": "حجز إيواء BD-7301"
+    },
+    "createdAt": "2026-06-23T09:00:00.000Z",
+    "reference": "WT-6106",
+    "status": "completed"
+  },
+  {
+    "id": "wt-8",
+    "customerId": "u-001",
+    "amount": 279,
+    "direction": "escrow_release",
+    "description": {
+      "en": "Boarding booking BD-7301",
+      "ar": "حجز إيواء BD-7301"
+    },
+    "createdAt": "2026-05-03T09:00:00.000Z",
+    "reference": "WT-6107",
+    "status": "completed"
+  },
+  {
+    "id": "wt-9",
+    "customerId": "u-001",
+    "amount": 804,
+    "direction": "escrow_hold",
+    "description": {
+      "en": "Boarding booking BD-7301",
+      "ar": "حجز إيواء BD-7301"
+    },
+    "createdAt": "2026-07-05T09:00:00.000Z",
+    "reference": "WT-6108",
+    "status": "completed"
+  },
+  {
+    "id": "wt-10",
+    "customerId": "u-001",
+    "amount": 337,
+    "direction": "escrow_release",
+    "description": {
+      "en": "Boarding booking BD-7301",
+      "ar": "حجز إيواء BD-7301"
+    },
+    "createdAt": "2026-05-25T09:00:00.000Z",
+    "reference": "WT-6109",
+    "status": "completed"
+  }
+]

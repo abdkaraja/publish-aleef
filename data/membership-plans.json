@@ -1,0 +1,147 @@
+[
+  {
+    "id": "mp-1",
+    "slug": "care-basic",
+    "name": {
+      "en": "Care Basic",
+      "ar": "العناية الأساسية"
+    },
+    "tagline": {
+      "en": "For one healthy companion",
+      "ar": "لرفيق واحد بصحة جيدة"
+    },
+    "monthlyPrice": 39,
+    "annualPrice": 390,
+    "currency": "SAR",
+    "tier": "bronze",
+    "benefits": [
+      {
+        "en": "Free delivery on every order",
+        "ar": "توصيل مجاني على كل طلب"
+      },
+      {
+        "en": "5% off the whole store",
+        "ar": "خصم ٥٪ على المتجر بالكامل"
+      },
+      {
+        "en": "1 free chat consultation monthly",
+        "ar": "استشارة نصية مجانية شهريًا"
+      },
+      {
+        "en": "Smart reminders for every pet",
+        "ar": "تذكيرات ذكية لكل حيوان"
+      }
+    ],
+    "perks": {
+      "freeShipping": true,
+      "storeDiscountPercent": 5,
+      "freeConsultationsMonthly": 1,
+      "groomingDiscountPercent": 5,
+      "boardingDiscountPercent": 0,
+      "pointsMultiplier": 1.25,
+      "prioritySupport": false
+    },
+    "subscriberCount": 1840
+  },
+  {
+    "id": "mp-2",
+    "slug": "care-plus",
+    "name": {
+      "en": "Care Plus",
+      "ar": "العناية بلس"
+    },
+    "tagline": {
+      "en": "Our most popular family plan",
+      "ar": "الأكثر اختيارًا للعائلات"
+    },
+    "monthlyPrice": 79,
+    "annualPrice": 790,
+    "currency": "SAR",
+    "tier": "silver",
+    "benefits": [
+      {
+        "en": "Everything in Care Basic",
+        "ar": "كل مزايا العناية الأساسية"
+      },
+      {
+        "en": "10% off the whole store",
+        "ar": "خصم ١٠٪ على المتجر بالكامل"
+      },
+      {
+        "en": "3 free consultations monthly (chat or video)",
+        "ar": "ثلاث استشارات مجانية شهريًا"
+      },
+      {
+        "en": "15% off grooming and boarding",
+        "ar": "خصم ١٥٪ على العناية والإيواء"
+      },
+      {
+        "en": "Double loyalty points",
+        "ar": "مضاعفة نقاط الولاء"
+      }
+    ],
+    "perks": {
+      "freeShipping": true,
+      "storeDiscountPercent": 10,
+      "freeConsultationsMonthly": 3,
+      "groomingDiscountPercent": 15,
+      "boardingDiscountPercent": 15,
+      "pointsMultiplier": 2,
+      "prioritySupport": true
+    },
+    "recommended": true,
+    "subscriberCount": 3260
+  },
+  {
+    "id": "mp-3",
+    "slug": "care-premium",
+    "name": {
+      "en": "Care Premium",
+      "ar": "العناية المميزة"
+    },
+    "tagline": {
+      "en": "Unlimited peace of mind",
+      "ar": "راحة بال بلا حدود"
+    },
+    "monthlyPrice": 149,
+    "annualPrice": 1490,
+    "currency": "SAR",
+    "tier": "gold",
+    "benefits": [
+      {
+        "en": "Everything in Care Plus",
+        "ar": "كل مزايا العناية بلس"
+      },
+      {
+        "en": "15% off the whole store",
+        "ar": "خصم ١٥٪ على المتجر بالكامل"
+      },
+      {
+        "en": "Unlimited chat consultations",
+        "ar": "استشارات نصية غير محدودة"
+      },
+      {
+        "en": "25% off grooming and boarding",
+        "ar": "خصم ٢٥٪ على العناية والإيواء"
+      },
+      {
+        "en": "Annual health screening included",
+        "ar": "فحص صحي سنوي مشمول"
+      },
+      {
+        "en": "Priority emergency routing",
+        "ar": "أولوية في حالات الطوارئ"
+      }
+    ],
+    "perks": {
+      "freeShipping": true,
+      "storeDiscountPercent": 15,
+      "freeConsultationsMonthly": 99,
+      "groomingDiscountPercent": 25,
+      "boardingDiscountPercent": 25,
+      "pointsMultiplier": 3,
+      "prioritySupport": true
+    },
+    "subscriberCount": 910
+  }
+]

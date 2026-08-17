@@ -1,0 +1,2140 @@
+[
+  {
+    "id": "o-1",
+    "reference": "AL-52000",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-07-13T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-020",
+        "name": {
+          "en": "Antiseptic Wound Spray 100ml",
+          "ar": "بخاخ مطهر للجروح ١٠٠مل"
+        },
+        "image": "/img/stock/551628.jpg",
+        "unitPrice": 47,
+        "quantity": 1,
+        "total": 47
+      },
+      {
+        "productId": "p-013",
+        "name": {
+          "en": "Hypoallergenic Prescription Diet 3kg",
+          "ar": "نظام علاجي مضاد للحساسية ٣ كجم"
+        },
+        "image": "/img/stock/5731864.jpg",
+        "unitPrice": 312,
+        "quantity": 1,
+        "total": 312
+      }
+    ],
+    "subtotal": 359,
+    "discount": 36,
+    "shipping": 0,
+    "vat": 48,
+    "total": 371,
+    "currency": "SAR",
+    "status": "in_transit",
+    "paymentMethod": "apple_pay",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK777890",
+    "estimatedDelivery": "2026-07-16T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-07-13T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-07-14T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-07-14T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-07-15T11:24:00.000Z"
+      }
+    ],
+    "pointsEarned": 72,
+    "pointsStatus": "pending",
+    "couponCode": "ALEEF10",
+    "isSubscriptionOrder": true
+  },
+  {
+    "id": "o-2",
+    "reference": "AL-52001",
+    "customerId": "u-050",
+    "customerName": {
+      "en": "Dr. Yasmin Farouk",
+      "ar": "د. ياسمين فاروق"
+    },
+    "customerEmail": "vet@aleef.app",
+    "createdAt": "2026-02-02T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-003",
+        "name": {
+          "en": "Senior Joint Support Kibble 4kg",
+          "ar": "طعام دعم المفاصل لكبار السن ٤ كجم"
+        },
+        "image": "/img/stock/2607544.jpg",
+        "unitPrice": 265,
+        "quantity": 2,
+        "total": 530
+      },
+      {
+        "productId": "p-065",
+        "name": {
+          "en": "UVB Reptile Lamp 26W",
+          "ar": "مصباح UVB للزواحف ٢٦ واط"
+        },
+        "image": "/img/stock/406014.jpg",
+        "unitPrice": 158,
+        "quantity": 3,
+        "total": 474
+      },
+      {
+        "productId": "p-058",
+        "name": {
+          "en": "Agility Training Cones 8 pcs",
+          "ar": "أقماع تدريب الرشاقة ٨ قطع"
+        },
+        "image": "/img/stock/8434641.jpg",
+        "unitPrice": 128,
+        "quantity": 2,
+        "total": 256
+      }
+    ],
+    "subtotal": 1260,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 189,
+    "total": 1449,
+    "currency": "SAR",
+    "status": "under_review",
+    "paymentMethod": "card",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-050-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Dr. Yasmin Farouk",
+      "phone": "+966 512 354 173",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "1 King Abdulaziz Rd",
+      "building": "26",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK404655",
+    "estimatedDelivery": "2026-02-05T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-02-02T09:00:00.000Z"
+      }
+    ],
+    "pointsEarned": 252,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": false
+  },
+  {
+    "id": "o-3",
+    "reference": "AL-52002",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-05-18T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-023",
+        "name": {
+          "en": "Oatmeal Soothing Shampoo 400ml",
+          "ar": "شامبو الشوفان الملطف ٤٠٠مل"
+        },
+        "image": "/img/stock/1851164.jpg",
+        "unitPrice": 52,
+        "quantity": 1,
+        "total": 52
+      },
+      {
+        "productId": "p-016",
+        "name": {
+          "en": "Deworming Tablets 4 pcs",
+          "ar": "أقراص علاج الديدان ٤ حبات"
+        },
+        "image": "/img/stock/2607544.jpg",
+        "unitPrice": 68,
+        "quantity": 3,
+        "total": 204
+      },
+      {
+        "productId": "p-009",
+        "name": {
+          "en": "Freeze-Dried Chicken Bites 100g",
+          "ar": "قطع دجاج مجففة بالتجميد ١٠٠جم"
+        },
+        "image": "/img/stock/8434641.jpg",
+        "unitPrice": 62,
+        "quantity": 1,
+        "total": 62
+      },
+      {
+        "productId": "p-002",
+        "name": {
+          "en": "Chicken & Rice Puppy Formula 5kg",
+          "ar": "تركيبة الدجاج والأرز للجراء ٥ كجم"
+        },
+        "image": "/img/stock/458806.jpg",
+        "unitPrice": 229,
+        "quantity": 2,
+        "total": 458
+      }
+    ],
+    "subtotal": 776,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 116,
+    "total": 892,
+    "currency": "SAR",
+    "status": "delivered",
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK114064",
+    "estimatedDelivery": "2026-05-21T09:00:00.000Z",
+    "deliveredAt": "2026-05-21T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-05-18T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-05-19T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-05-19T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-05-20T11:24:00.000Z"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-05-21T04:12:00.000Z"
+      }
+    ],
+    "pointsEarned": 155,
+    "pointsStatus": "credited",
+    "isSubscriptionOrder": false,
+    "codRiskScore": 76
+  },
+  {
+    "id": "o-4",
+    "reference": "AL-52003",
+    "customerId": "u-070",
+    "customerName": {
+      "en": "Tariq Nassar",
+      "ar": "طارق نصار"
+    },
+    "customerEmail": "groomer@aleef.app",
+    "createdAt": "2026-04-29T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-006",
+        "name": {
+          "en": "Beef Stew Wet Trays 8×150g",
+          "ar": "يخنة اللحم أطباق رطبة ٨×١٥٠جم"
+        },
+        "image": "/img/stock/1108099.jpg",
+        "unitPrice": 118,
+        "quantity": 1,
+        "total": 118
+      }
+    ],
+    "subtotal": 118,
+    "discount": 0,
+    "shipping": 22,
+    "vat": 18,
+    "total": 158,
+    "currency": "SAR",
+    "status": "delivered",
+    "paymentMethod": "wallet",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-070-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Tariq Nassar",
+      "phone": "+966 558 500 143",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "31 King Abdulaziz Rd",
+      "building": "28",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK865673",
+    "estimatedDelivery": "2026-05-02T09:00:00.000Z",
+    "deliveredAt": "2026-05-02T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-04-29T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-04-30T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-04-30T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-05-01T11:24:00.000Z"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-05-02T04:12:00.000Z"
+      }
+    ],
+    "pointsEarned": 24,
+    "pointsStatus": "credited",
+    "isSubscriptionOrder": false
+  },
+  {
+    "id": "o-5",
+    "reference": "AL-52004",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-02-11T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-024",
+        "name": {
+          "en": "Deshedding Conditioner 400ml",
+          "ar": "بلسم مقلل تساقط الشعر ٤٠٠مل"
+        },
+        "image": "/img/stock/458806.jpg",
+        "unitPrice": 58,
+        "quantity": 3,
+        "total": 174
+      },
+      {
+        "productId": "p-017",
+        "name": {
+          "en": "Enzymatic Toothpaste Kit",
+          "ar": "طقم معجون أسنان إنزيمي"
+        },
+        "image": "/img/stock/1350591.jpg",
+        "unitPrice": 74,
+        "quantity": 2,
+        "total": 148
+      },
+      {
+        "productId": "p-038",
+        "name": {
+          "en": "Airline-Approved Carrier M",
+          "ar": "قفص سفر معتمد للطيران وسط"
+        },
+        "image": "/img/stock/406014.jpg",
+        "unitPrice": 268,
+        "quantity": 2,
+        "total": 536
+      },
+      {
+        "productId": "p-031",
+        "name": {
+          "en": "Training Pads 50 pcs",
+          "ar": "حفاضات تدريب ٥٠ قطعة"
+        },
+        "image": "/img/stock/1108099.jpg",
+        "unitPrice": 79,
+        "quantity": 1,
+        "total": 79
+      }
+    ],
+    "subtotal": 937,
+    "discount": 94,
+    "shipping": 0,
+    "vat": 126,
+    "total": 969,
+    "currency": "SAR",
+    "status": "delivered",
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK184098",
+    "estimatedDelivery": "2026-02-14T09:00:00.000Z",
+    "deliveredAt": "2026-02-14T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-02-11T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-02-12T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-02-12T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-02-13T11:24:00.000Z"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-02-14T04:12:00.000Z"
+      }
+    ],
+    "pointsEarned": 187,
+    "pointsStatus": "credited",
+    "couponCode": "ALEEF10",
+    "isSubscriptionOrder": false,
+    "codRiskScore": 56
+  },
+  {
+    "id": "o-6",
+    "reference": "AL-52005",
+    "customerId": "u-100",
+    "customerName": {
+      "en": "Aleef Operations",
+      "ar": "إدارة أليف"
+    },
+    "customerEmail": "admin@aleef.app",
+    "createdAt": "2026-02-18T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-038",
+        "name": {
+          "en": "Airline-Approved Carrier M",
+          "ar": "قفص سفر معتمد للطيران وسط"
+        },
+        "image": "/img/stock/406014.jpg",
+        "unitPrice": 268,
+        "quantity": 2,
+        "total": 536
+      },
+      {
+        "productId": "p-031",
+        "name": {
+          "en": "Training Pads 50 pcs",
+          "ar": "حفاضات تدريب ٥٠ قطعة"
+        },
+        "image": "/img/stock/1108099.jpg",
+        "unitPrice": 79,
+        "quantity": 1,
+        "total": 79
+      },
+      {
+        "productId": "p-024",
+        "name": {
+          "en": "Deshedding Conditioner 400ml",
+          "ar": "بلسم مقلل تساقط الشعر ٤٠٠مل"
+        },
+        "image": "/img/stock/458806.jpg",
+        "unitPrice": 58,
+        "quantity": 3,
+        "total": 174
+      }
+    ],
+    "subtotal": 789,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 118,
+    "total": 907,
+    "currency": "SAR",
+    "status": "under_review",
+    "paymentMethod": "card",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-100-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Aleef Operations",
+      "phone": "+966 542 968 425",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "15 King Abdulaziz Rd",
+      "building": "22",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK154307",
+    "estimatedDelivery": "2026-02-21T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-02-18T09:00:00.000Z"
+      }
+    ],
+    "pointsEarned": 158,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": false
+  },
+  {
+    "id": "o-7",
+    "reference": "AL-52006",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-03-03T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-065",
+        "name": {
+          "en": "UVB Reptile Lamp 26W",
+          "ar": "مصباح UVB للزواحف ٢٦ واط"
+        },
+        "image": "/img/stock/406014.jpg",
+        "unitPrice": 158,
+        "quantity": 3,
+        "total": 474
+      },
+      {
+        "productId": "p-003",
+        "name": {
+          "en": "Senior Joint Support Kibble 4kg",
+          "ar": "طعام دعم المفاصل لكبار السن ٤ كجم"
+        },
+        "image": "/img/stock/2607544.jpg",
+        "unitPrice": 265,
+        "quantity": 1,
+        "total": 265
+      }
+    ],
+    "subtotal": 739,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 111,
+    "total": 850,
+    "currency": "SAR",
+    "status": "in_transit",
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK455300",
+    "estimatedDelivery": "2026-03-06T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-03-03T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-03-04T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-03-04T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-03-05T11:24:00.000Z"
+      }
+    ],
+    "pointsEarned": 148,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": false,
+    "codRiskScore": 62
+  },
+  {
+    "id": "o-8",
+    "reference": "AL-52007",
+    "customerId": "u-050",
+    "customerName": {
+      "en": "Dr. Yasmin Farouk",
+      "ar": "د. ياسمين فاروق"
+    },
+    "customerEmail": "vet@aleef.app",
+    "createdAt": "2026-05-19T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-020",
+        "name": {
+          "en": "Antiseptic Wound Spray 100ml",
+          "ar": "بخاخ مطهر للجروح ١٠٠مل"
+        },
+        "image": "/img/stock/551628.jpg",
+        "unitPrice": 47,
+        "quantity": 1,
+        "total": 47
+      }
+    ],
+    "subtotal": 47,
+    "discount": 0,
+    "shipping": 22,
+    "vat": 7,
+    "total": 76,
+    "currency": "SAR",
+    "status": "under_review",
+    "paymentMethod": "wallet",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-050-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Dr. Yasmin Farouk",
+      "phone": "+966 512 354 173",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "1 King Abdulaziz Rd",
+      "building": "26",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK410067",
+    "estimatedDelivery": "2026-05-22T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-05-19T09:00:00.000Z"
+      }
+    ],
+    "pointsEarned": 9,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": true
+  },
+  {
+    "id": "o-9",
+    "reference": "AL-52008",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-05-20T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-015",
+        "name": {
+          "en": "Repellent Collar 8 Months",
+          "ar": "طوق طارد للحشرات ٨ أشهر"
+        },
+        "image": "/img/stock/5731864.jpg",
+        "unitPrice": 132,
+        "quantity": 3,
+        "total": 396
+      },
+      {
+        "productId": "p-008",
+        "name": {
+          "en": "Dental Chew Sticks 20 pcs",
+          "ar": "أعواد مضغ للأسنان ٢٠ قطعة"
+        },
+        "image": "/img/stock/1350591.jpg",
+        "unitPrice": 54,
+        "quantity": 1,
+        "total": 54
+      }
+    ],
+    "subtotal": 450,
+    "discount": 45,
+    "shipping": 0,
+    "vat": 61,
+    "total": 466,
+    "currency": "SAR",
+    "status": "delivered",
+    "paymentMethod": "apple_pay",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK128486",
+    "estimatedDelivery": "2026-05-23T09:00:00.000Z",
+    "deliveredAt": "2026-05-23T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-05-20T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-05-21T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-05-21T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-05-22T11:24:00.000Z"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-05-23T04:12:00.000Z"
+      }
+    ],
+    "pointsEarned": 90,
+    "pointsStatus": "credited",
+    "couponCode": "ALEEF10",
+    "isSubscriptionOrder": false
+  },
+  {
+    "id": "o-10",
+    "reference": "AL-52009",
+    "customerId": "u-070",
+    "customerName": {
+      "en": "Tariq Nassar",
+      "ar": "طارق نصار"
+    },
+    "customerEmail": "groomer@aleef.app",
+    "createdAt": "2026-05-01T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-015",
+        "name": {
+          "en": "Repellent Collar 8 Months",
+          "ar": "طوق طارد للحشرات ٨ أشهر"
+        },
+        "image": "/img/stock/5731864.jpg",
+        "unitPrice": 132,
+        "quantity": 1,
+        "total": 132
+      },
+      {
+        "productId": "p-008",
+        "name": {
+          "en": "Dental Chew Sticks 20 pcs",
+          "ar": "أعواد مضغ للأسنان ٢٠ قطعة"
+        },
+        "image": "/img/stock/1350591.jpg",
+        "unitPrice": 54,
+        "quantity": 1,
+        "total": 54
+      },
+      {
+        "productId": "p-001",
+        "name": {
+          "en": "Grain-Free Salmon Adult Dry Food 3kg",
+          "ar": "طعام جاف خالٍ من الحبوب بالسلمون ٣ كجم"
+        },
+        "image": "/img/stock/5731864.jpg",
+        "unitPrice": 189,
+        "quantity": 1,
+        "total": 189
+      }
+    ],
+    "subtotal": 375,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 56,
+    "total": 431,
+    "currency": "SAR",
+    "status": "under_review",
+    "paymentMethod": "card",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-070-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Tariq Nassar",
+      "phone": "+966 558 500 143",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "31 King Abdulaziz Rd",
+      "building": "28",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK115049",
+    "estimatedDelivery": "2026-05-04T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-05-01T09:00:00.000Z"
+      }
+    ],
+    "pointsEarned": 75,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": false
+  },
+  {
+    "id": "o-11",
+    "reference": "AL-52010",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-06-10T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-040",
+        "name": {
+          "en": "Ceramic Elevated Bowls Set",
+          "ar": "طقم أوعية سيراميك مرتفعة"
+        },
+        "image": "/img/stock/1108099.jpg",
+        "unitPrice": 112,
+        "quantity": 2,
+        "total": 224
+      },
+      {
+        "productId": "p-033",
+        "name": {
+          "en": "Padded No-Pull Harness",
+          "ar": "حزام مبطن مانع للشد"
+        },
+        "image": "/img/stock/5731864.jpg",
+        "unitPrice": 124,
+        "quantity": 2,
+        "total": 248
+      },
+      {
+        "productId": "p-026",
+        "name": {
+          "en": "Professional Slicker Brush",
+          "ar": "فرشاة تصفيف احترافية"
+        },
+        "image": "/img/stock/1108099.jpg",
+        "unitPrice": 69,
+        "quantity": 1,
+        "total": 69
+      }
+    ],
+    "subtotal": 541,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 81,
+    "total": 622,
+    "currency": "SAR",
+    "status": "delivered",
+    "paymentMethod": "card",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK544687",
+    "estimatedDelivery": "2026-06-13T09:00:00.000Z",
+    "deliveredAt": "2026-06-13T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-06-10T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-06-11T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-06-11T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-06-12T11:24:00.000Z"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-06-13T04:12:00.000Z"
+      }
+    ],
+    "pointsEarned": 108,
+    "pointsStatus": "credited",
+    "isSubscriptionOrder": false
+  },
+  {
+    "id": "o-12",
+    "reference": "AL-52011",
+    "customerId": "u-100",
+    "customerName": {
+      "en": "Aleef Operations",
+      "ar": "إدارة أليف"
+    },
+    "customerEmail": "admin@aleef.app",
+    "createdAt": "2026-03-19T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-007",
+        "name": {
+          "en": "Turkey Pâté Kitten Cans 6×100g",
+          "ar": "معجون الديك الرومي للقطط الصغيرة ٦×١٠٠جم"
+        },
+        "image": "/img/stock/1108099.jpg",
+        "unitPrice": 78,
+        "quantity": 3,
+        "total": 234
+      },
+      {
+        "productId": "p-014",
+        "name": {
+          "en": "Spot-On Flea & Tick 3 Pipettes",
+          "ar": "قطرات البراغيث والقراد ٣ أنابيب"
+        },
+        "image": "/img/stock/333083.jpg",
+        "unitPrice": 145,
+        "quantity": 1,
+        "total": 145
+      }
+    ],
+    "subtotal": 379,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 57,
+    "total": 436,
+    "currency": "SAR",
+    "status": "in_transit",
+    "paymentMethod": "apple_pay",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-100-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Aleef Operations",
+      "phone": "+966 542 968 425",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "15 King Abdulaziz Rd",
+      "building": "22",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK741026",
+    "estimatedDelivery": "2026-03-22T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-03-19T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-03-20T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-03-20T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-03-21T11:24:00.000Z"
+      }
+    ],
+    "pointsEarned": 76,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": false
+  },
+  {
+    "id": "o-13",
+    "reference": "AL-52012",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-05-15T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-006",
+        "name": {
+          "en": "Beef Stew Wet Trays 8×150g",
+          "ar": "يخنة اللحم أطباق رطبة ٨×١٥٠جم"
+        },
+        "image": "/img/stock/1108099.jpg",
+        "unitPrice": 118,
+        "quantity": 3,
+        "total": 354
+      }
+    ],
+    "subtotal": 354,
+    "discount": 35,
+    "shipping": 0,
+    "vat": 48,
+    "total": 367,
+    "currency": "SAR",
+    "status": "delivered",
+    "paymentMethod": "wallet",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK194057",
+    "estimatedDelivery": "2026-05-18T09:00:00.000Z",
+    "deliveredAt": "2026-05-18T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-05-15T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-05-16T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-05-16T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-05-17T11:24:00.000Z"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-05-18T04:12:00.000Z"
+      }
+    ],
+    "pointsEarned": 71,
+    "pointsStatus": "credited",
+    "couponCode": "ALEEF10",
+    "isSubscriptionOrder": false
+  },
+  {
+    "id": "o-14",
+    "reference": "AL-52013",
+    "customerId": "u-050",
+    "customerName": {
+      "en": "Dr. Yasmin Farouk",
+      "ar": "د. ياسمين فاروق"
+    },
+    "customerEmail": "vet@aleef.app",
+    "createdAt": "2026-02-03T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-004",
+        "name": {
+          "en": "Indoor Hairball Control 2kg",
+          "ar": "طعام القطط المنزلية للتحكم بكرات الشعر ٢ كجم"
+        },
+        "image": "/img/stock/2023384.jpg",
+        "unitPrice": 149,
+        "quantity": 2,
+        "total": 298
+      },
+      {
+        "productId": "p-011",
+        "name": {
+          "en": "Probiotic Digestive Powder 60g",
+          "ar": "مسحوق بروبيوتيك للهضم ٦٠جم"
+        },
+        "image": "/img/stock/551628.jpg",
+        "unitPrice": 112,
+        "quantity": 1,
+        "total": 112
+      },
+      {
+        "productId": "p-018",
+        "name": {
+          "en": "Water Additive Fresh Breath 500ml",
+          "ar": "إضافة مياه لإنعاش النفس ٥٠٠مل"
+        },
+        "image": "/img/stock/1629781.jpg",
+        "unitPrice": 58,
+        "quantity": 1,
+        "total": 58
+      },
+      {
+        "productId": "p-025",
+        "name": {
+          "en": "Waterless Foam Cleanser 200ml",
+          "ar": "رغوة تنظيف بدون ماء ٢٠٠مل"
+        },
+        "image": "/img/stock/406014.jpg",
+        "unitPrice": 44,
+        "quantity": 2,
+        "total": 88
+      }
+    ],
+    "subtotal": 556,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 83,
+    "total": 639,
+    "currency": "SAR",
+    "status": "delivered",
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "address": {
+      "id": "u-050-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Dr. Yasmin Farouk",
+      "phone": "+966 512 354 173",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "1 King Abdulaziz Rd",
+      "building": "26",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK977200",
+    "estimatedDelivery": "2026-02-06T09:00:00.000Z",
+    "deliveredAt": "2026-02-06T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-02-03T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-02-04T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-02-04T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-02-05T11:24:00.000Z"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-02-06T04:12:00.000Z"
+      }
+    ],
+    "pointsEarned": 111,
+    "pointsStatus": "credited",
+    "isSubscriptionOrder": false,
+    "codRiskScore": 34
+  },
+  {
+    "id": "o-15",
+    "reference": "AL-52014",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-06-26T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-006",
+        "name": {
+          "en": "Beef Stew Wet Trays 8×150g",
+          "ar": "يخنة اللحم أطباق رطبة ٨×١٥٠جم"
+        },
+        "image": "/img/stock/1108099.jpg",
+        "unitPrice": 118,
+        "quantity": 3,
+        "total": 354
+      },
+      {
+        "productId": "p-068",
+        "name": {
+          "en": "Paw Balm Protective 60g",
+          "ar": "بلسم حماية الكفوف ٦٠جم"
+        },
+        "image": "/img/stock/5731864.jpg",
+        "unitPrice": 42,
+        "quantity": 3,
+        "total": 126
+      },
+      {
+        "productId": "p-061",
+        "name": {
+          "en": "Timothy Hay Premium 2kg",
+          "ar": "دريس تيموثي ممتاز ٢ كجم"
+        },
+        "image": "/img/stock/8434641.jpg",
+        "unitPrice": 56,
+        "quantity": 3,
+        "total": 168
+      }
+    ],
+    "subtotal": 648,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 97,
+    "total": 745,
+    "currency": "SAR",
+    "status": "under_review",
+    "paymentMethod": "card",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK294339",
+    "estimatedDelivery": "2026-06-29T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-06-26T09:00:00.000Z"
+      }
+    ],
+    "pointsEarned": 130,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": true
+  },
+  {
+    "id": "o-16",
+    "reference": "AL-52015",
+    "customerId": "u-070",
+    "customerName": {
+      "en": "Tariq Nassar",
+      "ar": "طارق نصار"
+    },
+    "customerEmail": "groomer@aleef.app",
+    "createdAt": "2026-01-26T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-024",
+        "name": {
+          "en": "Deshedding Conditioner 400ml",
+          "ar": "بلسم مقلل تساقط الشعر ٤٠٠مل"
+        },
+        "image": "/img/stock/458806.jpg",
+        "unitPrice": 58,
+        "quantity": 3,
+        "total": 174
+      },
+      {
+        "productId": "p-017",
+        "name": {
+          "en": "Enzymatic Toothpaste Kit",
+          "ar": "طقم معجون أسنان إنزيمي"
+        },
+        "image": "/img/stock/1350591.jpg",
+        "unitPrice": 74,
+        "quantity": 1,
+        "total": 74
+      }
+    ],
+    "subtotal": 248,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 37,
+    "total": 285,
+    "currency": "SAR",
+    "status": "delivered",
+    "paymentMethod": "apple_pay",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-070-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Tariq Nassar",
+      "phone": "+966 558 500 143",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "31 King Abdulaziz Rd",
+      "building": "28",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK412482",
+    "estimatedDelivery": "2026-01-29T09:00:00.000Z",
+    "deliveredAt": "2026-01-29T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-01-26T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-01-27T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-01-27T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-01-28T11:24:00.000Z"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-01-29T04:12:00.000Z"
+      }
+    ],
+    "pointsEarned": 50,
+    "pointsStatus": "credited",
+    "isSubscriptionOrder": false
+  },
+  {
+    "id": "o-17",
+    "reference": "AL-52016",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-05-03T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-020",
+        "name": {
+          "en": "Antiseptic Wound Spray 100ml",
+          "ar": "بخاخ مطهر للجروح ١٠٠مل"
+        },
+        "image": "/img/stock/551628.jpg",
+        "unitPrice": 47,
+        "quantity": 3,
+        "total": 141
+      }
+    ],
+    "subtotal": 141,
+    "discount": 14,
+    "shipping": 22,
+    "vat": 19,
+    "total": 168,
+    "currency": "SAR",
+    "status": "under_review",
+    "paymentMethod": "wallet",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK181683",
+    "estimatedDelivery": "2026-05-06T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-05-03T09:00:00.000Z"
+      }
+    ],
+    "pointsEarned": 28,
+    "pointsStatus": "pending",
+    "couponCode": "ALEEF10",
+    "isSubscriptionOrder": false
+  },
+  {
+    "id": "o-18",
+    "reference": "AL-52017",
+    "customerId": "u-100",
+    "customerName": {
+      "en": "Aleef Operations",
+      "ar": "إدارة أليف"
+    },
+    "customerEmail": "admin@aleef.app",
+    "createdAt": "2026-07-09T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-033",
+        "name": {
+          "en": "Padded No-Pull Harness",
+          "ar": "حزام مبطن مانع للشد"
+        },
+        "image": "/img/stock/5731864.jpg",
+        "unitPrice": 124,
+        "quantity": 2,
+        "total": 248
+      },
+      {
+        "productId": "p-040",
+        "name": {
+          "en": "Ceramic Elevated Bowls Set",
+          "ar": "طقم أوعية سيراميك مرتفعة"
+        },
+        "image": "/img/stock/1108099.jpg",
+        "unitPrice": 112,
+        "quantity": 2,
+        "total": 224
+      }
+    ],
+    "subtotal": 472,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 71,
+    "total": 543,
+    "currency": "SAR",
+    "status": "preparing",
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "address": {
+      "id": "u-100-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Aleef Operations",
+      "phone": "+966 542 968 425",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "15 King Abdulaziz Rd",
+      "building": "22",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK595332",
+    "estimatedDelivery": "2026-07-12T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-07-09T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-07-10T01:48:00.000Z"
+      }
+    ],
+    "pointsEarned": 94,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": false,
+    "codRiskScore": 42
+  },
+  {
+    "id": "o-19",
+    "reference": "AL-52018",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-04-15T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-015",
+        "name": {
+          "en": "Repellent Collar 8 Months",
+          "ar": "طوق طارد للحشرات ٨ أشهر"
+        },
+        "image": "/img/stock/5731864.jpg",
+        "unitPrice": 132,
+        "quantity": 3,
+        "total": 396
+      },
+      {
+        "productId": "p-008",
+        "name": {
+          "en": "Dental Chew Sticks 20 pcs",
+          "ar": "أعواد مضغ للأسنان ٢٠ قطعة"
+        },
+        "image": "/img/stock/1350591.jpg",
+        "unitPrice": 54,
+        "quantity": 3,
+        "total": 162
+      },
+      {
+        "productId": "p-001",
+        "name": {
+          "en": "Grain-Free Salmon Adult Dry Food 3kg",
+          "ar": "طعام جاف خالٍ من الحبوب بالسلمون ٣ كجم"
+        },
+        "image": "/img/stock/5731864.jpg",
+        "unitPrice": 189,
+        "quantity": 3,
+        "total": 567
+      }
+    ],
+    "subtotal": 1125,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 169,
+    "total": 1294,
+    "currency": "SAR",
+    "status": "under_review",
+    "paymentMethod": "card",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK786665",
+    "estimatedDelivery": "2026-04-18T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-04-15T09:00:00.000Z"
+      }
+    ],
+    "pointsEarned": 225,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": false
+  },
+  {
+    "id": "o-20",
+    "reference": "AL-52019",
+    "customerId": "u-050",
+    "customerName": {
+      "en": "Dr. Yasmin Farouk",
+      "ar": "د. ياسمين فاروق"
+    },
+    "customerEmail": "vet@aleef.app",
+    "createdAt": "2026-02-17T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-047",
+        "name": {
+          "en": "Rabbit Multi-Level Hutch",
+          "ar": "قفص أرانب متعدد الطوابق"
+        },
+        "image": "/img/stock/2607544.jpg",
+        "unitPrice": 429,
+        "quantity": 2,
+        "total": 858
+      },
+      {
+        "productId": "p-040",
+        "name": {
+          "en": "Ceramic Elevated Bowls Set",
+          "ar": "طقم أوعية سيراميك مرتفعة"
+        },
+        "image": "/img/stock/1108099.jpg",
+        "unitPrice": 112,
+        "quantity": 2,
+        "total": 224
+      }
+    ],
+    "subtotal": 1082,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 162,
+    "total": 1244,
+    "currency": "SAR",
+    "status": "in_transit",
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "address": {
+      "id": "u-050-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Dr. Yasmin Farouk",
+      "phone": "+966 512 354 173",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "1 King Abdulaziz Rd",
+      "building": "26",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK268518",
+    "estimatedDelivery": "2026-02-20T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-02-17T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-02-18T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-02-18T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-02-19T11:24:00.000Z"
+      }
+    ],
+    "pointsEarned": 216,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": false,
+    "codRiskScore": 32
+  },
+  {
+    "id": "o-21",
+    "reference": "AL-52020",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-06-05T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-060",
+        "name": {
+          "en": "Parrot Nutrition Pellets 1kg",
+          "ar": "حبيبات غذائية للببغاء ١ كجم"
+        },
+        "image": "/img/stock/551628.jpg",
+        "unitPrice": 84,
+        "quantity": 1,
+        "total": 84
+      },
+      {
+        "productId": "p-067",
+        "name": {
+          "en": "Portable Pet Stroller",
+          "ar": "عربة نقل محمولة"
+        },
+        "image": "/img/stock/1629781.jpg",
+        "unitPrice": 615,
+        "quantity": 3,
+        "total": 1845
+      },
+      {
+        "productId": "p-046",
+        "name": {
+          "en": "Wooden Outdoor Kennel",
+          "ar": "بيت خشبي خارجي"
+        },
+        "image": "/img/stock/458806.jpg",
+        "unitPrice": 689,
+        "quantity": 2,
+        "total": 1378
+      },
+      {
+        "productId": "p-053",
+        "name": {
+          "en": "Durable Rubber Chew Bone",
+          "ar": "عظمة مطاطية متينة للمضغ"
+        },
+        "image": "/img/stock/2023384.jpg",
+        "unitPrice": 46,
+        "quantity": 1,
+        "total": 46
+      }
+    ],
+    "subtotal": 3353,
+    "discount": 335,
+    "shipping": 0,
+    "vat": 453,
+    "total": 3471,
+    "currency": "SAR",
+    "status": "delivered",
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK158150",
+    "estimatedDelivery": "2026-06-08T09:00:00.000Z",
+    "deliveredAt": "2026-06-08T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-06-05T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-06-06T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-06-06T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-06-07T11:24:00.000Z"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-06-08T04:12:00.000Z"
+      }
+    ],
+    "pointsEarned": 671,
+    "pointsStatus": "credited",
+    "couponCode": "ALEEF10",
+    "isSubscriptionOrder": false,
+    "codRiskScore": 36
+  },
+  {
+    "id": "o-22",
+    "reference": "AL-52021",
+    "customerId": "u-070",
+    "customerName": {
+      "en": "Tariq Nassar",
+      "ar": "طارق نصار"
+    },
+    "customerEmail": "groomer@aleef.app",
+    "createdAt": "2025-12-28T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-009",
+        "name": {
+          "en": "Freeze-Dried Chicken Bites 100g",
+          "ar": "قطع دجاج مجففة بالتجميد ١٠٠جم"
+        },
+        "image": "/img/stock/8434641.jpg",
+        "unitPrice": 62,
+        "quantity": 1,
+        "total": 62
+      },
+      {
+        "productId": "p-016",
+        "name": {
+          "en": "Deworming Tablets 4 pcs",
+          "ar": "أقراص علاج الديدان ٤ حبات"
+        },
+        "image": "/img/stock/2607544.jpg",
+        "unitPrice": 68,
+        "quantity": 3,
+        "total": 204
+      },
+      {
+        "productId": "p-023",
+        "name": {
+          "en": "Oatmeal Soothing Shampoo 400ml",
+          "ar": "شامبو الشوفان الملطف ٤٠٠مل"
+        },
+        "image": "/img/stock/1851164.jpg",
+        "unitPrice": 52,
+        "quantity": 2,
+        "total": 104
+      }
+    ],
+    "subtotal": 370,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 56,
+    "total": 426,
+    "currency": "SAR",
+    "status": "under_review",
+    "paymentMethod": "card",
+    "paymentStatus": "paid",
+    "address": {
+      "id": "u-070-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Tariq Nassar",
+      "phone": "+966 558 500 143",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "31 King Abdulaziz Rd",
+      "building": "28",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK370263",
+    "estimatedDelivery": "2025-12-31T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2025-12-28T09:00:00.000Z"
+      }
+    ],
+    "pointsEarned": 74,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": true
+  },
+  {
+    "id": "o-23",
+    "reference": "AL-52022",
+    "customerId": "u-001",
+    "customerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "customerEmail": "owner@aleef.app",
+    "createdAt": "2026-02-15T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-026",
+        "name": {
+          "en": "Professional Slicker Brush",
+          "ar": "فرشاة تصفيف احترافية"
+        },
+        "image": "/img/stock/1108099.jpg",
+        "unitPrice": 69,
+        "quantity": 1,
+        "total": 69
+      },
+      {
+        "productId": "p-033",
+        "name": {
+          "en": "Padded No-Pull Harness",
+          "ar": "حزام مبطن مانع للشد"
+        },
+        "image": "/img/stock/5731864.jpg",
+        "unitPrice": 124,
+        "quantity": 2,
+        "total": 248
+      }
+    ],
+    "subtotal": 317,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 48,
+    "total": 365,
+    "currency": "SAR",
+    "status": "returned",
+    "paymentMethod": "cod",
+    "paymentStatus": "pending",
+    "address": {
+      "id": "u-001-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Layla Al-Harbi",
+      "phone": "+966 516 764 221",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "43 King Abdulaziz Rd",
+      "building": "12",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK187448",
+    "estimatedDelivery": "2026-02-18T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-02-15T09:00:00.000Z"
+      },
+      {
+        "status": "preparing",
+        "at": "2026-02-16T01:48:00.000Z"
+      },
+      {
+        "status": "shipped",
+        "at": "2026-02-16T18:36:00.000Z"
+      },
+      {
+        "status": "in_transit",
+        "at": "2026-02-17T11:24:00.000Z"
+      },
+      {
+        "status": "delivered",
+        "at": "2026-02-18T04:12:00.000Z"
+      }
+    ],
+    "pointsEarned": 63,
+    "pointsStatus": "reversed",
+    "isSubscriptionOrder": false,
+    "codRiskScore": 32,
+    "returnRequest": {
+      "id": "rr-22",
+      "orderId": "o-23",
+      "reference": "RT-3122",
+      "requestedAt": "2026-02-20T09:00:00.000Z",
+      "reason": {
+        "en": "Product did not suit my pet",
+        "ar": "المنتج لم يناسب حيواني"
+      },
+      "productIds": [
+        "p-026"
+      ],
+      "condition": "unopened",
+      "refundAmount": 69,
+      "status": "approved",
+      "windowDays": 7
+    }
+  },
+  {
+    "id": "o-24",
+    "reference": "AL-52023",
+    "customerId": "u-100",
+    "customerName": {
+      "en": "Aleef Operations",
+      "ar": "إدارة أليف"
+    },
+    "customerEmail": "admin@aleef.app",
+    "createdAt": "2026-05-11T09:00:00.000Z",
+    "lines": [
+      {
+        "productId": "p-027",
+        "name": {
+          "en": "Quiet Clipper Set 6 Guards",
+          "ar": "طقم ماكينة قص هادئة ٦ أمشاط"
+        },
+        "image": "/img/stock/1851164.jpg",
+        "unitPrice": 289,
+        "quantity": 2,
+        "total": 578
+      }
+    ],
+    "subtotal": 578,
+    "discount": 0,
+    "shipping": 0,
+    "vat": 87,
+    "total": 665,
+    "currency": "SAR",
+    "status": "cancelled",
+    "paymentMethod": "wallet",
+    "paymentStatus": "refunded",
+    "address": {
+      "id": "u-100-addr-1",
+      "label": {
+        "en": "Home",
+        "ar": "المنزل"
+      },
+      "recipient": "Aleef Operations",
+      "phone": "+966 542 968 425",
+      "cityId": "c-riyadh",
+      "district": "Al Olaya",
+      "street": "15 King Abdulaziz Rd",
+      "building": "22",
+      "isDefault": true,
+      "type": "home"
+    },
+    "shippingCarrier": {
+      "en": "Aleef Express",
+      "ar": "أليف إكسبريس"
+    },
+    "trackingNumber": "TRK436015",
+    "estimatedDelivery": "2026-05-14T09:00:00.000Z",
+    "timeline": [
+      {
+        "status": "placed",
+        "at": "2026-05-11T09:00:00.000Z"
+      }
+    ],
+    "pointsEarned": 116,
+    "pointsStatus": "pending",
+    "isSubscriptionOrder": false
+  }
+]

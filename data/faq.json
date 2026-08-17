@@ -1,0 +1,172 @@
+[
+  {
+    "id": "faq-1",
+    "question": {
+      "en": "How long does delivery take?",
+      "ar": "كم يستغرق التوصيل؟"
+    },
+    "answer": {
+      "en": "Standard delivery is 2–4 business days, and express orders placed before 4 PM arrive within 24 hours in served cities.",
+      "ar": "التوصيل العادي من ٢ إلى ٤ أيام عمل، والطلبات السريعة قبل الرابعة عصرًا تصل خلال ٢٤ ساعة في المدن المخدومة."
+    },
+    "category": {
+      "en": "Orders & delivery",
+      "ar": "الطلبات والتوصيل"
+    },
+    "categorySlug": "orders-delivery",
+    "helpful": 234
+  },
+  {
+    "id": "faq-2",
+    "question": {
+      "en": "Can I return an item?",
+      "ar": "هل يمكنني إرجاع منتج؟"
+    },
+    "answer": {
+      "en": "Unopened items can be returned within 7 days. Open a return from the order page and our team reviews it within one business day.",
+      "ar": "يمكن إرجاع المنتجات غير المفتوحة خلال ٧ أيام. أنشئ طلب إرجاع من صفحة الطلب ويراجعه فريقنا خلال يوم عمل."
+    },
+    "category": {
+      "en": "Orders & delivery",
+      "ar": "الطلبات والتوصيل"
+    },
+    "categorySlug": "orders-delivery",
+    "helpful": 168
+  },
+  {
+    "id": "faq-3",
+    "question": {
+      "en": "Are the vets licensed?",
+      "ar": "هل الأطباء مرخّصون؟"
+    },
+    "answer": {
+      "en": "Every vet passes our accreditation committee, which verifies licence documents before the account is activated.",
+      "ar": "يمر كل طبيب عبر لجنة الاعتماد لدينا التي تتحقق من وثائق الترخيص قبل تفعيل الحساب."
+    },
+    "category": {
+      "en": "Consultations",
+      "ar": "الاستشارات"
+    },
+    "categorySlug": "consultations",
+    "helpful": 137
+  },
+  {
+    "id": "faq-4",
+    "question": {
+      "en": "What happens in an emergency?",
+      "ar": "ماذا يحدث في الحالات الطارئة؟"
+    },
+    "answer": {
+      "en": "The triage step classifies your case. Emergencies are routed immediately to the nearest on-duty vet instead of the normal queue.",
+      "ar": "تصنّف خطوة الفرز حالتك، وتُوجَّه الطوارئ فورًا إلى أقرب طبيب في الخدمة بدل الطابور العادي."
+    },
+    "category": {
+      "en": "Consultations",
+      "ar": "الاستشارات"
+    },
+    "categorySlug": "consultations",
+    "helpful": 71
+  },
+  {
+    "id": "faq-5",
+    "question": {
+      "en": "How is my payment protected?",
+      "ar": "كيف تُحمى مدفوعاتي؟"
+    },
+    "answer": {
+      "en": "Booking funds are held in escrow and released to the host only after both parties confirm a successful check-out.",
+      "ar": "يُحتفظ بمبلغ الحجز كضمان ولا يُحوَّل للمضيف إلا بعد تأكيد الطرفين انتهاء الإقامة بنجاح."
+    },
+    "category": {
+      "en": "Boarding",
+      "ar": "الإيواء"
+    },
+    "categorySlug": "boarding",
+    "helpful": 199
+  },
+  {
+    "id": "faq-6",
+    "question": {
+      "en": "Are vaccinations mandatory?",
+      "ar": "هل التطعيمات إلزامية؟"
+    },
+    "answer": {
+      "en": "Yes. The system checks the medical record automatically and blocks the booking if vaccinations are incomplete.",
+      "ar": "نعم، يتحقق النظام من السجل الطبي تلقائيًا ويمنع إتمام الحجز إذا كانت التطعيمات غير مكتملة."
+    },
+    "category": {
+      "en": "Boarding",
+      "ar": "الإيواء"
+    },
+    "categorySlug": "boarding",
+    "helpful": 133
+  },
+  {
+    "id": "faq-7",
+    "question": {
+      "en": "Is there a fee to adopt?",
+      "ar": "هل هناك رسوم للتبني؟"
+    },
+    "answer": {
+      "en": "The adoption section is entirely non-profit. Aleef takes no commission from any adoption.",
+      "ar": "قسم التبنّي غير ربحي بالكامل، ولا تأخذ أليف أي عمولة على عمليات التبنّي."
+    },
+    "category": {
+      "en": "Adoption",
+      "ar": "التبنّي"
+    },
+    "categorySlug": "adoption",
+    "helpful": 102
+  },
+  {
+    "id": "faq-8",
+    "question": {
+      "en": "Why was my listing not published?",
+      "ar": "لماذا لم يُنشر إعلاني؟"
+    },
+    "answer": {
+      "en": "Listings are reviewed before publication. If something is missing we request changes rather than rejecting outright.",
+      "ar": "تُراجع الإعلانات قبل النشر، وإذا نقص شيء نطلب تعديله بدلًا من الرفض المباشر."
+    },
+    "category": {
+      "en": "Adoption",
+      "ar": "التبنّي"
+    },
+    "categorySlug": "adoption",
+    "helpful": 36
+  },
+  {
+    "id": "faq-9",
+    "question": {
+      "en": "How do points work?",
+      "ar": "كيف تعمل النقاط؟"
+    },
+    "answer": {
+      "en": "You earn points on purchases, bookings, reviews and humanitarian actions. 100 points equal SAR 10 of store credit.",
+      "ar": "تكسب النقاط من الشراء والحجوزات والتقييمات والأعمال الإنسانية. كل ١٠٠ نقطة تعادل ١٠ ر.س رصيدًا."
+    },
+    "category": {
+      "en": "Loyalty",
+      "ar": "المكافآت"
+    },
+    "categorySlug": "loyalty",
+    "helpful": 164
+  },
+  {
+    "id": "faq-10",
+    "question": {
+      "en": "Can I transfer a pet to someone else?",
+      "ar": "هل يمكنني نقل حيوان لشخص آخر؟"
+    },
+    "answer": {
+      "en": "Yes. Ownership transfer moves the pet and its full medical history once both accounts confirm the request.",
+      "ar": "نعم، ينقل إجراء تحويل الملكية الحيوان وتاريخه الطبي الكامل بعد تأكيد الحسابين."
+    },
+    "category": {
+      "en": "Account",
+      "ar": "الحساب"
+    },
+    "categorySlug": "account",
+    "helpful": 98
+  }
+]

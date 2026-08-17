@@ -1,0 +1,184 @@
+[
+  {
+    "id": "dp-1",
+    "reference": "DS-2200",
+    "type": "boarding",
+    "relatedId": "bb-1",
+    "openedBy": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "against": {
+      "en": "Coastal Pet Lodge",
+      "ar": "نزل الساحل للحيوانات"
+    },
+    "subject": {
+      "en": "Service did not match the description",
+      "ar": "الخدمة لم تطابق الوصف"
+    },
+    "description": {
+      "en": "The daily updates stopped after the second day and the host did not respond to messages.",
+      "ar": "توقفت التحديثات اليومية بعد اليوم الثاني ولم يرد المضيف على الرسائل."
+    },
+    "amount": 1166,
+    "openedAt": "2026-07-16T09:00:00.000Z",
+    "status": "open",
+    "priority": "medium"
+  },
+  {
+    "id": "dp-2",
+    "reference": "DS-2201",
+    "type": "grooming",
+    "relatedId": "bb-2",
+    "openedBy": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "against": {
+      "en": "Noura Garden Villa",
+      "ar": "فيلا نورة بالحديقة"
+    },
+    "subject": {
+      "en": "Service did not match the description",
+      "ar": "الخدمة لم تطابق الوصف"
+    },
+    "description": {
+      "en": "The daily updates stopped after the second day and the host did not respond to messages.",
+      "ar": "توقفت التحديثات اليومية بعد اليوم الثاني ولم يرد المضيف على الرسائل."
+    },
+    "amount": 429,
+    "openedAt": "2026-06-20T09:00:00.000Z",
+    "status": "resolved_respondent",
+    "priority": "high"
+  },
+  {
+    "id": "dp-3",
+    "reference": "DS-2202",
+    "type": "marketplace",
+    "relatedId": "bb-3",
+    "openedBy": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "against": {
+      "en": "Desert Tails Resort",
+      "ar": "منتجع ديزرت تيلز"
+    },
+    "subject": {
+      "en": "Service did not match the description",
+      "ar": "الخدمة لم تطابق الوصف"
+    },
+    "description": {
+      "en": "The daily updates stopped after the second day and the host did not respond to messages.",
+      "ar": "توقفت التحديثات اليومية بعد اليوم الثاني ولم يرد المضيف على الرسائل."
+    },
+    "amount": 1268,
+    "openedAt": "2026-07-19T09:00:00.000Z",
+    "status": "resolved_claimant",
+    "priority": "medium"
+  },
+  {
+    "id": "dp-4",
+    "reference": "DS-2203",
+    "type": "order",
+    "relatedId": "bb-4",
+    "openedBy": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "against": {
+      "en": "Hana Cat Boutique",
+      "ar": "بوتيك هناء للقطط"
+    },
+    "subject": {
+      "en": "Service did not match the description",
+      "ar": "الخدمة لم تطابق الوصف"
+    },
+    "description": {
+      "en": "The daily updates stopped after the second day and the host did not respond to messages.",
+      "ar": "توقفت التحديثات اليومية بعد اليوم الثاني ولم يرد المضيف على الرسائل."
+    },
+    "amount": 535,
+    "openedAt": "2026-07-12T09:00:00.000Z",
+    "status": "under_review",
+    "priority": "medium"
+  },
+  {
+    "id": "dp-5",
+    "reference": "DS-2204",
+    "type": "boarding",
+    "relatedId": "bb-5",
+    "openedBy": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "against": {
+      "en": "Marina Pet Suites",
+      "ar": "أجنحة المارينا"
+    },
+    "subject": {
+      "en": "Service did not match the description",
+      "ar": "الخدمة لم تطابق الوصف"
+    },
+    "description": {
+      "en": "The daily updates stopped after the second day and the host did not respond to messages.",
+      "ar": "توقفت التحديثات اليومية بعد اليوم الثاني ولم يرد المضيف على الرسائل."
+    },
+    "amount": 1017,
+    "openedAt": "2026-06-13T09:00:00.000Z",
+    "status": "open",
+    "priority": "medium"
+  },
+  {
+    "id": "dp-6",
+    "reference": "DS-2205",
+    "type": "grooming",
+    "relatedId": "bb-6",
+    "openedBy": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "against": {
+      "en": "Maha Al-Otaibi",
+      "ar": "مها العتيبي"
+    },
+    "subject": {
+      "en": "Service did not match the description",
+      "ar": "الخدمة لم تطابق الوصف"
+    },
+    "description": {
+      "en": "The daily updates stopped after the second day and the host did not respond to messages.",
+      "ar": "توقفت التحديثات اليومية بعد اليوم الثاني ولم يرد المضيف على الرسائل."
+    },
+    "amount": 1166,
+    "openedAt": "2026-06-12T09:00:00.000Z",
+    "status": "under_review",
+    "priority": "low"
+  },
+  {
+    "id": "dp-7",
+    "reference": "DS-2206",
+    "type": "marketplace",
+    "relatedId": "bb-7",
+    "openedBy": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "against": {
+      "en": "Marina Pet Suites",
+      "ar": "أجنحة المارينا"
+    },
+    "subject": {
+      "en": "Service did not match the description",
+      "ar": "الخدمة لم تطابق الوصف"
+    },
+    "description": {
+      "en": "The daily updates stopped after the second day and the host did not respond to messages.",
+      "ar": "توقفت التحديثات اليومية بعد اليوم الثاني ولم يرد المضيف على الرسائل."
+    },
+    "amount": 1231,
+    "openedAt": "2026-07-06T09:00:00.000Z",
+    "status": "resolved_claimant",
+    "priority": "high"
+  }
+]

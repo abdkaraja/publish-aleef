@@ -1,0 +1,615 @@
+[
+  {
+    "id": "lf-1",
+    "reference": "LF-9100",
+    "kind": "lost",
+    "petName": "Simba",
+    "species": "cat",
+    "breed": {
+      "en": "Maine Coon",
+      "ar": "ماين كون"
+    },
+    "gender": "male",
+    "size": "lg",
+    "color": {
+      "en": "Ginger with white chest",
+      "ar": "برتقالي بصدر أبيض"
+    },
+    "distinguishingMarks": {
+      "en": "Ginger with white chest",
+      "ar": "برتقالي بصدر أبيض"
+    },
+    "photos": [
+      "/img/stock/156934.jpg",
+      "/img/stock/320014.jpg"
+    ],
+    "hasCollar": true,
+    "hasMicrochip": true,
+    "collarQrCode": "ALF-QR-79414",
+    "lastSeenAt": "2026-07-16T23:00:00.000Z",
+    "cityId": "c-riyadh",
+    "district": "Al Olaya",
+    "location": {
+      "x": 33,
+      "y": 41
+    },
+    "radiusKm": 5,
+    "description": {
+      "en": "Went missing near a residential area. Wearing a collar. Please contact us immediately with any sighting.",
+      "ar": "فُقد قرب منطقة سكنية. يرتدي طوقًا. يرجى التواصل فورًا عند أي مشاهدة."
+    },
+    "reporter": {
+      "id": "u-300",
+      "name": {
+        "en": "Yousef B.",
+        "ar": "يوسف ب."
+      },
+      "avatar": "/img/stock/220453.jpg",
+      "phone": "+966 515 297 116",
+      "contactPreference": "both"
+    },
+    "rewardAmount": 500,
+    "status": "open",
+    "publishedAt": "2026-07-21T09:00:00.000Z",
+    "notificationsSent": 4423,
+    "viewCount": 770,
+    "sightings": [
+      {
+        "id": "lf-0-s1",
+        "note": {
+          "en": "Seen near the corner supermarket around sunset.",
+          "ar": "شوهد قرب بقالة الحي وقت الغروب."
+        },
+        "at": "2026-07-22T05:00:00.000Z",
+        "location": {
+          "x": 85,
+          "y": 77
+        }
+      }
+    ],
+    "matchSuggestions": [
+      {
+        "reportId": "lf-3",
+        "confidence": 71
+      }
+    ]
+  },
+  {
+    "id": "lf-2",
+    "reference": "LF-9101",
+    "kind": "lost",
+    "petName": "Bella",
+    "species": "dog",
+    "breed": {
+      "en": "Beagle",
+      "ar": "بيجل"
+    },
+    "gender": "female",
+    "size": "md",
+    "color": {
+      "en": "Tricolour",
+      "ar": "ثلاثي اللون بطوق أزرق"
+    },
+    "distinguishingMarks": {
+      "en": "Tricolour, blue collar",
+      "ar": "ثلاثي اللون بطوق أزرق"
+    },
+    "photos": [
+      "/img/stock/1851164.jpg",
+      "/img/stock/1629781.jpg"
+    ],
+    "hasCollar": true,
+    "hasMicrochip": false,
+    "lastSeenAt": "2026-07-14T08:00:00.000Z",
+    "cityId": "c-jeddah",
+    "district": "Al Shatea",
+    "location": {
+      "x": 83,
+      "y": 10
+    },
+    "radiusKm": 2,
+    "description": {
+      "en": "Went missing near a residential area. Wearing a collar. Please contact us immediately with any sighting.",
+      "ar": "فُقد قرب منطقة سكنية. يرتدي طوقًا. يرجى التواصل فورًا عند أي مشاهدة."
+    },
+    "reporter": {
+      "id": "u-301",
+      "name": {
+        "en": "Sara T.",
+        "ar": "سارة ت."
+      },
+      "avatar": "/img/stock/774909.jpg",
+      "phone": "+966 532 358 539",
+      "contactPreference": "call"
+    },
+    "rewardAmount": 800,
+    "status": "open",
+    "publishedAt": "2026-07-15T09:00:00.000Z",
+    "notificationsSent": 299,
+    "viewCount": 2480,
+    "sightings": []
+  },
+  {
+    "id": "lf-3",
+    "reference": "LF-9102",
+    "kind": "found",
+    "species": "cat",
+    "breed": {
+      "en": "Domestic Shorthair",
+      "ar": "محلي قصير الشعر"
+    },
+    "gender": "male",
+    "size": "sm",
+    "color": {
+      "en": "Grey tabby",
+      "ar": "رمادي مخطط بدون طوق"
+    },
+    "distinguishingMarks": {
+      "en": "Grey tabby, no collar",
+      "ar": "رمادي مخطط بدون طوق"
+    },
+    "photos": [
+      "/img/stock/38867.jpg",
+      "/img/stock/1056251.jpg"
+    ],
+    "hasCollar": false,
+    "hasMicrochip": false,
+    "lastSeenAt": "2026-07-23T15:00:00.000Z",
+    "cityId": "c-dammam",
+    "district": "Uhud",
+    "location": {
+      "x": 32,
+      "y": 40
+    },
+    "radiusKm": 5,
+    "description": {
+      "en": "Found wandering near a residential area. No collar. Please contact us immediately with any sighting.",
+      "ar": "عُثر عليه يتجول قرب منطقة سكنية. بدون طوق. يرجى التواصل فورًا عند أي مشاهدة."
+    },
+    "reporter": {
+      "id": "u-302",
+      "name": {
+        "en": "Yousef B.",
+        "ar": "يوسف ب."
+      },
+      "avatar": "/img/stock/1222271.jpg",
+      "phone": "+966 525 325 506",
+      "contactPreference": "chat"
+    },
+    "status": "open",
+    "publishedAt": "2026-07-07T09:00:00.000Z",
+    "notificationsSent": 3447,
+    "viewCount": 2491,
+    "sightings": []
+  },
+  {
+    "id": "lf-4",
+    "reference": "LF-9103",
+    "kind": "lost",
+    "petName": "Ziggy",
+    "species": "bird",
+    "breed": {
+      "en": "Cockatiel",
+      "ar": "كوكتيل"
+    },
+    "gender": "female",
+    "size": "xs",
+    "color": {
+      "en": "Yellow crest",
+      "ar": "عرف أصفر"
+    },
+    "distinguishingMarks": {
+      "en": "Yellow crest",
+      "ar": "عرف أصفر"
+    },
+    "photos": [
+      "/img/stock/326900.jpg",
+      "/img/stock/1661179.jpg"
+    ],
+    "hasCollar": false,
+    "hasMicrochip": true,
+    "lastSeenAt": "2026-07-15T14:00:00.000Z",
+    "cityId": "c-dubai",
+    "district": "Jumeirah",
+    "location": {
+      "x": 42,
+      "y": 50
+    },
+    "radiusKm": 8,
+    "description": {
+      "en": "Went missing near a residential area. No collar. Please contact us immediately with any sighting.",
+      "ar": "فُقد قرب منطقة سكنية. بدون طوق. يرجى التواصل فورًا عند أي مشاهدة."
+    },
+    "reporter": {
+      "id": "u-303",
+      "name": {
+        "en": "Nora A.",
+        "ar": "نورة ع."
+      },
+      "avatar": "/img/stock/733872.jpg",
+      "phone": "+966 536 468 649",
+      "contactPreference": "call"
+    },
+    "rewardAmount": 300,
+    "status": "open",
+    "publishedAt": "2026-07-07T09:00:00.000Z",
+    "notificationsSent": 1966,
+    "viewCount": 8613,
+    "sightings": [
+      {
+        "id": "lf-3-s1",
+        "note": {
+          "en": "Seen near the corner supermarket around sunset.",
+          "ar": "شوهد قرب بقالة الحي وقت الغروب."
+        },
+        "at": "2026-07-23T05:00:00.000Z",
+        "location": {
+          "x": 83,
+          "y": 10
+        }
+      }
+    ]
+  },
+  {
+    "id": "lf-5",
+    "reference": "LF-9104",
+    "kind": "found",
+    "species": "dog",
+    "breed": {
+      "en": "Mixed breed",
+      "ar": "خليط"
+    },
+    "gender": "male",
+    "size": "lg",
+    "color": {
+      "en": "Brown with white paws",
+      "ar": "بني بكفوف بيضاء"
+    },
+    "distinguishingMarks": {
+      "en": "Brown with white paws",
+      "ar": "بني بكفوف بيضاء"
+    },
+    "photos": [
+      "/img/stock/333083.jpg",
+      "/img/stock/96420.jpg"
+    ],
+    "hasCollar": true,
+    "hasMicrochip": false,
+    "lastSeenAt": "2026-07-20T21:00:00.000Z",
+    "cityId": "c-riyadh",
+    "district": "Al Yasmin",
+    "location": {
+      "x": 36,
+      "y": 28
+    },
+    "radiusKm": 5,
+    "description": {
+      "en": "Found wandering near a residential area. Wearing a collar. Please contact us immediately with any sighting.",
+      "ar": "عُثر عليه يتجول قرب منطقة سكنية. يرتدي طوقًا. يرجى التواصل فورًا عند أي مشاهدة."
+    },
+    "reporter": {
+      "id": "u-304",
+      "name": {
+        "en": "Omar S.",
+        "ar": "عمر س."
+      },
+      "avatar": "/img/stock/91227.jpg",
+      "phone": "+966 559 637 456",
+      "contactPreference": "call"
+    },
+    "status": "open",
+    "publishedAt": "2026-07-16T09:00:00.000Z",
+    "notificationsSent": 3965,
+    "viewCount": 5754,
+    "sightings": []
+  },
+  {
+    "id": "lf-6",
+    "reference": "LF-9105",
+    "kind": "lost",
+    "petName": "Momo",
+    "species": "cat",
+    "breed": {
+      "en": "Persian",
+      "ar": "شيرازي"
+    },
+    "gender": "female",
+    "size": "md",
+    "color": {
+      "en": "White long hair",
+      "ar": "أبيض طويل الشعر"
+    },
+    "distinguishingMarks": {
+      "en": "White long hair",
+      "ar": "أبيض طويل الشعر"
+    },
+    "photos": [
+      "/img/stock/416160.jpg",
+      "/img/stock/38867.jpg"
+    ],
+    "hasCollar": true,
+    "hasMicrochip": false,
+    "lastSeenAt": "2026-07-20T08:00:00.000Z",
+    "cityId": "c-jeddah",
+    "district": "Al Shatea",
+    "location": {
+      "x": 26,
+      "y": 18
+    },
+    "radiusKm": 2,
+    "description": {
+      "en": "Went missing near a residential area. Wearing a collar. Please contact us immediately with any sighting.",
+      "ar": "فُقد قرب منطقة سكنية. يرتدي طوقًا. يرجى التواصل فورًا عند أي مشاهدة."
+    },
+    "reporter": {
+      "id": "u-305",
+      "name": {
+        "en": "Reem K.",
+        "ar": "ريم ك."
+      },
+      "avatar": "/img/stock/2379004.jpg",
+      "phone": "+966 518 514 695",
+      "contactPreference": "call"
+    },
+    "rewardAmount": 1000,
+    "status": "open",
+    "publishedAt": "2026-07-18T09:00:00.000Z",
+    "notificationsSent": 370,
+    "viewCount": 1424,
+    "sightings": []
+  },
+  {
+    "id": "lf-7",
+    "reference": "LF-9106",
+    "kind": "lost",
+    "petName": "Rocket",
+    "species": "dog",
+    "breed": {
+      "en": "Jack Russell",
+      "ar": "جاك راسل"
+    },
+    "gender": "male",
+    "size": "sm",
+    "color": {
+      "en": "White with brown patch",
+      "ar": "أبيض ببقعة بنية"
+    },
+    "distinguishingMarks": {
+      "en": "White with brown patch",
+      "ar": "أبيض ببقعة بنية"
+    },
+    "photos": [
+      "/img/stock/573241.jpg",
+      "/img/stock/2023384.jpg"
+    ],
+    "hasCollar": true,
+    "hasMicrochip": true,
+    "collarQrCode": "ALF-QR-97192",
+    "lastSeenAt": "2026-07-21T07:00:00.000Z",
+    "cityId": "c-dammam",
+    "district": "Al Faisaliyah",
+    "location": {
+      "x": 84,
+      "y": 76
+    },
+    "radiusKm": 3,
+    "description": {
+      "en": "Went missing near a residential area. Wearing a collar. Please contact us immediately with any sighting.",
+      "ar": "فُقد قرب منطقة سكنية. يرتدي طوقًا. يرجى التواصل فورًا عند أي مشاهدة."
+    },
+    "reporter": {
+      "id": "u-306",
+      "name": {
+        "en": "Faisal R.",
+        "ar": "فيصل ر."
+      },
+      "avatar": "/img/stock/1181686.jpg",
+      "phone": "+966 529 261 442",
+      "contactPreference": "chat"
+    },
+    "rewardAmount": 400,
+    "status": "open",
+    "publishedAt": "2026-07-25T09:00:00.000Z",
+    "notificationsSent": 742,
+    "viewCount": 6643,
+    "sightings": [
+      {
+        "id": "lf-6-s1",
+        "note": {
+          "en": "Seen near the corner supermarket around sunset.",
+          "ar": "شوهد قرب بقالة الحي وقت الغروب."
+        },
+        "at": "2026-07-24T05:00:00.000Z",
+        "location": {
+          "x": 32,
+          "y": 40
+        }
+      }
+    ]
+  },
+  {
+    "id": "lf-8",
+    "reference": "LF-9107",
+    "kind": "found",
+    "species": "rabbit",
+    "breed": {
+      "en": "Lop",
+      "ar": "لوب"
+    },
+    "gender": "female",
+    "size": "sm",
+    "color": {
+      "en": "Brown and white",
+      "ar": "بني وأبيض"
+    },
+    "distinguishingMarks": {
+      "en": "Brown and white",
+      "ar": "بني وأبيض"
+    },
+    "photos": [
+      "/img/stock/3828097.jpg",
+      "/img/stock/458806.jpg"
+    ],
+    "hasCollar": false,
+    "hasMicrochip": false,
+    "lastSeenAt": "2026-07-18T02:00:00.000Z",
+    "cityId": "c-dubai",
+    "district": "Al Barsha",
+    "location": {
+      "x": 59,
+      "y": 51
+    },
+    "radiusKm": 5,
+    "description": {
+      "en": "Found wandering near a residential area. No collar. Please contact us immediately with any sighting.",
+      "ar": "عُثر عليه يتجول قرب منطقة سكنية. بدون طوق. يرجى التواصل فورًا عند أي مشاهدة."
+    },
+    "reporter": {
+      "id": "u-307",
+      "name": {
+        "en": "Layla H.",
+        "ar": "ليلى ه."
+      },
+      "avatar": "/img/stock/1516680.jpg",
+      "phone": "+966 544 252 971",
+      "contactPreference": "chat"
+    },
+    "status": "matched",
+    "publishedAt": "2026-07-17T09:00:00.000Z",
+    "notificationsSent": 506,
+    "viewCount": 6283,
+    "sightings": []
+  },
+  {
+    "id": "lf-9",
+    "reference": "LF-9108",
+    "kind": "lost",
+    "petName": "Nour",
+    "species": "cat",
+    "breed": {
+      "en": "Turkish Angora",
+      "ar": "أنغورا تركية"
+    },
+    "gender": "male",
+    "size": "md",
+    "color": {
+      "en": "Pure white",
+      "ar": "أبيض ناصع بعينين مختلفتين"
+    },
+    "distinguishingMarks": {
+      "en": "Pure white, odd eyes",
+      "ar": "أبيض ناصع بعينين مختلفتين"
+    },
+    "photos": [
+      "/img/stock/1543793.jpg",
+      "/img/stock/257532.jpg"
+    ],
+    "hasCollar": true,
+    "hasMicrochip": false,
+    "lastSeenAt": "2026-07-16T23:00:00.000Z",
+    "cityId": "c-riyadh",
+    "district": "Al Narjis",
+    "location": {
+      "x": 77,
+      "y": 69
+    },
+    "radiusKm": 8,
+    "description": {
+      "en": "Went missing near a residential area. Wearing a collar. Please contact us immediately with any sighting.",
+      "ar": "فُقد قرب منطقة سكنية. يرتدي طوقًا. يرجى التواصل فورًا عند أي مشاهدة."
+    },
+    "reporter": {
+      "id": "u-308",
+      "name": {
+        "en": "Yousef B.",
+        "ar": "يوسف ب."
+      },
+      "avatar": "/img/stock/1239291.jpg",
+      "phone": "+966 525 401 220",
+      "contactPreference": "chat"
+    },
+    "rewardAmount": 700,
+    "status": "resolved",
+    "publishedAt": "2026-07-22T09:00:00.000Z",
+    "resolvedAt": "2026-07-24T09:00:00.000Z",
+    "notificationsSent": 3894,
+    "viewCount": 6305,
+    "sightings": [],
+    "matchSuggestions": [
+      {
+        "reportId": "lf-3",
+        "confidence": 86
+      }
+    ]
+  },
+  {
+    "id": "lf-10",
+    "reference": "LF-9109",
+    "kind": "lost",
+    "petName": "Duke",
+    "species": "dog",
+    "breed": {
+      "en": "Husky",
+      "ar": "هاسكي"
+    },
+    "gender": "female",
+    "size": "xl",
+    "color": {
+      "en": "Grey and white",
+      "ar": "رمادي وأبيض"
+    },
+    "distinguishingMarks": {
+      "en": "Grey and white",
+      "ar": "رمادي وأبيض"
+    },
+    "photos": [
+      "/img/stock/406014.jpg",
+      "/img/stock/59523.jpg"
+    ],
+    "hasCollar": true,
+    "hasMicrochip": true,
+    "collarQrCode": "ALF-QR-74315",
+    "lastSeenAt": "2026-07-16T00:00:00.000Z",
+    "cityId": "c-jeddah",
+    "district": "Al Shatea",
+    "location": {
+      "x": 32,
+      "y": 24
+    },
+    "radiusKm": 10,
+    "description": {
+      "en": "Went missing near a residential area. Wearing a collar. Please contact us immediately with any sighting.",
+      "ar": "فُقد قرب منطقة سكنية. يرتدي طوقًا. يرجى التواصل فورًا عند أي مشاهدة."
+    },
+    "reporter": {
+      "id": "u-309",
+      "name": {
+        "en": "Reem K.",
+        "ar": "ريم ك."
+      },
+      "avatar": "/img/stock/1181690.jpg",
+      "phone": "+966 522 398 579",
+      "contactPreference": "chat"
+    },
+    "rewardAmount": 1200,
+    "status": "resolved",
+    "publishedAt": "2026-07-14T09:00:00.000Z",
+    "resolvedAt": "2026-07-21T09:00:00.000Z",
+    "notificationsSent": 3413,
+    "viewCount": 5140,
+    "sightings": [
+      {
+        "id": "lf-9-s1",
+        "note": {
+          "en": "Seen near the corner supermarket around sunset.",
+          "ar": "شوهد قرب بقالة الحي وقت الغروب."
+        },
+        "at": "2026-07-25T05:00:00.000Z",
+        "location": {
+          "x": 74,
+          "y": 66
+        }
+      }
+    ]
+  }
+]

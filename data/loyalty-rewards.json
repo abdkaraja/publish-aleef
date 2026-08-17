@@ -1,0 +1,130 @@
+[
+  {
+    "id": "lr-1",
+    "name": {
+      "en": "SAR 25 store credit",
+      "ar": "رصيد متجر ٢٥ ر.س"
+    },
+    "description": {
+      "en": "Applies automatically at checkout once redeemed. No expiry within the same quarter.",
+      "ar": "يُطبّق تلقائيًا عند الدفع بعد الاستبدال، وصالح خلال الربع نفسه."
+    },
+    "icon": "banknote",
+    "pointsCost": 250,
+    "type": "credit",
+    "value": 25,
+    "popular": true
+  },
+  {
+    "id": "lr-2",
+    "name": {
+      "en": "SAR 50 store credit",
+      "ar": "رصيد متجر ٥٠ ر.س"
+    },
+    "description": {
+      "en": "Applies automatically at checkout once redeemed. No expiry within the same quarter.",
+      "ar": "يُطبّق تلقائيًا عند الدفع بعد الاستبدال، وصالح خلال الربع نفسه."
+    },
+    "icon": "banknote",
+    "pointsCost": 500,
+    "type": "credit",
+    "value": 50,
+    "popular": true
+  },
+  {
+    "id": "lr-3",
+    "name": {
+      "en": "Free standard delivery",
+      "ar": "توصيل عادي مجاني"
+    },
+    "description": {
+      "en": "Applies automatically at checkout once redeemed. No expiry within the same quarter.",
+      "ar": "يُطبّق تلقائيًا عند الدفع بعد الاستبدال، وصالح خلال الربع نفسه."
+    },
+    "icon": "truck",
+    "pointsCost": 200,
+    "type": "coupon",
+    "value": 22,
+    "popular": false
+  },
+  {
+    "id": "lr-4",
+    "name": {
+      "en": "Free nail trim session",
+      "ar": "جلسة تقليم أظافر مجانية"
+    },
+    "description": {
+      "en": "Applies automatically at checkout once redeemed. No expiry within the same quarter.",
+      "ar": "يُطبّق تلقائيًا عند الدفع بعد الاستبدال، وصالح خلال الربع نفسه."
+    },
+    "icon": "scissors",
+    "pointsCost": 400,
+    "type": "free_service",
+    "value": 40,
+    "popular": false
+  },
+  {
+    "id": "lr-5",
+    "name": {
+      "en": "Free chat consultation",
+      "ar": "استشارة نصية مجانية"
+    },
+    "description": {
+      "en": "Applies automatically at checkout once redeemed. No expiry within the same quarter.",
+      "ar": "يُطبّق تلقائيًا عند الدفع بعد الاستبدال، وصالح خلال الربع نفسه."
+    },
+    "icon": "stethoscope",
+    "pointsCost": 900,
+    "type": "free_service",
+    "value": 90,
+    "popular": true
+  },
+  {
+    "id": "lr-6",
+    "name": {
+      "en": "Donate SAR 50 to a shelter",
+      "ar": "تبرع بـ ٥٠ ر.س لملجأ"
+    },
+    "description": {
+      "en": "Applies automatically at checkout once redeemed. No expiry within the same quarter.",
+      "ar": "يُطبّق تلقائيًا عند الدفع بعد الاستبدال، وصالح خلال الربع نفسه."
+    },
+    "icon": "hand-heart",
+    "pointsCost": 500,
+    "type": "donation",
+    "value": 50,
+    "popular": false
+  },
+  {
+    "id": "lr-7",
+    "name": {
+      "en": "Aleef Smart QR Collar",
+      "ar": "طوق أليف الذكي"
+    },
+    "description": {
+      "en": "Applies automatically at checkout once redeemed. No expiry within the same quarter.",
+      "ar": "يُطبّق تلقائيًا عند الدفع بعد الاستبدال، وصالح خلال الربع نفسه."
+    },
+    "icon": "qr-code",
+    "pointsCost": 1400,
+    "type": "product",
+    "value": 149,
+    "popular": true
+  },
+  {
+    "id": "lr-8",
+    "name": {
+      "en": "20% off any grooming package",
+      "ar": "خصم ٢٠٪ على أي باقة عناية"
+    },
+    "description": {
+      "en": "Applies automatically at checkout once redeemed. No expiry within the same quarter.",
+      "ar": "يُطبّق تلقائيًا عند الدفع بعد الاستبدال، وصالح خلال الربع نفسه."
+    },
+    "icon": "percent",
+    "pointsCost": 600,
+    "type": "coupon",
+    "value": 60,
+    "popular": false
+  }
+]

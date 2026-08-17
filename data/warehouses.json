@@ -1,0 +1,32 @@
+[
+  {
+    "id": "wh-ruh",
+    "name": {
+      "en": "Riyadh Main Warehouse",
+      "ar": "مستودع الرياض الرئيسي"
+    },
+    "cityId": "c-riyadh",
+    "capacity": 12000,
+    "used": 8420
+  },
+  {
+    "id": "wh-jed",
+    "name": {
+      "en": "Jeddah Distribution Hub",
+      "ar": "مركز توزيع جدة"
+    },
+    "cityId": "c-jeddah",
+    "capacity": 7000,
+    "used": 3910
+  },
+  {
+    "id": "wh-dmm",
+    "name": {
+      "en": "Dammam Satellite Store",
+      "ar": "مستودع الدمام الفرعي"
+    },
+    "cityId": "c-dammam",
+    "capacity": 3500,
+    "used": 1180
+  }
+]

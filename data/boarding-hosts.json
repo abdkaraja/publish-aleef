@@ -1,0 +1,894 @@
+[
+  {
+    "id": "bh-1",
+    "slug": "maha-al-otaibi",
+    "name": {
+      "en": "Maha Al-Otaibi",
+      "ar": "مها العتيبي"
+    },
+    "type": "individual",
+    "avatar": "/img/stock/1222271.jpg",
+    "cover": "/img/stock/1805164.jpg",
+    "gallery": [
+      "/img/stock/2253275.jpg",
+      "/img/stock/1643383.jpg",
+      "/img/stock/1108099.jpg"
+    ],
+    "bio": {
+      "en": "Maha Al-Otaibi welcomes a small number of guests at a time so every pet gets individual attention. Daily updates are sent through the app.",
+      "ar": "يستقبل مها العتيبي عددًا محدودًا من الضيوف في كل مرة ليحظى كل حيوان باهتمام فردي، مع إرسال تحديثات يومية عبر التطبيق."
+    },
+    "cityId": "c-jeddah",
+    "district": "Al Rawdah",
+    "location": {
+      "x": 49,
+      "y": 37
+    },
+    "verification": "approved",
+    "identityVerified": true,
+    "locationVerified": true,
+    "superhost": true,
+    "rating": {
+      "average": 4.5,
+      "count": 167,
+      "breakdown": [
+        14,
+        5,
+        10,
+        30,
+        108
+      ]
+    },
+    "acceptedSpecies": [
+      "cat",
+      "dog"
+    ],
+    "acceptedSizes": [
+      "xs",
+      "sm",
+      "md"
+    ],
+    "maxGuests": 2,
+    "capacityNights": 300,
+    "bookedNights": 254,
+    "services": [
+      "full_boarding",
+      "day_care",
+      "home_visit",
+      "dog_walking"
+    ],
+    "pricePerNight": 145,
+    "priceDayCare": 80,
+    "priceHomeVisit": 51,
+    "amenities": [
+      {
+        "en": "Fenced garden",
+        "ar": "حديقة مسوّرة"
+      },
+      {
+        "en": "Vet on call",
+        "ar": "طبيب بيطري تحت الطلب"
+      },
+      {
+        "en": "Daily photo updates",
+        "ar": "تحديثات مصوّرة يومية"
+      },
+      {
+        "en": "Playtime sessions",
+        "ar": "جلسات لعب"
+      },
+      {
+        "en": "Separate cat area",
+        "ar": "قسم مستقل للقطط"
+      }
+    ],
+    "houseRules": [
+      {
+        "en": "Up-to-date vaccinations required",
+        "ar": "يشترط تطعيمات سارية"
+      },
+      {
+        "en": "No aggressive behaviour history",
+        "ar": "لا يُقبل سجل سلوك عدواني"
+      },
+      {
+        "en": "Bring familiar food and bedding",
+        "ar": "أحضر طعامه وفراشه المعتاد"
+      }
+    ],
+    "requiresVaccination": true,
+    "dailyUpdateComplianceRate": 94,
+    "cancellationRate": 2.9,
+    "responseMinutes": 84,
+    "joinedAt": "2024-06-04T09:00:00.000Z",
+    "unavailableDates": [
+      "2026-07-28",
+      "2026-07-29",
+      "2026-08-06",
+      "2026-08-07",
+      "2026-08-08"
+    ]
+  },
+  {
+    "id": "bh-2",
+    "slug": "paws-retreat-hotel",
+    "name": {
+      "en": "Paws Retreat Hotel",
+      "ar": "فندق باوز ريتريت"
+    },
+    "type": "hotel",
+    "avatar": "/img/stock/1108099.jpg",
+    "cover": "/img/stock/1490908.jpg",
+    "gallery": [
+      "/img/stock/1805164.jpg",
+      "/img/stock/1643383.jpg",
+      "/img/stock/1254140.jpg"
+    ],
+    "bio": {
+      "en": "Paws Retreat Hotel welcomes a small number of guests at a time so every pet gets individual attention. Daily updates are sent through the app.",
+      "ar": "يستقبل فندق باوز ريتريت عددًا محدودًا من الضيوف في كل مرة ليحظى كل حيوان باهتمام فردي، مع إرسال تحديثات يومية عبر التطبيق."
+    },
+    "cityId": "c-riyadh",
+    "district": "Al Malqa",
+    "location": {
+      "x": 16,
+      "y": 28
+    },
+    "verification": "approved",
+    "identityVerified": true,
+    "locationVerified": true,
+    "superhost": true,
+    "rating": {
+      "average": 4.3,
+      "count": 19,
+      "breakdown": [
+        2,
+        1,
+        1,
+        3,
+        12
+      ]
+    },
+    "acceptedSpecies": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "acceptedSizes": [
+      "xs",
+      "sm",
+      "md",
+      "lg",
+      "xl"
+    ],
+    "maxGuests": 12,
+    "capacityNights": 300,
+    "bookedNights": 184,
+    "services": [
+      "full_boarding",
+      "day_care",
+      "home_visit"
+    ],
+    "pricePerNight": 220,
+    "priceDayCare": 121,
+    "priceHomeVisit": 77,
+    "amenities": [
+      {
+        "en": "Vet on call",
+        "ar": "طبيب بيطري تحت الطلب"
+      },
+      {
+        "en": "Fenced garden",
+        "ar": "حديقة مسوّرة"
+      },
+      {
+        "en": "Playtime sessions",
+        "ar": "جلسات لعب"
+      },
+      {
+        "en": "Daily photo updates",
+        "ar": "تحديثات مصوّرة يومية"
+      },
+      {
+        "en": "24/7 CCTV",
+        "ar": "كاميرات مراقبة على مدار الساعة"
+      }
+    ],
+    "houseRules": [
+      {
+        "en": "Up-to-date vaccinations required",
+        "ar": "يشترط تطعيمات سارية"
+      },
+      {
+        "en": "No aggressive behaviour history",
+        "ar": "لا يُقبل سجل سلوك عدواني"
+      },
+      {
+        "en": "Bring familiar food and bedding",
+        "ar": "أحضر طعامه وفراشه المعتاد"
+      }
+    ],
+    "requiresVaccination": true,
+    "dailyUpdateComplianceRate": 87,
+    "cancellationRate": 2.9,
+    "responseMinutes": 83,
+    "joinedAt": "2024-12-22T09:00:00.000Z",
+    "unavailableDates": [
+      "2026-07-28",
+      "2026-07-29",
+      "2026-08-06",
+      "2026-08-07",
+      "2026-08-08"
+    ]
+  },
+  {
+    "id": "bh-3",
+    "slug": "salem-family-home",
+    "name": {
+      "en": "Salem Family Home",
+      "ar": "بيت عائلة سالم"
+    },
+    "type": "individual",
+    "avatar": "/img/stock/220453.jpg",
+    "cover": "/img/stock/1170986.jpg",
+    "gallery": [
+      "/img/stock/1108099.jpg",
+      "/img/stock/1643383.jpg",
+      "/img/stock/2253275.jpg"
+    ],
+    "bio": {
+      "en": "Salem Family Home welcomes a small number of guests at a time so every pet gets individual attention. Daily updates are sent through the app.",
+      "ar": "يستقبل بيت عائلة سالم عددًا محدودًا من الضيوف في كل مرة ليحظى كل حيوان باهتمام فردي، مع إرسال تحديثات يومية عبر التطبيق."
+    },
+    "cityId": "c-riyadh",
+    "district": "Al Narjis",
+    "location": {
+      "x": 37,
+      "y": 49
+    },
+    "verification": "approved",
+    "identityVerified": true,
+    "locationVerified": true,
+    "superhost": false,
+    "rating": {
+      "average": 4.4,
+      "count": 37,
+      "breakdown": [
+        4,
+        1,
+        2,
+        7,
+        23
+      ]
+    },
+    "acceptedSpecies": [
+      "cat",
+      "dog"
+    ],
+    "acceptedSizes": [
+      "xs",
+      "sm",
+      "md"
+    ],
+    "maxGuests": 4,
+    "capacityNights": 300,
+    "bookedNights": 192,
+    "services": [
+      "full_boarding",
+      "day_care",
+      "home_visit",
+      "dog_walking"
+    ],
+    "pricePerNight": 120,
+    "priceDayCare": 66,
+    "priceHomeVisit": 42,
+    "amenities": [
+      {
+        "en": "Daily photo updates",
+        "ar": "تحديثات مصوّرة يومية"
+      },
+      {
+        "en": "Playtime sessions",
+        "ar": "جلسات لعب"
+      },
+      {
+        "en": "Fenced garden",
+        "ar": "حديقة مسوّرة"
+      },
+      {
+        "en": "Vet on call",
+        "ar": "طبيب بيطري تحت الطلب"
+      },
+      {
+        "en": "Pickup & drop-off",
+        "ar": "خدمة التوصيل والاستلام"
+      }
+    ],
+    "houseRules": [
+      {
+        "en": "Up-to-date vaccinations required",
+        "ar": "يشترط تطعيمات سارية"
+      },
+      {
+        "en": "No aggressive behaviour history",
+        "ar": "لا يُقبل سجل سلوك عدواني"
+      },
+      {
+        "en": "Bring familiar food and bedding",
+        "ar": "أحضر طعامه وفراشه المعتاد"
+      }
+    ],
+    "requiresVaccination": true,
+    "dailyUpdateComplianceRate": 94,
+    "cancellationRate": 4.7,
+    "responseMinutes": 8,
+    "joinedAt": "2024-10-09T09:00:00.000Z",
+    "unavailableDates": [
+      "2026-07-28",
+      "2026-07-29",
+      "2026-08-06",
+      "2026-08-07",
+      "2026-08-08"
+    ]
+  },
+  {
+    "id": "bh-4",
+    "slug": "desert-tails-resort",
+    "name": {
+      "en": "Desert Tails Resort",
+      "ar": "منتجع ديزرت تيلز"
+    },
+    "type": "hotel",
+    "avatar": "/img/stock/1490908.jpg",
+    "cover": "/img/stock/2253275.jpg",
+    "gallery": [
+      "/img/stock/1254140.jpg",
+      "/img/stock/1571460.jpg",
+      "/img/stock/1805164.jpg"
+    ],
+    "bio": {
+      "en": "Desert Tails Resort welcomes a small number of guests at a time so every pet gets individual attention. Daily updates are sent through the app.",
+      "ar": "يستقبل منتجع ديزرت تيلز عددًا محدودًا من الضيوف في كل مرة ليحظى كل حيوان باهتمام فردي، مع إرسال تحديثات يومية عبر التطبيق."
+    },
+    "cityId": "c-riyadh",
+    "district": "Hittin",
+    "location": {
+      "x": 39,
+      "y": 51
+    },
+    "verification": "approved",
+    "identityVerified": true,
+    "locationVerified": true,
+    "superhost": true,
+    "rating": {
+      "average": 4.8,
+      "count": 73,
+      "breakdown": [
+        4,
+        2,
+        4,
+        13,
+        50
+      ]
+    },
+    "acceptedSpecies": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "acceptedSizes": [
+      "xs",
+      "sm",
+      "md",
+      "lg",
+      "xl"
+    ],
+    "maxGuests": 24,
+    "capacityNights": 300,
+    "bookedNights": 207,
+    "services": [
+      "full_boarding",
+      "day_care",
+      "home_visit"
+    ],
+    "pricePerNight": 265,
+    "priceDayCare": 146,
+    "priceHomeVisit": 93,
+    "amenities": [
+      {
+        "en": "Playtime sessions",
+        "ar": "جلسات لعب"
+      },
+      {
+        "en": "Daily photo updates",
+        "ar": "تحديثات مصوّرة يومية"
+      },
+      {
+        "en": "Vet on call",
+        "ar": "طبيب بيطري تحت الطلب"
+      },
+      {
+        "en": "Fenced garden",
+        "ar": "حديقة مسوّرة"
+      },
+      {
+        "en": "Air conditioning",
+        "ar": "تكييف"
+      }
+    ],
+    "houseRules": [
+      {
+        "en": "Up-to-date vaccinations required",
+        "ar": "يشترط تطعيمات سارية"
+      },
+      {
+        "en": "No aggressive behaviour history",
+        "ar": "لا يُقبل سجل سلوك عدواني"
+      },
+      {
+        "en": "Bring familiar food and bedding",
+        "ar": "أحضر طعامه وفراشه المعتاد"
+      }
+    ],
+    "requiresVaccination": true,
+    "dailyUpdateComplianceRate": 92,
+    "cancellationRate": 4.9,
+    "responseMinutes": 19,
+    "joinedAt": "2025-09-26T09:00:00.000Z",
+    "unavailableDates": [
+      "2026-07-28",
+      "2026-07-29",
+      "2026-08-06",
+      "2026-08-07",
+      "2026-08-08"
+    ]
+  },
+  {
+    "id": "bh-5",
+    "slug": "noura-garden-villa",
+    "name": {
+      "en": "Noura Garden Villa",
+      "ar": "فيلا نورة بالحديقة"
+    },
+    "type": "individual",
+    "avatar": "/img/stock/1130626.jpg",
+    "cover": "/img/stock/1170986.jpg",
+    "gallery": [
+      "/img/stock/1490908.jpg",
+      "/img/stock/271624.jpg",
+      "/img/stock/2253275.jpg"
+    ],
+    "bio": {
+      "en": "Noura Garden Villa welcomes a small number of guests at a time so every pet gets individual attention. Daily updates are sent through the app.",
+      "ar": "يستقبل فيلا نورة بالحديقة عددًا محدودًا من الضيوف في كل مرة ليحظى كل حيوان باهتمام فردي، مع إرسال تحديثات يومية عبر التطبيق."
+    },
+    "cityId": "c-jeddah",
+    "district": "Al Rawdah",
+    "location": {
+      "x": 73,
+      "y": 85
+    },
+    "verification": "approved",
+    "identityVerified": true,
+    "locationVerified": true,
+    "superhost": false,
+    "rating": {
+      "average": 4.9,
+      "count": 70,
+      "breakdown": [
+        2,
+        2,
+        4,
+        13,
+        49
+      ]
+    },
+    "acceptedSpecies": [
+      "cat",
+      "dog"
+    ],
+    "acceptedSizes": [
+      "xs",
+      "sm",
+      "md"
+    ],
+    "maxGuests": 6,
+    "capacityNights": 300,
+    "bookedNights": 208,
+    "services": [
+      "full_boarding",
+      "day_care",
+      "home_visit",
+      "dog_walking"
+    ],
+    "pricePerNight": 165,
+    "priceDayCare": 91,
+    "priceHomeVisit": 58,
+    "amenities": [
+      {
+        "en": "Daily photo updates",
+        "ar": "تحديثات مصوّرة يومية"
+      },
+      {
+        "en": "24/7 CCTV",
+        "ar": "كاميرات مراقبة على مدار الساعة"
+      },
+      {
+        "en": "Fenced garden",
+        "ar": "حديقة مسوّرة"
+      },
+      {
+        "en": "Playtime sessions",
+        "ar": "جلسات لعب"
+      },
+      {
+        "en": "Pickup & drop-off",
+        "ar": "خدمة التوصيل والاستلام"
+      }
+    ],
+    "houseRules": [
+      {
+        "en": "Up-to-date vaccinations required",
+        "ar": "يشترط تطعيمات سارية"
+      },
+      {
+        "en": "No aggressive behaviour history",
+        "ar": "لا يُقبل سجل سلوك عدواني"
+      },
+      {
+        "en": "Bring familiar food and bedding",
+        "ar": "أحضر طعامه وفراشه المعتاد"
+      }
+    ],
+    "requiresVaccination": true,
+    "dailyUpdateComplianceRate": 83,
+    "cancellationRate": 5.7,
+    "responseMinutes": 32,
+    "joinedAt": "2025-12-23T09:00:00.000Z",
+    "unavailableDates": [
+      "2026-07-28",
+      "2026-07-29",
+      "2026-08-06",
+      "2026-08-07",
+      "2026-08-08"
+    ]
+  },
+  {
+    "id": "bh-6",
+    "slug": "coastal-pet-lodge",
+    "name": {
+      "en": "Coastal Pet Lodge",
+      "ar": "نزل الساحل للحيوانات"
+    },
+    "type": "hotel",
+    "avatar": "/img/stock/2253275.jpg",
+    "cover": "/img/stock/1490908.jpg",
+    "gallery": [
+      "/img/stock/1805164.jpg",
+      "/img/stock/1643383.jpg",
+      "/img/stock/1254140.jpg"
+    ],
+    "bio": {
+      "en": "Coastal Pet Lodge welcomes a small number of guests at a time so every pet gets individual attention. Daily updates are sent through the app.",
+      "ar": "يستقبل نزل الساحل للحيوانات عددًا محدودًا من الضيوف في كل مرة ليحظى كل حيوان باهتمام فردي، مع إرسال تحديثات يومية عبر التطبيق."
+    },
+    "cityId": "c-dammam",
+    "district": "Uhud",
+    "location": {
+      "x": 42,
+      "y": 54
+    },
+    "verification": "approved",
+    "identityVerified": true,
+    "locationVerified": false,
+    "superhost": false,
+    "rating": {
+      "average": 4.8,
+      "count": 92,
+      "breakdown": [
+        2,
+        3,
+        6,
+        17,
+        64
+      ]
+    },
+    "acceptedSpecies": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "acceptedSizes": [
+      "xs",
+      "sm",
+      "md",
+      "lg",
+      "xl"
+    ],
+    "maxGuests": 34,
+    "capacityNights": 300,
+    "bookedNights": 128,
+    "services": [
+      "full_boarding",
+      "day_care",
+      "home_visit"
+    ],
+    "pricePerNight": 190,
+    "priceDayCare": 105,
+    "priceHomeVisit": 67,
+    "amenities": [
+      {
+        "en": "24/7 CCTV",
+        "ar": "كاميرات مراقبة على مدار الساعة"
+      },
+      {
+        "en": "Separate cat area",
+        "ar": "قسم مستقل للقطط"
+      },
+      {
+        "en": "Air conditioning",
+        "ar": "تكييف"
+      },
+      {
+        "en": "Pickup & drop-off",
+        "ar": "خدمة التوصيل والاستلام"
+      },
+      {
+        "en": "Vet on call",
+        "ar": "طبيب بيطري تحت الطلب"
+      }
+    ],
+    "houseRules": [
+      {
+        "en": "Up-to-date vaccinations required",
+        "ar": "يشترط تطعيمات سارية"
+      },
+      {
+        "en": "No aggressive behaviour history",
+        "ar": "لا يُقبل سجل سلوك عدواني"
+      },
+      {
+        "en": "Bring familiar food and bedding",
+        "ar": "أحضر طعامه وفراشه المعتاد"
+      }
+    ],
+    "requiresVaccination": true,
+    "dailyUpdateComplianceRate": 90,
+    "cancellationRate": 5.6,
+    "responseMinutes": 13,
+    "joinedAt": "2025-01-30T09:00:00.000Z",
+    "unavailableDates": [
+      "2026-07-28",
+      "2026-07-29",
+      "2026-08-06",
+      "2026-08-07",
+      "2026-08-08"
+    ]
+  },
+  {
+    "id": "bh-7",
+    "slug": "hana-cat-boutique",
+    "name": {
+      "en": "Hana Cat Boutique",
+      "ar": "بوتيك هناء للقطط"
+    },
+    "type": "individual",
+    "avatar": "/img/stock/1239291.jpg",
+    "cover": "/img/stock/1170986.jpg",
+    "gallery": [
+      "/img/stock/1108099.jpg",
+      "/img/stock/1643383.jpg",
+      "/img/stock/1490908.jpg"
+    ],
+    "bio": {
+      "en": "Hana Cat Boutique welcomes a small number of guests at a time so every pet gets individual attention. Daily updates are sent through the app.",
+      "ar": "يستقبل بوتيك هناء للقطط عددًا محدودًا من الضيوف في كل مرة ليحظى كل حيوان باهتمام فردي، مع إرسال تحديثات يومية عبر التطبيق."
+    },
+    "cityId": "c-riyadh",
+    "district": "Al Olaya",
+    "location": {
+      "x": 67,
+      "y": 79
+    },
+    "verification": "approved",
+    "identityVerified": true,
+    "locationVerified": true,
+    "superhost": true,
+    "rating": {
+      "average": 4.8,
+      "count": 307,
+      "breakdown": [
+        13,
+        9,
+        18,
+        55,
+        212
+      ]
+    },
+    "acceptedSpecies": [
+      "cat",
+      "dog"
+    ],
+    "acceptedSizes": [
+      "xs",
+      "sm",
+      "md"
+    ],
+    "maxGuests": 6,
+    "capacityNights": 300,
+    "bookedNights": 197,
+    "services": [
+      "full_boarding",
+      "day_care",
+      "home_visit",
+      "dog_walking"
+    ],
+    "pricePerNight": 135,
+    "priceDayCare": 74,
+    "priceHomeVisit": 47,
+    "amenities": [
+      {
+        "en": "Fenced garden",
+        "ar": "حديقة مسوّرة"
+      },
+      {
+        "en": "Playtime sessions",
+        "ar": "جلسات لعب"
+      },
+      {
+        "en": "Daily photo updates",
+        "ar": "تحديثات مصوّرة يومية"
+      },
+      {
+        "en": "24/7 CCTV",
+        "ar": "كاميرات مراقبة على مدار الساعة"
+      },
+      {
+        "en": "Separate cat area",
+        "ar": "قسم مستقل للقطط"
+      }
+    ],
+    "houseRules": [
+      {
+        "en": "Up-to-date vaccinations required",
+        "ar": "يشترط تطعيمات سارية"
+      },
+      {
+        "en": "No aggressive behaviour history",
+        "ar": "لا يُقبل سجل سلوك عدواني"
+      },
+      {
+        "en": "Bring familiar food and bedding",
+        "ar": "أحضر طعامه وفراشه المعتاد"
+      }
+    ],
+    "requiresVaccination": true,
+    "dailyUpdateComplianceRate": 82,
+    "cancellationRate": 3.2,
+    "responseMinutes": 54,
+    "joinedAt": "2025-05-05T09:00:00.000Z",
+    "unavailableDates": [
+      "2026-07-28",
+      "2026-07-29",
+      "2026-08-06",
+      "2026-08-07",
+      "2026-08-08"
+    ]
+  },
+  {
+    "id": "bh-8",
+    "slug": "marina-pet-suites",
+    "name": {
+      "en": "Marina Pet Suites",
+      "ar": "أجنحة المارينا"
+    },
+    "type": "hotel",
+    "avatar": "/img/stock/1108099.jpg",
+    "cover": "/img/stock/1490908.jpg",
+    "gallery": [
+      "/img/stock/1805164.jpg",
+      "/img/stock/271624.jpg",
+      "/img/stock/1254140.jpg"
+    ],
+    "bio": {
+      "en": "Marina Pet Suites welcomes a small number of guests at a time so every pet gets individual attention. Daily updates are sent through the app.",
+      "ar": "يستقبل أجنحة المارينا عددًا محدودًا من الضيوف في كل مرة ليحظى كل حيوان باهتمام فردي، مع إرسال تحديثات يومية عبر التطبيق."
+    },
+    "cityId": "c-dubai",
+    "district": "Al Barsha",
+    "location": {
+      "x": 71,
+      "y": 59
+    },
+    "verification": "pending",
+    "identityVerified": false,
+    "locationVerified": false,
+    "superhost": false,
+    "rating": {
+      "average": 4.6,
+      "count": 473,
+      "breakdown": [
+        33,
+        14,
+        28,
+        85,
+        313
+      ]
+    },
+    "acceptedSpecies": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "acceptedSizes": [
+      "xs",
+      "sm",
+      "md",
+      "lg",
+      "xl"
+    ],
+    "maxGuests": 17,
+    "capacityNights": 300,
+    "bookedNights": 150,
+    "services": [
+      "full_boarding",
+      "day_care",
+      "home_visit"
+    ],
+    "pricePerNight": 310,
+    "priceDayCare": 171,
+    "priceHomeVisit": 109,
+    "amenities": [
+      {
+        "en": "Air conditioning",
+        "ar": "تكييف"
+      },
+      {
+        "en": "Pickup & drop-off",
+        "ar": "خدمة التوصيل والاستلام"
+      },
+      {
+        "en": "24/7 CCTV",
+        "ar": "كاميرات مراقبة على مدار الساعة"
+      },
+      {
+        "en": "Separate cat area",
+        "ar": "قسم مستقل للقطط"
+      },
+      {
+        "en": "Vet on call",
+        "ar": "طبيب بيطري تحت الطلب"
+      }
+    ],
+    "houseRules": [
+      {
+        "en": "Up-to-date vaccinations required",
+        "ar": "يشترط تطعيمات سارية"
+      },
+      {
+        "en": "No aggressive behaviour history",
+        "ar": "لا يُقبل سجل سلوك عدواني"
+      },
+      {
+        "en": "Bring familiar food and bedding",
+        "ar": "أحضر طعامه وفراشه المعتاد"
+      }
+    ],
+    "requiresVaccination": true,
+    "dailyUpdateComplianceRate": 83,
+    "cancellationRate": 6,
+    "responseMinutes": 55,
+    "joinedAt": "2024-06-19T09:00:00.000Z",
+    "unavailableDates": [
+      "2026-07-28",
+      "2026-07-29",
+      "2026-08-06",
+      "2026-08-07",
+      "2026-08-08"
+    ]
+  }
+]

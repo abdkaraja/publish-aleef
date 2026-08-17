@@ -1,0 +1,18 @@
+{
+  "name": "Aleef — Pet Care Platform",
+  "short_name": "Aleef",
+  "description": "An integrated platform for pets and veterinary care.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F9FB",
+  "theme_color": "#8FBC8F",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/brand/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

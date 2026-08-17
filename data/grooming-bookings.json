@@ -1,0 +1,478 @@
+[
+  {
+    "id": "gb-1",
+    "reference": "GR-4100",
+    "petId": "pt-1",
+    "petName": "Simba",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-7",
+      "gs-6"
+    ],
+    "staffId": "gst-1",
+    "staffName": {
+      "en": "Tariq Nassar",
+      "ar": "طارق نصار"
+    },
+    "location": "home",
+    "date": "2026-05-16T09:00:00.000Z",
+    "startTime": "11:00",
+    "endTime": "13:00",
+    "total": 177,
+    "commissionPercent": 18,
+    "status": "completed",
+    "beforePhoto": "/img/stock/1254140.jpg",
+    "afterPhoto": "/img/stock/1851164.jpg",
+    "rating": 4
+  },
+  {
+    "id": "gb-2",
+    "reference": "GR-4101",
+    "petId": "pt-2",
+    "petName": "Luna",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-4",
+      "gs-5"
+    ],
+    "staffId": "gst-2",
+    "staffName": {
+      "en": "Amal Sadiq",
+      "ar": "أمل صادق"
+    },
+    "location": "center",
+    "date": "2026-08-01T09:00:00.000Z",
+    "startTime": "12:00",
+    "endTime": "14:00",
+    "total": 120,
+    "commissionPercent": 18,
+    "status": "cancelled"
+  },
+  {
+    "id": "gb-3",
+    "reference": "GR-4102",
+    "petId": "pt-3",
+    "petName": "Rocky",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-7",
+      "gs-8"
+    ],
+    "staffId": "gst-3",
+    "staffName": {
+      "en": "Bilal Haddad",
+      "ar": "بلال حداد"
+    },
+    "location": "center",
+    "date": "2026-07-25T09:00:00.000Z",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "total": 281,
+    "commissionPercent": 18,
+    "status": "en_route",
+    "vanPosition": {
+      "x": 26,
+      "y": 30
+    },
+    "etaMinutes": 24
+  },
+  {
+    "id": "gb-4",
+    "reference": "GR-4103",
+    "petId": "pt-4",
+    "petName": "Kiwi",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-4",
+      "gs-3"
+    ],
+    "staffId": "gst-4",
+    "staffName": {
+      "en": "Rana Qasim",
+      "ar": "رنا قاسم"
+    },
+    "location": "home",
+    "date": "2026-03-28T09:00:00.000Z",
+    "startTime": "12:00",
+    "endTime": "14:00",
+    "total": 241,
+    "commissionPercent": 18,
+    "status": "completed",
+    "beforePhoto": "/img/stock/1851164.jpg",
+    "afterPhoto": "/img/stock/96420.jpg",
+    "rating": 5
+  },
+  {
+    "id": "gb-5",
+    "reference": "GR-4104",
+    "petId": "pt-5",
+    "petName": "Nala",
+    "ownerId": "u-060",
+    "ownerName": {
+      "en": "Maha Al-Otaibi",
+      "ar": "مها العتيبي"
+    },
+    "serviceIds": [
+      "gs-1",
+      "gs-10"
+    ],
+    "staffId": "gst-5",
+    "staffName": {
+      "en": "Ziad Marwan",
+      "ar": "زياد مروان"
+    },
+    "location": "center",
+    "date": "2026-07-25T09:00:00.000Z",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "total": 368,
+    "commissionPercent": 18,
+    "status": "in_progress"
+  },
+  {
+    "id": "gb-6",
+    "reference": "GR-4105",
+    "petId": "pt-6",
+    "petName": "Sultan",
+    "ownerId": "u-080",
+    "ownerName": {
+      "en": "Hamad Al-Dosari",
+      "ar": "حمد الدوسري"
+    },
+    "serviceIds": [
+      "gs-8",
+      "gs-7"
+    ],
+    "staffId": "gst-1",
+    "staffName": {
+      "en": "Tariq Nassar",
+      "ar": "طارق نصار"
+    },
+    "location": "center",
+    "date": "2026-08-13T09:00:00.000Z",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "total": 191,
+    "commissionPercent": 18,
+    "status": "pending"
+  },
+  {
+    "id": "gb-7",
+    "reference": "GR-4106",
+    "petId": "pt-1",
+    "petName": "Simba",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-5",
+      "gs-4"
+    ],
+    "staffId": "gst-2",
+    "staffName": {
+      "en": "Amal Sadiq",
+      "ar": "أمل صادق"
+    },
+    "location": "home",
+    "date": "2026-08-12T09:00:00.000Z",
+    "startTime": "09:00",
+    "endTime": "11:00",
+    "total": 321,
+    "commissionPercent": 18,
+    "status": "en_route",
+    "vanPosition": {
+      "x": 34,
+      "y": 38
+    },
+    "etaMinutes": 16
+  },
+  {
+    "id": "gb-8",
+    "reference": "GR-4107",
+    "petId": "pt-2",
+    "petName": "Luna",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-8",
+      "gs-9"
+    ],
+    "staffId": "gst-3",
+    "staffName": {
+      "en": "Bilal Haddad",
+      "ar": "بلال حداد"
+    },
+    "location": "center",
+    "date": "2026-07-13T09:00:00.000Z",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "total": 372,
+    "commissionPercent": 18,
+    "status": "completed",
+    "beforePhoto": "/img/stock/573241.jpg",
+    "afterPhoto": "/img/stock/2253275.jpg",
+    "rating": 5
+  },
+  {
+    "id": "gb-9",
+    "reference": "GR-4108",
+    "petId": "pt-3",
+    "petName": "Rocky",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-9",
+      "gs-8"
+    ],
+    "staffId": "gst-4",
+    "staffName": {
+      "en": "Rana Qasim",
+      "ar": "رنا قاسم"
+    },
+    "location": "center",
+    "date": "2026-05-24T09:00:00.000Z",
+    "startTime": "17:00",
+    "endTime": "19:00",
+    "total": 331,
+    "commissionPercent": 18,
+    "status": "completed",
+    "beforePhoto": "/img/stock/96420.jpg",
+    "afterPhoto": "/img/stock/1805164.jpg",
+    "rating": 4
+  },
+  {
+    "id": "gb-10",
+    "reference": "GR-4109",
+    "petId": "pt-4",
+    "petName": "Kiwi",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-4",
+      "gs-5"
+    ],
+    "staffId": "gst-5",
+    "staffName": {
+      "en": "Ziad Marwan",
+      "ar": "زياد مروان"
+    },
+    "location": "home",
+    "date": "2026-08-15T09:00:00.000Z",
+    "startTime": "12:00",
+    "endTime": "14:00",
+    "total": 361,
+    "commissionPercent": 18,
+    "status": "en_route",
+    "vanPosition": {
+      "x": 47,
+      "y": 43
+    },
+    "etaMinutes": 35
+  },
+  {
+    "id": "gb-11",
+    "reference": "GR-4110",
+    "petId": "pt-5",
+    "petName": "Nala",
+    "ownerId": "u-060",
+    "ownerName": {
+      "en": "Maha Al-Otaibi",
+      "ar": "مها العتيبي"
+    },
+    "serviceIds": [
+      "gs-4",
+      "gs-3"
+    ],
+    "staffId": "gst-1",
+    "staffName": {
+      "en": "Tariq Nassar",
+      "ar": "طارق نصار"
+    },
+    "location": "center",
+    "date": "2026-07-10T09:00:00.000Z",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "total": 179,
+    "commissionPercent": 18,
+    "status": "completed",
+    "beforePhoto": "/img/stock/1805164.jpg",
+    "afterPhoto": "/img/stock/96420.jpg",
+    "rating": 5
+  },
+  {
+    "id": "gb-12",
+    "reference": "GR-4111",
+    "petId": "pt-6",
+    "petName": "Sultan",
+    "ownerId": "u-080",
+    "ownerName": {
+      "en": "Hamad Al-Dosari",
+      "ar": "حمد الدوسري"
+    },
+    "serviceIds": [
+      "gs-9",
+      "gs-10"
+    ],
+    "staffId": "gst-2",
+    "staffName": {
+      "en": "Amal Sadiq",
+      "ar": "أمل صادق"
+    },
+    "location": "center",
+    "date": "2026-05-30T09:00:00.000Z",
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "total": 214,
+    "commissionPercent": 18,
+    "status": "completed",
+    "beforePhoto": "/img/stock/2253275.jpg",
+    "afterPhoto": "/img/stock/1805164.jpg",
+    "rating": 4
+  },
+  {
+    "id": "gb-13",
+    "reference": "GR-4112",
+    "petId": "pt-1",
+    "petName": "Simba",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-2",
+      "gs-1"
+    ],
+    "staffId": "gst-3",
+    "staffName": {
+      "en": "Bilal Haddad",
+      "ar": "بلال حداد"
+    },
+    "location": "home",
+    "date": "2026-05-17T09:00:00.000Z",
+    "startTime": "12:00",
+    "endTime": "14:00",
+    "total": 358,
+    "commissionPercent": 18,
+    "status": "completed",
+    "beforePhoto": "/img/stock/1851164.jpg",
+    "afterPhoto": "/img/stock/2253275.jpg",
+    "rating": 5
+  },
+  {
+    "id": "gb-14",
+    "reference": "GR-4113",
+    "petId": "pt-2",
+    "petName": "Luna",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-9",
+      "gs-8"
+    ],
+    "staffId": "gst-4",
+    "staffName": {
+      "en": "Rana Qasim",
+      "ar": "رنا قاسم"
+    },
+    "location": "center",
+    "date": "2026-05-31T09:00:00.000Z",
+    "startTime": "13:00",
+    "endTime": "15:00",
+    "total": 191,
+    "commissionPercent": 18,
+    "status": "completed",
+    "beforePhoto": "/img/stock/1254140.jpg",
+    "afterPhoto": "/img/stock/1851164.jpg",
+    "rating": 4
+  },
+  {
+    "id": "gb-15",
+    "reference": "GR-4114",
+    "petId": "pt-3",
+    "petName": "Rocky",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-2",
+      "gs-1"
+    ],
+    "staffId": "gst-5",
+    "staffName": {
+      "en": "Ziad Marwan",
+      "ar": "زياد مروان"
+    },
+    "location": "center",
+    "date": "2026-08-13T09:00:00.000Z",
+    "startTime": "16:00",
+    "endTime": "18:00",
+    "total": 319,
+    "commissionPercent": 18,
+    "status": "confirmed"
+  },
+  {
+    "id": "gb-16",
+    "reference": "GR-4115",
+    "petId": "pt-4",
+    "petName": "Kiwi",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "serviceIds": [
+      "gs-7",
+      "gs-8"
+    ],
+    "staffId": "gst-1",
+    "staffName": {
+      "en": "Tariq Nassar",
+      "ar": "طارق نصار"
+    },
+    "location": "home",
+    "date": "2026-07-27T09:00:00.000Z",
+    "startTime": "15:00",
+    "endTime": "17:00",
+    "total": 348,
+    "commissionPercent": 18,
+    "status": "en_route",
+    "vanPosition": {
+      "x": 52,
+      "y": 56
+    },
+    "etaMinutes": 26
+  }
+]

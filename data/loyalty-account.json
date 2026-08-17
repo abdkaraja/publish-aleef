@@ -1,0 +1,15 @@
+{
+  "customerId": "u-001",
+  "balance": 4820,
+  "lifetimeEarned": 12640,
+  "lifetimeRedeemed": 7820,
+  "tier": "gold",
+  "tierProgress": 68,
+  "nextTier": "platinum",
+  "pointsToNextTier": 3180,
+  "expiringSoon": {
+    "points": 600,
+    "expiresAt": "2026-08-18T09:00:00.000Z"
+  },
+  "pointValue": 0.1
+}

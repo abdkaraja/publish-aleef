@@ -1,0 +1,98 @@
+[
+  {
+    "id": "tmb-1",
+    "name": {
+      "en": "Faisal Al-Nasser",
+      "ar": "فيصل الناصر"
+    },
+    "role": {
+      "en": "Founder & CEO",
+      "ar": "المؤسس والرئيس التنفيذي"
+    },
+    "avatar": "/img/stock/220453.jpg",
+    "bio": {
+      "en": "Working to make excellent pet care accessible to every household in the region.",
+      "ar": "يعمل على جعل الرعاية المتميزة للحيوانات متاحة لكل بيت في المنطقة."
+    }
+  },
+  {
+    "id": "tmb-2",
+    "name": {
+      "en": "Dr. Yasmin Farouk",
+      "ar": "د. ياسمين فاروق"
+    },
+    "role": {
+      "en": "Chief Veterinary Officer",
+      "ar": "المدير الطبي البيطري"
+    },
+    "avatar": "/img/stock/1181690.jpg",
+    "bio": {
+      "en": "Working to make excellent pet care accessible to every household in the region.",
+      "ar": "يعمل على جعل الرعاية المتميزة للحيوانات متاحة لكل بيت في المنطقة."
+    }
+  },
+  {
+    "id": "tmb-3",
+    "name": {
+      "en": "Hind Al-Zahrani",
+      "ar": "هند الزهراني"
+    },
+    "role": {
+      "en": "Head of Operations",
+      "ar": "رئيسة العمليات"
+    },
+    "avatar": "/img/stock/1222271.jpg",
+    "bio": {
+      "en": "Working to make excellent pet care accessible to every household in the region.",
+      "ar": "يعمل على جعل الرعاية المتميزة للحيوانات متاحة لكل بيت في المنطقة."
+    }
+  },
+  {
+    "id": "tmb-4",
+    "name": {
+      "en": "Karim Haddad",
+      "ar": "كريم حداد"
+    },
+    "role": {
+      "en": "Head of Engineering",
+      "ar": "رئيس الهندسة"
+    },
+    "avatar": "/img/stock/220453.jpg",
+    "bio": {
+      "en": "Working to make excellent pet care accessible to every household in the region.",
+      "ar": "يعمل على جعل الرعاية المتميزة للحيوانات متاحة لكل بيت في المنطقة."
+    }
+  },
+  {
+    "id": "tmb-5",
+    "name": {
+      "en": "Reem Al-Faraj",
+      "ar": "ريم الفرج"
+    },
+    "role": {
+      "en": "Community & Rescue Lead",
+      "ar": "مسؤولة المجتمع والإنقاذ"
+    },
+    "avatar": "/img/stock/1516680.jpg",
+    "bio": {
+      "en": "Working to make excellent pet care accessible to every household in the region.",
+      "ar": "يعمل على جعل الرعاية المتميزة للحيوانات متاحة لكل بيت في المنطقة."
+    }
+  },
+  {
+    "id": "tmb-6",
+    "name": {
+      "en": "Bandar Al-Shehri",
+      "ar": "بندر الشهري"
+    },
+    "role": {
+      "en": "Head of Partnerships",
+      "ar": "رئيس الشراكات"
+    },
+    "avatar": "/img/stock/774909.jpg",
+    "bio": {
+      "en": "Working to make excellent pet care accessible to every household in the region.",
+      "ar": "يعمل على جعل الرعاية المتميزة للحيوانات متاحة لكل بيت في المنطقة."
+    }
+  }
+]

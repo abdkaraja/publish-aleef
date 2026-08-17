@@ -1,0 +1,118 @@
+[
+  {
+    "id": "c-riyadh",
+    "name": {
+      "en": "Riyadh",
+      "ar": "الرياض"
+    },
+    "country": {
+      "en": "Saudi Arabia",
+      "ar": "السعودية"
+    },
+    "districts": [
+      {
+        "en": "Al Olaya",
+        "ar": "العليا"
+      },
+      {
+        "en": "Al Malqa",
+        "ar": "الملقا"
+      },
+      {
+        "en": "Al Narjis",
+        "ar": "النرجس"
+      },
+      {
+        "en": "Hittin",
+        "ar": "حطين"
+      },
+      {
+        "en": "Al Yasmin",
+        "ar": "الياسمين"
+      },
+      {
+        "en": "Al Sahafa",
+        "ar": "الصحافة"
+      }
+    ]
+  },
+  {
+    "id": "c-jeddah",
+    "name": {
+      "en": "Jeddah",
+      "ar": "جدة"
+    },
+    "country": {
+      "en": "Saudi Arabia",
+      "ar": "السعودية"
+    },
+    "districts": [
+      {
+        "en": "Al Rawdah",
+        "ar": "الروضة"
+      },
+      {
+        "en": "Al Shatea",
+        "ar": "الشاطئ"
+      },
+      {
+        "en": "Al Salamah",
+        "ar": "السلامة"
+      },
+      {
+        "en": "Obhur",
+        "ar": "أبحر"
+      }
+    ]
+  },
+  {
+    "id": "c-dammam",
+    "name": {
+      "en": "Dammam",
+      "ar": "الدمام"
+    },
+    "country": {
+      "en": "Saudi Arabia",
+      "ar": "السعودية"
+    },
+    "districts": [
+      {
+        "en": "Al Faisaliyah",
+        "ar": "الفيصلية"
+      },
+      {
+        "en": "Al Shatea",
+        "ar": "الشاطئ"
+      },
+      {
+        "en": "Uhud",
+        "ar": "أحد"
+      }
+    ]
+  },
+  {
+    "id": "c-dubai",
+    "name": {
+      "en": "Dubai",
+      "ar": "دبي"
+    },
+    "country": {
+      "en": "United Arab Emirates",
+      "ar": "الإمارات"
+    },
+    "districts": [
+      {
+        "en": "Jumeirah",
+        "ar": "جميرا"
+      },
+      {
+        "en": "Al Barsha",
+        "ar": "البرشاء"
+      },
+      {
+        "en": "Marina",
+        "ar": "المارينا"
+      }
+    ]
+  }
+]

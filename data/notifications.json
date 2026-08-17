@@ -1,0 +1,114 @@
+[
+  {
+    "id": "nt-1",
+    "title": {
+      "en": "Your order is on the way",
+      "ar": "طلبك في الطريق"
+    },
+    "body": {
+      "en": "Tap to open the details in your account.",
+      "ar": "اضغط لعرض التفاصيل في حسابك."
+    },
+    "icon": "truck",
+    "createdAt": "2026-07-25T09:00:00.000Z",
+    "read": false,
+    "category": "order",
+    "link": "/account"
+  },
+  {
+    "id": "nt-2",
+    "title": {
+      "en": "Simba's rabies booster is due",
+      "ar": "موعد جرعة سيمبا لداء الكلب"
+    },
+    "body": {
+      "en": "Tap to open the details in your account.",
+      "ar": "اضغط لعرض التفاصيل في حسابك."
+    },
+    "icon": "syringe",
+    "createdAt": "2026-07-25T00:36:00.000Z",
+    "read": false,
+    "category": "reminder",
+    "link": "/account"
+  },
+  {
+    "id": "nt-3",
+    "title": {
+      "en": "Lost cat reported 1.2 km away",
+      "ar": "بلاغ قطة مفقودة على بعد ١٫٢ كم"
+    },
+    "body": {
+      "en": "Tap to open the details in your account.",
+      "ar": "اضغط لعرض التفاصيل في حسابك."
+    },
+    "icon": "siren",
+    "createdAt": "2026-07-24T16:12:00.000Z",
+    "read": false,
+    "category": "lost_found",
+    "link": "/account"
+  },
+  {
+    "id": "nt-4",
+    "title": {
+      "en": "Grooming confirmed for Thursday",
+      "ar": "تأكيد جلسة العناية يوم الخميس"
+    },
+    "body": {
+      "en": "Tap to open the details in your account.",
+      "ar": "اضغط لعرض التفاصيل في حسابك."
+    },
+    "icon": "scissors",
+    "createdAt": "2026-07-24T07:48:00.000Z",
+    "read": false,
+    "category": "booking",
+    "link": "/account"
+  },
+  {
+    "id": "nt-5",
+    "title": {
+      "en": "Dr. Yasmin sent a prescription",
+      "ar": "أرسلت د. ياسمين وصفة طبية"
+    },
+    "body": {
+      "en": "Tap to open the details in your account.",
+      "ar": "اضغط لعرض التفاصيل في حسابك."
+    },
+    "icon": "stethoscope",
+    "createdAt": "2026-07-23T23:24:00.000Z",
+    "read": true,
+    "category": "consultation",
+    "link": "/account"
+  },
+  {
+    "id": "nt-6",
+    "title": {
+      "en": "You reached Gold tier",
+      "ar": "وصلت إلى المستوى الذهبي"
+    },
+    "body": {
+      "en": "Tap to open the details in your account.",
+      "ar": "اضغط لعرض التفاصيل في حسابك."
+    },
+    "icon": "award",
+    "createdAt": "2026-07-23T15:00:00.000Z",
+    "read": true,
+    "category": "loyalty",
+    "link": "/account"
+  },
+  {
+    "id": "nt-7",
+    "title": {
+      "en": "New care guide published",
+      "ar": "نُشر دليل عناية جديد"
+    },
+    "body": {
+      "en": "Tap to open the details in your account.",
+      "ar": "اضغط لعرض التفاصيل في حسابك."
+    },
+    "icon": "book",
+    "createdAt": "2026-07-23T06:36:00.000Z",
+    "read": true,
+    "category": "system",
+    "link": "/account"
+  }
+]

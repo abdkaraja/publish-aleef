@@ -1,0 +1,164 @@
+[
+  {
+    "id": "hs-1",
+    "eyebrow": {
+      "en": "The pet super app",
+      "ar": "التطبيق الشامل للحيوانات"
+    },
+    "title": {
+      "en": "One platform for every part of pet care",
+      "ar": "منصة واحدة لكل ما يخص العناية بحيوانك"
+    },
+    "subtitle": {
+      "en": "Shop trusted supplies, talk to licensed vets, book grooming and boarding, and keep one digital medical record for every pet.",
+      "ar": "تسوّق مستلزمات موثوقة، وتحدّث مع أطباء مرخّصين، واحجز العناية والإيواء، واحتفظ بسجل طبي رقمي واحد لكل حيوان."
+    },
+    "image": "/img/stock/2253275.jpg",
+    "tone": "brand",
+    "primaryCta": {
+      "label": {
+        "en": "Explore the store",
+        "ar": "تصفّح المتجر"
+      },
+      "link": "/shop"
+    },
+    "secondaryCta": {
+      "label": {
+        "en": "Talk to a vet",
+        "ar": "تحدّث مع طبيب"
+      },
+      "link": "/vets"
+    },
+    "stats": [
+      {
+        "label": {
+          "en": "Products",
+          "ar": "منتج"
+        },
+        "value": "70+"
+      },
+      {
+        "label": {
+          "en": "Licensed vets",
+          "ar": "طبيب مرخّص"
+        },
+        "value": "8"
+      },
+      {
+        "label": {
+          "en": "Cities served",
+          "ar": "مدن مخدومة"
+        },
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "hs-2",
+    "eyebrow": {
+      "en": "Telehealth",
+      "ar": "استشارات عن بُعد"
+    },
+    "title": {
+      "en": "A vet in your pocket, day and night",
+      "ar": "طبيب بيطري في جيبك ليلًا ونهارًا"
+    },
+    "subtitle": {
+      "en": "Automated triage routes emergencies straight to an on-duty vet, and the full medical history is already on their screen.",
+      "ar": "يوجّه الفرز الآلي الحالات الطارئة مباشرة إلى طبيب في الخدمة، والتاريخ الطبي الكامل جاهز أمامه."
+    },
+    "image": "/img/stock/5327585.jpg",
+    "tone": "care",
+    "primaryCta": {
+      "label": {
+        "en": "Start a consultation",
+        "ar": "ابدأ استشارة"
+      },
+      "link": "/vets"
+    },
+    "secondaryCta": {
+      "label": {
+        "en": "How triage works",
+        "ar": "كيف يعمل الفرز"
+      },
+      "link": "/vets/triage"
+    },
+    "stats": [
+      {
+        "label": {
+          "en": "Avg. wait",
+          "ar": "متوسط الانتظار"
+        },
+        "value": "6 min"
+      },
+      {
+        "label": {
+          "en": "Consultations",
+          "ar": "استشارة"
+        },
+        "value": "12k+"
+      },
+      {
+        "label": {
+          "en": "Satisfaction",
+          "ar": "رضا العملاء"
+        },
+        "value": "4.8/5"
+      }
+    ]
+  },
+  {
+    "id": "hs-3",
+    "eyebrow": {
+      "en": "Community rescue",
+      "ar": "إنقاذ مجتمعي"
+    },
+    "title": {
+      "en": "Every lost pet deserves a way home",
+      "ar": "كل حيوان مفقود يستحق طريقًا للعودة"
+    },
+    "subtitle": {
+      "en": "Report a missing pet and we alert every neighbour inside your chosen radius within minutes.",
+      "ar": "أبلغ عن حيوان مفقود وسننبّه كل الجيران داخل النطاق الذي تختاره خلال دقائق."
+    },
+    "image": "/img/stock/1805164.jpg",
+    "tone": "rescue",
+    "primaryCta": {
+      "label": {
+        "en": "Report a lost pet",
+        "ar": "أبلغ عن مفقود"
+      },
+      "link": "/lost-found/report"
+    },
+    "secondaryCta": {
+      "label": {
+        "en": "Browse open cases",
+        "ar": "تصفّح البلاغات"
+      },
+      "link": "/lost-found"
+    },
+    "stats": [
+      {
+        "label": {
+          "en": "Reunited",
+          "ar": "حالة لمّ شمل"
+        },
+        "value": "1,240"
+      },
+      {
+        "label": {
+          "en": "Avg. time",
+          "ar": "متوسط الوقت"
+        },
+        "value": "31 hrs"
+      },
+      {
+        "label": {
+          "en": "Alerts sent",
+          "ar": "تنبيه"
+        },
+        "value": "480k"
+      }
+    ]
+  }
+]

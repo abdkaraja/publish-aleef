@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mem-1",
+    "customerId": "u-001",
+    "planId": "mp-2",
+    "billingCycle": "annual",
+    "startedAt": "2025-12-27T09:00:00.000Z",
+    "renewsAt": "2026-12-27T09:00:00.000Z",
+    "status": "active",
+    "savedToDate": 1284
+  }
+]

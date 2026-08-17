@@ -1,0 +1,4520 @@
+[
+  {
+    "id": "rv-0-0",
+    "targetType": "product",
+    "targetId": "p-001",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-06-03T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 5
+  },
+  {
+    "id": "rv-0-1",
+    "targetType": "product",
+    "targetId": "p-001",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-01-17T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 36
+  },
+  {
+    "id": "rv-0-2",
+    "targetType": "product",
+    "targetId": "p-001",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-05-18T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 28
+  },
+  {
+    "id": "rv-0-3",
+    "targetType": "product",
+    "targetId": "p-001",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-01-01T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 58
+  },
+  {
+    "id": "rv-0-4",
+    "targetType": "product",
+    "targetId": "p-001",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-07-05T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 1
+  },
+  {
+    "id": "rv-1-0",
+    "targetType": "product",
+    "targetId": "p-002",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-03-02T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 15
+  },
+  {
+    "id": "rv-1-1",
+    "targetType": "product",
+    "targetId": "p-002",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 31
+  },
+  {
+    "id": "rv-2-0",
+    "targetType": "product",
+    "targetId": "p-003",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2025-12-19T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 47
+  },
+  {
+    "id": "rv-2-1",
+    "targetType": "product",
+    "targetId": "p-003",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-05-05T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 19
+  },
+  {
+    "id": "rv-2-2",
+    "targetType": "product",
+    "targetId": "p-003",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2025-12-03T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 11
+  },
+  {
+    "id": "rv-2-3",
+    "targetType": "product",
+    "targetId": "p-003",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-04-19T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 10
+  },
+  {
+    "id": "rv-2-4",
+    "targetType": "product",
+    "targetId": "p-003",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2025-11-17T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 34
+  },
+  {
+    "id": "rv-3-0",
+    "targetType": "product",
+    "targetId": "p-004",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-02-18T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 17
+  },
+  {
+    "id": "rv-3-1",
+    "targetType": "product",
+    "targetId": "p-004",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-06-19T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 14
+  },
+  {
+    "id": "rv-3-2",
+    "targetType": "product",
+    "targetId": "p-004",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-02-02T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 50
+  },
+  {
+    "id": "rv-3-3",
+    "targetType": "product",
+    "targetId": "p-004",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-06-03T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 56
+  },
+  {
+    "id": "rv-4-0",
+    "targetType": "product",
+    "targetId": "p-005",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2025-11-25T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 60
+  },
+  {
+    "id": "rv-4-1",
+    "targetType": "product",
+    "targetId": "p-005",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-04-11T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 54
+  },
+  {
+    "id": "rv-4-2",
+    "targetType": "product",
+    "targetId": "p-005",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2025-12-11T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 53
+  },
+  {
+    "id": "rv-4-3",
+    "targetType": "product",
+    "targetId": "p-005",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-04-27T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 7
+  },
+  {
+    "id": "rv-4-4",
+    "targetType": "product",
+    "targetId": "p-005",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2025-12-27T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 57
+  },
+  {
+    "id": "rv-5-0",
+    "targetType": "product",
+    "targetId": "p-006",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-07-14T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 16
+  },
+  {
+    "id": "rv-5-1",
+    "targetType": "product",
+    "targetId": "p-006",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-02-27T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 8
+  },
+  {
+    "id": "rv-6-0",
+    "targetType": "product",
+    "targetId": "p-007",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-02-23T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 18
+  },
+  {
+    "id": "rv-6-1",
+    "targetType": "product",
+    "targetId": "p-007",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-06-24T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 41
+  },
+  {
+    "id": "rv-6-2",
+    "targetType": "product",
+    "targetId": "p-007",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-03-11T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 47
+  },
+  {
+    "id": "rv-7-0",
+    "targetType": "product",
+    "targetId": "p-008",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-05-17T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 43
+  },
+  {
+    "id": "rv-7-1",
+    "targetType": "product",
+    "targetId": "p-008",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2025-12-31T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 3
+  },
+  {
+    "id": "rv-7-2",
+    "targetType": "product",
+    "targetId": "p-008",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-05-01T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 1
+  },
+  {
+    "id": "rv-7-3",
+    "targetType": "product",
+    "targetId": "p-008",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2025-12-15T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 10
+  },
+  {
+    "id": "rv-8-0",
+    "targetType": "product",
+    "targetId": "p-009",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2025-11-07T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 52
+  },
+  {
+    "id": "rv-8-1",
+    "targetType": "product",
+    "targetId": "p-009",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-03-24T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 27
+  },
+  {
+    "id": "rv-8-2",
+    "targetType": "product",
+    "targetId": "p-009",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2025-11-23T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 23
+  },
+  {
+    "id": "rv-8-3",
+    "targetType": "product",
+    "targetId": "p-009",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-04-09T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 60
+  },
+  {
+    "id": "rv-8-4",
+    "targetType": "product",
+    "targetId": "p-009",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-06-21T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 61
+  },
+  {
+    "id": "rv-9-0",
+    "targetType": "product",
+    "targetId": "p-010",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2025-11-15T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 8
+  },
+  {
+    "id": "rv-9-1",
+    "targetType": "product",
+    "targetId": "p-010",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-03-16T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 38
+  },
+  {
+    "id": "rv-9-2",
+    "targetType": "product",
+    "targetId": "p-010",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2025-12-01T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 15
+  },
+  {
+    "id": "rv-9-3",
+    "targetType": "product",
+    "targetId": "p-010",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-04-01T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 34
+  },
+  {
+    "id": "rv-9-4",
+    "targetType": "product",
+    "targetId": "p-010",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-06-29T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 53
+  },
+  {
+    "id": "rv-10-0",
+    "targetType": "product",
+    "targetId": "p-011",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-03-02T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 54
+  },
+  {
+    "id": "rv-10-1",
+    "targetType": "product",
+    "targetId": "p-011",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-07-17T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 10
+  },
+  {
+    "id": "rv-11-0",
+    "targetType": "product",
+    "targetId": "p-012",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-04-18T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 9
+  },
+  {
+    "id": "rv-11-1",
+    "targetType": "product",
+    "targetId": "p-012",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2025-12-18T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 41
+  },
+  {
+    "id": "rv-11-2",
+    "targetType": "product",
+    "targetId": "p-012",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-05-04T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 23
+  },
+  {
+    "id": "rv-11-3",
+    "targetType": "product",
+    "targetId": "p-012",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-01-03T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 44
+  },
+  {
+    "id": "rv-11-4",
+    "targetType": "product",
+    "targetId": "p-012",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-05-20T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 13
+  },
+  {
+    "id": "rv-12-0",
+    "targetType": "product",
+    "targetId": "p-013",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-01-05T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 34
+  },
+  {
+    "id": "rv-12-1",
+    "targetType": "product",
+    "targetId": "p-013",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-05-06T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 41
+  },
+  {
+    "id": "rv-12-2",
+    "targetType": "product",
+    "targetId": "p-013",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2025-12-20T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 14
+  },
+  {
+    "id": "rv-12-3",
+    "targetType": "product",
+    "targetId": "p-013",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-04-20T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 25
+  },
+  {
+    "id": "rv-13-0",
+    "targetType": "product",
+    "targetId": "p-014",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-03-25T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 54
+  },
+  {
+    "id": "rv-13-1",
+    "targetType": "product",
+    "targetId": "p-014",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2025-11-08T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 42
+  },
+  {
+    "id": "rv-13-2",
+    "targetType": "product",
+    "targetId": "p-014",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-04-10T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 43
+  },
+  {
+    "id": "rv-13-3",
+    "targetType": "product",
+    "targetId": "p-014",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2025-11-24T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 10
+  },
+  {
+    "id": "rv-13-4",
+    "targetType": "product",
+    "targetId": "p-014",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-04-26T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 40
+  },
+  {
+    "id": "rv-14-0",
+    "targetType": "product",
+    "targetId": "p-015",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-07-20T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 23
+  },
+  {
+    "id": "rv-14-1",
+    "targetType": "product",
+    "targetId": "p-015",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-03-21T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 48
+  },
+  {
+    "id": "rv-15-0",
+    "targetType": "product",
+    "targetId": "p-016",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-04-12T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 61
+  },
+  {
+    "id": "rv-15-1",
+    "targetType": "product",
+    "targetId": "p-016",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2025-11-26T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 30
+  },
+  {
+    "id": "rv-15-2",
+    "targetType": "product",
+    "targetId": "p-016",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-03-27T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 36
+  },
+  {
+    "id": "rv-15-3",
+    "targetType": "product",
+    "targetId": "p-016",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2025-11-10T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 15
+  },
+  {
+    "id": "rv-15-4",
+    "targetType": "product",
+    "targetId": "p-016",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-05-14T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 0
+  },
+  {
+    "id": "rv-16-0",
+    "targetType": "product",
+    "targetId": "p-017",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2025-12-14T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 12
+  },
+  {
+    "id": "rv-16-1",
+    "targetType": "product",
+    "targetId": "p-017",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-04-30T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 55
+  },
+  {
+    "id": "rv-16-2",
+    "targetType": "product",
+    "targetId": "p-017",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2025-12-30T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 62
+  },
+  {
+    "id": "rv-16-3",
+    "targetType": "product",
+    "targetId": "p-017",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-05-16T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 13
+  },
+  {
+    "id": "rv-17-0",
+    "targetType": "product",
+    "targetId": "p-018",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-07-19T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 55
+  },
+  {
+    "id": "rv-17-1",
+    "targetType": "product",
+    "targetId": "p-018",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-03-20T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 12
+  },
+  {
+    "id": "rv-17-2",
+    "targetType": "product",
+    "targetId": "p-018",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-07-03T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 20
+  },
+  {
+    "id": "rv-18-0",
+    "targetType": "product",
+    "targetId": "p-019",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-07-08T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 42
+  },
+  {
+    "id": "rv-18-1",
+    "targetType": "product",
+    "targetId": "p-019",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-03-09T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 33
+  },
+  {
+    "id": "rv-19-0",
+    "targetType": "product",
+    "targetId": "p-020",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2025-12-30T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 17
+  },
+  {
+    "id": "rv-19-1",
+    "targetType": "product",
+    "targetId": "p-020",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-04-30T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 33
+  },
+  {
+    "id": "rv-20-0",
+    "targetType": "product",
+    "targetId": "p-021",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-06-15T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 9
+  },
+  {
+    "id": "rv-20-1",
+    "targetType": "product",
+    "targetId": "p-021",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-01-29T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 58
+  },
+  {
+    "id": "rv-20-2",
+    "targetType": "product",
+    "targetId": "p-021",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 52
+  },
+  {
+    "id": "rv-20-3",
+    "targetType": "product",
+    "targetId": "p-021",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-02-14T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 10
+  },
+  {
+    "id": "rv-20-4",
+    "targetType": "product",
+    "targetId": "p-021",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-05-14T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 49
+  },
+  {
+    "id": "rv-21-0",
+    "targetType": "product",
+    "targetId": "p-022",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-05-19T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 14
+  },
+  {
+    "id": "rv-21-1",
+    "targetType": "product",
+    "targetId": "p-022",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-01-18T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 3
+  },
+  {
+    "id": "rv-21-2",
+    "targetType": "product",
+    "targetId": "p-022",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-06-04T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 2
+  },
+  {
+    "id": "rv-21-3",
+    "targetType": "product",
+    "targetId": "p-022",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-02-03T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 13
+  },
+  {
+    "id": "rv-22-0",
+    "targetType": "product",
+    "targetId": "p-023",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-07-19T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 9
+  },
+  {
+    "id": "rv-22-1",
+    "targetType": "product",
+    "targetId": "p-023",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-03-10T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 1
+  },
+  {
+    "id": "rv-22-2",
+    "targetType": "product",
+    "targetId": "p-023",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2025-11-09T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 2
+  },
+  {
+    "id": "rv-23-0",
+    "targetType": "product",
+    "targetId": "p-024",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2025-12-20T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 48
+  },
+  {
+    "id": "rv-23-1",
+    "targetType": "product",
+    "targetId": "p-024",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-05-06T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 50
+  },
+  {
+    "id": "rv-24-0",
+    "targetType": "product",
+    "targetId": "p-025",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-06-21T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 58
+  },
+  {
+    "id": "rv-24-1",
+    "targetType": "product",
+    "targetId": "p-025",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-02-20T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 34
+  },
+  {
+    "id": "rv-24-2",
+    "targetType": "product",
+    "targetId": "p-025",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-06-05T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 29
+  },
+  {
+    "id": "rv-25-0",
+    "targetType": "product",
+    "targetId": "p-026",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-07-08T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 55
+  },
+  {
+    "id": "rv-25-1",
+    "targetType": "product",
+    "targetId": "p-026",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-02-21T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 56
+  },
+  {
+    "id": "rv-25-2",
+    "targetType": "product",
+    "targetId": "p-026",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-06-22T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 58
+  },
+  {
+    "id": "rv-25-3",
+    "targetType": "product",
+    "targetId": "p-026",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-02-05T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 4
+  },
+  {
+    "id": "rv-26-0",
+    "targetType": "product",
+    "targetId": "p-027",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2025-12-11T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 64
+  },
+  {
+    "id": "rv-26-1",
+    "targetType": "product",
+    "targetId": "p-027",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-04-27T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 47
+  },
+  {
+    "id": "rv-26-2",
+    "targetType": "product",
+    "targetId": "p-027",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2025-12-27T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 15
+  },
+  {
+    "id": "rv-27-0",
+    "targetType": "product",
+    "targetId": "p-028",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2025-12-20T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 51
+  },
+  {
+    "id": "rv-27-1",
+    "targetType": "product",
+    "targetId": "p-028",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-05-06T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 27
+  },
+  {
+    "id": "rv-28-0",
+    "targetType": "product",
+    "targetId": "p-029",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-03-11T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 27
+  },
+  {
+    "id": "rv-28-1",
+    "targetType": "product",
+    "targetId": "p-029",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-07-10T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 53
+  },
+  {
+    "id": "rv-28-2",
+    "targetType": "product",
+    "targetId": "p-029",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-03-27T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 7
+  },
+  {
+    "id": "rv-28-3",
+    "targetType": "product",
+    "targetId": "p-029",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2025-11-10T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 30
+  },
+  {
+    "id": "rv-28-4",
+    "targetType": "product",
+    "targetId": "p-029",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-02-07T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 5
+  },
+  {
+    "id": "rv-29-0",
+    "targetType": "product",
+    "targetId": "p-030",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2025-12-27T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 56
+  },
+  {
+    "id": "rv-29-1",
+    "targetType": "product",
+    "targetId": "p-030",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-05-13T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 20
+  },
+  {
+    "id": "rv-29-2",
+    "targetType": "product",
+    "targetId": "p-030",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-01-12T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 62
+  },
+  {
+    "id": "rv-29-3",
+    "targetType": "product",
+    "targetId": "p-030",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-05-29T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 62
+  },
+  {
+    "id": "rv-29-4",
+    "targetType": "product",
+    "targetId": "p-030",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-01-28T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 61
+  },
+  {
+    "id": "rv-30-0",
+    "targetType": "product",
+    "targetId": "p-031",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-05-09T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 26
+  },
+  {
+    "id": "rv-30-1",
+    "targetType": "product",
+    "targetId": "p-031",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-01-08T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 18
+  },
+  {
+    "id": "rv-30-2",
+    "targetType": "product",
+    "targetId": "p-031",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-05-25T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 19
+  },
+  {
+    "id": "rv-30-3",
+    "targetType": "product",
+    "targetId": "p-031",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-01-24T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 14
+  },
+  {
+    "id": "rv-31-0",
+    "targetType": "product",
+    "targetId": "p-032",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-02-09T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 26
+  },
+  {
+    "id": "rv-31-1",
+    "targetType": "product",
+    "targetId": "p-032",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-06-26T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 20
+  },
+  {
+    "id": "rv-31-2",
+    "targetType": "product",
+    "targetId": "p-032",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-01-24T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 12
+  },
+  {
+    "id": "rv-31-3",
+    "targetType": "product",
+    "targetId": "p-032",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-06-10T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 25
+  },
+  {
+    "id": "rv-31-4",
+    "targetType": "product",
+    "targetId": "p-032",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-03-13T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 13
+  },
+  {
+    "id": "rv-32-0",
+    "targetType": "product",
+    "targetId": "p-033",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2025-11-24T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 17
+  },
+  {
+    "id": "rv-32-1",
+    "targetType": "product",
+    "targetId": "p-033",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-03-25T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 47
+  },
+  {
+    "id": "rv-33-0",
+    "targetType": "product",
+    "targetId": "p-034",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-06-07T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 57
+  },
+  {
+    "id": "rv-33-1",
+    "targetType": "product",
+    "targetId": "p-034",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-01-21T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 41
+  },
+  {
+    "id": "rv-33-2",
+    "targetType": "product",
+    "targetId": "p-034",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-05-22T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 21
+  },
+  {
+    "id": "rv-33-3",
+    "targetType": "product",
+    "targetId": "p-034",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-01-05T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 61
+  },
+  {
+    "id": "rv-33-4",
+    "targetType": "product",
+    "targetId": "p-034",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-07-09T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 4
+  },
+  {
+    "id": "rv-34-0",
+    "targetType": "product",
+    "targetId": "p-035",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-03-18T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 60
+  },
+  {
+    "id": "rv-34-1",
+    "targetType": "product",
+    "targetId": "p-035",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2025-11-17T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 20
+  },
+  {
+    "id": "rv-34-2",
+    "targetType": "product",
+    "targetId": "p-035",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-04-03T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 44
+  },
+  {
+    "id": "rv-34-3",
+    "targetType": "product",
+    "targetId": "p-035",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2025-12-03T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 3
+  },
+  {
+    "id": "rv-35-0",
+    "targetType": "product",
+    "targetId": "p-036",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-06-09T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 1
+  },
+  {
+    "id": "rv-35-1",
+    "targetType": "product",
+    "targetId": "p-036",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-02-08T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 37
+  },
+  {
+    "id": "rv-35-2",
+    "targetType": "product",
+    "targetId": "p-036",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-05-24T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 43
+  },
+  {
+    "id": "rv-36-0",
+    "targetType": "product",
+    "targetId": "p-037",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-03-22T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 19
+  },
+  {
+    "id": "rv-36-1",
+    "targetType": "product",
+    "targetId": "p-037",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-07-21T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 27
+  },
+  {
+    "id": "rv-37-0",
+    "targetType": "product",
+    "targetId": "p-038",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2025-12-25T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 17
+  },
+  {
+    "id": "rv-37-1",
+    "targetType": "product",
+    "targetId": "p-038",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-04-25T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 7
+  },
+  {
+    "id": "rv-37-2",
+    "targetType": "product",
+    "targetId": "p-038",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2025-12-09T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 55
+  },
+  {
+    "id": "rv-38-0",
+    "targetType": "product",
+    "targetId": "p-039",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2025-11-12T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 20
+  },
+  {
+    "id": "rv-38-1",
+    "targetType": "product",
+    "targetId": "p-039",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-03-29T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 47
+  },
+  {
+    "id": "rv-38-2",
+    "targetType": "product",
+    "targetId": "p-039",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2025-11-28T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 53
+  },
+  {
+    "id": "rv-38-3",
+    "targetType": "product",
+    "targetId": "p-039",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-04-14T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 60
+  },
+  {
+    "id": "rv-39-0",
+    "targetType": "product",
+    "targetId": "p-040",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-06-14T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 46
+  },
+  {
+    "id": "rv-39-1",
+    "targetType": "product",
+    "targetId": "p-040",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-01-28T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 63
+  },
+  {
+    "id": "rv-39-2",
+    "targetType": "product",
+    "targetId": "p-040",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-05-29T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 14
+  },
+  {
+    "id": "rv-39-3",
+    "targetType": "product",
+    "targetId": "p-040",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-01-12T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 47
+  },
+  {
+    "id": "rv-40-0",
+    "targetType": "product",
+    "targetId": "p-041",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-04-28T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 26
+  },
+  {
+    "id": "rv-40-1",
+    "targetType": "product",
+    "targetId": "p-041",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2025-12-28T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 50
+  },
+  {
+    "id": "rv-40-2",
+    "targetType": "product",
+    "targetId": "p-041",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-05-14T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 19
+  },
+  {
+    "id": "rv-40-3",
+    "targetType": "product",
+    "targetId": "p-041",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-01-13T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 27
+  },
+  {
+    "id": "rv-40-4",
+    "targetType": "product",
+    "targetId": "p-041",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-05-30T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 35
+  },
+  {
+    "id": "rv-41-0",
+    "targetType": "product",
+    "targetId": "p-042",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2025-11-08T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 57
+  },
+  {
+    "id": "rv-41-1",
+    "targetType": "product",
+    "targetId": "p-042",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-03-25T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 18
+  },
+  {
+    "id": "rv-42-0",
+    "targetType": "product",
+    "targetId": "p-043",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-01-04T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 16
+  },
+  {
+    "id": "rv-42-1",
+    "targetType": "product",
+    "targetId": "p-043",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-01-07T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 43
+  },
+  {
+    "id": "rv-42-2",
+    "targetType": "product",
+    "targetId": "p-043",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-01-20T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 35
+  },
+  {
+    "id": "rv-43-0",
+    "targetType": "product",
+    "targetId": "p-044",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-03-06T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 24
+  },
+  {
+    "id": "rv-43-1",
+    "targetType": "product",
+    "targetId": "p-044",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-07-21T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 43
+  },
+  {
+    "id": "rv-43-2",
+    "targetType": "product",
+    "targetId": "p-044",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-03-22T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 44
+  },
+  {
+    "id": "rv-43-3",
+    "targetType": "product",
+    "targetId": "p-044",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2025-11-21T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 32
+  },
+  {
+    "id": "rv-44-0",
+    "targetType": "product",
+    "targetId": "p-045",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-04-20T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 59
+  },
+  {
+    "id": "rv-44-1",
+    "targetType": "product",
+    "targetId": "p-045",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2025-12-20T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 34
+  },
+  {
+    "id": "rv-44-2",
+    "targetType": "product",
+    "targetId": "p-045",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-05-06T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 43
+  },
+  {
+    "id": "rv-45-0",
+    "targetType": "product",
+    "targetId": "p-046",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-01-23T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 24
+  },
+  {
+    "id": "rv-45-1",
+    "targetType": "product",
+    "targetId": "p-046",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-05-24T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 4
+  },
+  {
+    "id": "rv-46-0",
+    "targetType": "product",
+    "targetId": "p-047",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-01-20T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 20
+  },
+  {
+    "id": "rv-46-1",
+    "targetType": "product",
+    "targetId": "p-047",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-05-21T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 55
+  },
+  {
+    "id": "rv-46-2",
+    "targetType": "product",
+    "targetId": "p-047",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-02-05T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 56
+  },
+  {
+    "id": "rv-46-3",
+    "targetType": "product",
+    "targetId": "p-047",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-06-06T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 35
+  },
+  {
+    "id": "rv-46-4",
+    "targetType": "product",
+    "targetId": "p-047",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-02-21T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 47
+  },
+  {
+    "id": "rv-47-0",
+    "targetType": "product",
+    "targetId": "p-048",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-05-11T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 42
+  },
+  {
+    "id": "rv-47-1",
+    "targetType": "product",
+    "targetId": "p-048",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-01-10T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 33
+  },
+  {
+    "id": "rv-47-2",
+    "targetType": "product",
+    "targetId": "p-048",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-05-27T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 22
+  },
+  {
+    "id": "rv-47-3",
+    "targetType": "product",
+    "targetId": "p-048",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-01-26T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 4
+  },
+  {
+    "id": "rv-48-0",
+    "targetType": "product",
+    "targetId": "p-049",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-05-12T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 14
+  },
+  {
+    "id": "rv-48-1",
+    "targetType": "product",
+    "targetId": "p-049",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-01-11T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 62
+  },
+  {
+    "id": "rv-48-2",
+    "targetType": "product",
+    "targetId": "p-049",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-05-28T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 0
+  },
+  {
+    "id": "rv-49-0",
+    "targetType": "product",
+    "targetId": "p-050",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-02-27T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 36
+  },
+  {
+    "id": "rv-49-1",
+    "targetType": "product",
+    "targetId": "p-050",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-06-28T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 60
+  },
+  {
+    "id": "rv-49-2",
+    "targetType": "product",
+    "targetId": "p-050",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-03-15T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 0
+  },
+  {
+    "id": "rv-49-3",
+    "targetType": "product",
+    "targetId": "p-050",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-07-14T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 21
+  },
+  {
+    "id": "rv-49-4",
+    "targetType": "product",
+    "targetId": "p-050",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-03-31T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 23
+  },
+  {
+    "id": "rv-50-0",
+    "targetType": "product",
+    "targetId": "p-051",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-03-02T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 49
+  },
+  {
+    "id": "rv-50-1",
+    "targetType": "product",
+    "targetId": "p-051",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-07-01T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 44
+  },
+  {
+    "id": "rv-51-0",
+    "targetType": "product",
+    "targetId": "p-052",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2025-12-23T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 30
+  },
+  {
+    "id": "rv-51-1",
+    "targetType": "product",
+    "targetId": "p-052",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-04-23T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 50
+  },
+  {
+    "id": "rv-51-2",
+    "targetType": "product",
+    "targetId": "p-052",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2025-12-07T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 14
+  },
+  {
+    "id": "rv-51-3",
+    "targetType": "product",
+    "targetId": "p-052",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-04-07T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 30
+  },
+  {
+    "id": "rv-51-4",
+    "targetType": "product",
+    "targetId": "p-052",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-01-24T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 35
+  },
+  {
+    "id": "rv-52-0",
+    "targetType": "product",
+    "targetId": "p-053",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-02-10T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 42
+  },
+  {
+    "id": "rv-52-1",
+    "targetType": "product",
+    "targetId": "p-053",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-06-27T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 38
+  },
+  {
+    "id": "rv-52-2",
+    "targetType": "product",
+    "targetId": "p-053",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-02-26T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 26
+  },
+  {
+    "id": "rv-52-3",
+    "targetType": "product",
+    "targetId": "p-053",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-07-13T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 36
+  },
+  {
+    "id": "rv-53-0",
+    "targetType": "product",
+    "targetId": "p-054",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-05-22T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 42
+  },
+  {
+    "id": "rv-53-1",
+    "targetType": "product",
+    "targetId": "p-054",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-01-21T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 25
+  },
+  {
+    "id": "rv-53-2",
+    "targetType": "product",
+    "targetId": "p-054",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-05-06T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 42
+  },
+  {
+    "id": "rv-54-0",
+    "targetType": "product",
+    "targetId": "p-055",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-06-24T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 12
+  },
+  {
+    "id": "rv-54-1",
+    "targetType": "product",
+    "targetId": "p-055",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-02-07T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 1
+  },
+  {
+    "id": "rv-55-0",
+    "targetType": "product",
+    "targetId": "p-056",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-04-18T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 41
+  },
+  {
+    "id": "rv-55-1",
+    "targetType": "product",
+    "targetId": "p-056",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2025-12-18T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 34
+  },
+  {
+    "id": "rv-55-2",
+    "targetType": "product",
+    "targetId": "p-056",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-05-04T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 27
+  },
+  {
+    "id": "rv-55-3",
+    "targetType": "product",
+    "targetId": "p-056",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-01-03T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 53
+  },
+  {
+    "id": "rv-55-4",
+    "targetType": "product",
+    "targetId": "p-056",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-05-20T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 24
+  },
+  {
+    "id": "rv-56-0",
+    "targetType": "product",
+    "targetId": "p-057",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-06-18T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 47
+  },
+  {
+    "id": "rv-56-1",
+    "targetType": "product",
+    "targetId": "p-057",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-02-01T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 35
+  },
+  {
+    "id": "rv-56-2",
+    "targetType": "product",
+    "targetId": "p-057",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-06-02T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 27
+  },
+  {
+    "id": "rv-56-3",
+    "targetType": "product",
+    "targetId": "p-057",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-01-16T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 19
+  },
+  {
+    "id": "rv-57-0",
+    "targetType": "product",
+    "targetId": "p-058",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2025-12-09T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 28
+  },
+  {
+    "id": "rv-57-1",
+    "targetType": "product",
+    "targetId": "p-058",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-04-09T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 63
+  },
+  {
+    "id": "rv-57-2",
+    "targetType": "product",
+    "targetId": "p-058",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2025-12-25T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 64
+  },
+  {
+    "id": "rv-57-3",
+    "targetType": "product",
+    "targetId": "p-058",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-04-25T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 34
+  },
+  {
+    "id": "rv-57-4",
+    "targetType": "product",
+    "targetId": "p-058",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-01-10T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 48
+  },
+  {
+    "id": "rv-58-0",
+    "targetType": "product",
+    "targetId": "p-059",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-07-10T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 23
+  },
+  {
+    "id": "rv-58-1",
+    "targetType": "product",
+    "targetId": "p-059",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-02-23T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 12
+  },
+  {
+    "id": "rv-59-0",
+    "targetType": "product",
+    "targetId": "p-060",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-01-03T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 61
+  },
+  {
+    "id": "rv-59-1",
+    "targetType": "product",
+    "targetId": "p-060",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-05-04T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 43
+  },
+  {
+    "id": "rv-60-0",
+    "targetType": "product",
+    "targetId": "p-061",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-05-22T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 41
+  },
+  {
+    "id": "rv-60-1",
+    "targetType": "product",
+    "targetId": "p-061",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-01-21T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 3
+  },
+  {
+    "id": "rv-60-2",
+    "targetType": "product",
+    "targetId": "p-061",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-01-06T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 57
+  },
+  {
+    "id": "rv-60-3",
+    "targetType": "product",
+    "targetId": "p-061",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-05-07T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 36
+  },
+  {
+    "id": "rv-60-4",
+    "targetType": "product",
+    "targetId": "p-061",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-01-22T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 8
+  },
+  {
+    "id": "rv-61-0",
+    "targetType": "product",
+    "targetId": "p-062",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2025-11-12T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 13
+  },
+  {
+    "id": "rv-61-1",
+    "targetType": "product",
+    "targetId": "p-062",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-03-13T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 46
+  },
+  {
+    "id": "rv-61-2",
+    "targetType": "product",
+    "targetId": "p-062",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-07-12T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 36
+  },
+  {
+    "id": "rv-61-3",
+    "targetType": "product",
+    "targetId": "p-062",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-02-25T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 40
+  },
+  {
+    "id": "rv-62-0",
+    "targetType": "product",
+    "targetId": "p-063",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-04-22T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 29
+  },
+  {
+    "id": "rv-62-1",
+    "targetType": "product",
+    "targetId": "p-063",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2025-12-06T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 24
+  },
+  {
+    "id": "rv-62-2",
+    "targetType": "product",
+    "targetId": "p-063",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-04-06T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 58
+  },
+  {
+    "id": "rv-63-0",
+    "targetType": "product",
+    "targetId": "p-064",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2025-12-12T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 53
+  },
+  {
+    "id": "rv-63-1",
+    "targetType": "product",
+    "targetId": "p-064",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-04-12T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 36
+  },
+  {
+    "id": "rv-64-0",
+    "targetType": "product",
+    "targetId": "p-065",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-01-24T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 53
+  },
+  {
+    "id": "rv-64-1",
+    "targetType": "product",
+    "targetId": "p-065",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-06-10T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 58
+  },
+  {
+    "id": "rv-64-2",
+    "targetType": "product",
+    "targetId": "p-065",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-01-08T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 60
+  },
+  {
+    "id": "rv-64-3",
+    "targetType": "product",
+    "targetId": "p-065",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-05-25T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 16
+  },
+  {
+    "id": "rv-64-4",
+    "targetType": "product",
+    "targetId": "p-065",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-02-25T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 41
+  },
+  {
+    "id": "rv-65-0",
+    "targetType": "product",
+    "targetId": "p-066",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-03-16T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 11
+  },
+  {
+    "id": "rv-65-1",
+    "targetType": "product",
+    "targetId": "p-066",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2025-11-15T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 26
+  },
+  {
+    "id": "rv-65-2",
+    "targetType": "product",
+    "targetId": "p-066",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2026-04-01T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 56
+  },
+  {
+    "id": "rv-65-3",
+    "targetType": "product",
+    "targetId": "p-066",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2025-12-01T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 62
+  },
+  {
+    "id": "rv-66-0",
+    "targetType": "product",
+    "targetId": "p-067",
+    "authorName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-05-02T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 47
+  },
+  {
+    "id": "rv-66-1",
+    "targetType": "product",
+    "targetId": "p-067",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2026-01-01T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 17
+  },
+  {
+    "id": "rv-66-2",
+    "targetType": "product",
+    "targetId": "p-067",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-05-18T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 47
+  },
+  {
+    "id": "rv-66-3",
+    "targetType": "product",
+    "targetId": "p-067",
+    "authorName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "authorAvatar": "/img/stock/415829.jpg",
+    "rating": 3,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-01-17T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 20
+  },
+  {
+    "id": "rv-66-4",
+    "targetType": "product",
+    "targetId": "p-067",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 4,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-06-03T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 38
+  },
+  {
+    "id": "rv-67-0",
+    "targetType": "product",
+    "targetId": "p-068",
+    "authorName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Delivery was fast and the packaging was sealed properly. Will reorder on subscription.",
+      "ar": "التوصيل كان سريعًا والتغليف محكم. سأعيد الطلب عبر الاشتراك."
+    },
+    "createdAt": "2026-02-24T09:00:00.000Z",
+    "verifiedPurchase": false,
+    "helpfulCount": 56
+  },
+  {
+    "id": "rv-67-1",
+    "targetType": "product",
+    "targetId": "p-068",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-07-11T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 42
+  },
+  {
+    "id": "rv-68-0",
+    "targetType": "product",
+    "targetId": "p-069",
+    "authorName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "authorAvatar": "/img/stock/1181686.jpg",
+    "rating": 4,
+    "body": {
+      "en": "Good quality for the price. My vet recommended this exact product during a consultation.",
+      "ar": "جودة ممتازة مقابل السعر، وقد أوصى به طبيبي البيطري أثناء الاستشارة."
+    },
+    "createdAt": "2026-04-26T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 58
+  },
+  {
+    "id": "rv-68-1",
+    "targetType": "product",
+    "targetId": "p-069",
+    "authorName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "authorAvatar": "/img/stock/2379004.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Works well but I wish the large size was available more often — it sells out quickly.",
+      "ar": "منتج جيد لكن أتمنى توفر الحجم الكبير باستمرار لأنه ينفد بسرعة."
+    },
+    "createdAt": "2025-12-26T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 31
+  },
+  {
+    "id": "rv-68-2",
+    "targetType": "product",
+    "targetId": "p-069",
+    "authorName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "authorAvatar": "/img/stock/220453.jpg",
+    "rating": 5,
+    "body": {
+      "en": "Solid build and easy to clean. Three months in and it still looks new.",
+      "ar": "تصنيع متين وسهل التنظيف. مضى ثلاثة أشهر وما زال كالجديد."
+    },
+    "createdAt": "2026-04-10T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 39
+  },
+  {
+    "id": "rv-68-3",
+    "targetType": "product",
+    "targetId": "p-069",
+    "authorName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "authorAvatar": "/img/stock/1239291.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My dog is a picky eater and this is the first food he finished without hesitation.",
+      "ar": "كلبي انتقائي في الطعام، وهذا أول طعام أنهاه دون تردد."
+    },
+    "createdAt": "2025-12-10T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 51
+  },
+  {
+    "id": "rv-68-4",
+    "targetType": "product",
+    "targetId": "p-069",
+    "authorName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "authorAvatar": "/img/stock/774909.jpg",
+    "rating": 5,
+    "body": {
+      "en": "My cat took to this immediately and her coat looks noticeably glossier after a month.",
+      "ar": "أحبّته قطتي من أول مرة، ولاحظت لمعانًا واضحًا في فروها بعد شهر."
+    },
+    "createdAt": "2026-03-25T09:00:00.000Z",
+    "verifiedPurchase": true,
+    "helpfulCount": 16
+  }
+]

@@ -1,0 +1,956 @@
+[
+  {
+    "id": "ad-1",
+    "slug": "milo-1",
+    "petName": "Milo",
+    "species": "cat",
+    "breed": {
+      "en": "Domestic Shorthair",
+      "ar": "محلي قصير الشعر"
+    },
+    "gender": "male",
+    "ageMonths": 8,
+    "size": "md",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/257532.jpg",
+      "/img/stock/2558605.jpg",
+      "/img/stock/2194261.jpg"
+    ],
+    "story": {
+      "en": "Milo was rescued from a busy street and has been in foster care since. Milo is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Milo من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Playful",
+        "ar": "مرح"
+      },
+      {
+        "en": "Loyal",
+        "ar": "وفي"
+      },
+      {
+        "en": "Gentle",
+        "ar": "لطيف"
+      }
+    ],
+    "vaccinated": false,
+    "neutered": false,
+    "microchipped": false,
+    "specialNeeds": {
+      "en": "Requires ongoing joint supplements",
+      "ar": "يحتاج مكملات دائمة للمفاصل"
+    },
+    "cityId": "c-riyadh",
+    "district": "Al Olaya",
+    "publisher": {
+      "id": "pub-1",
+      "name": {
+        "en": "Kind Paws Association",
+        "ar": "جمعية الأكف الرحيمة"
+      },
+      "type": "association",
+      "avatar": "/img/stock/2253275.jpg",
+      "verifiedAssociation": true,
+      "rating": {
+        "average": 4.6,
+        "count": 417,
+        "breakdown": [
+          28,
+          13,
+          25,
+          75,
+          276
+        ]
+      }
+    },
+    "moderation": "approved",
+    "priority": true,
+    "fosterAvailable": false,
+    "goodWith": [
+      "seniors",
+      "dogs",
+      "cats"
+    ],
+    "publishedAt": "2026-05-21T09:00:00.000Z",
+    "status": "available",
+    "applicationCount": 6,
+    "viewCount": 3223
+  },
+  {
+    "id": "ad-2",
+    "slug": "zara-2",
+    "petName": "Zara",
+    "species": "dog",
+    "breed": {
+      "en": "Saluki Mix",
+      "ar": "خليط سلوقي"
+    },
+    "gender": "female",
+    "ageMonths": 24,
+    "size": "lg",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/1386422.jpg",
+      "/img/stock/1490908.jpg",
+      "/img/stock/2253275.jpg"
+    ],
+    "story": {
+      "en": "Zara was rescued from a busy street and has been in foster care since. Zara is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Zara من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Independent",
+        "ar": "مستقل"
+      },
+      {
+        "en": "Affectionate",
+        "ar": "ودود"
+      },
+      {
+        "en": "Playful",
+        "ar": "مرح"
+      }
+    ],
+    "vaccinated": true,
+    "neutered": true,
+    "microchipped": true,
+    "cityId": "c-jeddah",
+    "district": "Al Shatea",
+    "publisher": {
+      "id": "pub-2",
+      "name": {
+        "en": "Second Chance Shelter",
+        "ar": "ملجأ الفرصة الثانية"
+      },
+      "type": "association",
+      "avatar": "/img/stock/1805164.jpg",
+      "verifiedAssociation": true,
+      "rating": {
+        "average": 4.6,
+        "count": 171,
+        "breakdown": [
+          12,
+          5,
+          10,
+          31,
+          113
+        ]
+      }
+    },
+    "moderation": "approved",
+    "priority": false,
+    "fosterAvailable": true,
+    "goodWith": [
+      "children",
+      "apartments",
+      "dogs"
+    ],
+    "publishedAt": "2026-06-17T09:00:00.000Z",
+    "status": "available",
+    "applicationCount": 15,
+    "viewCount": 586
+  },
+  {
+    "id": "ad-3",
+    "slug": "coco-3",
+    "petName": "Coco",
+    "species": "cat",
+    "breed": {
+      "en": "Siamese Mix",
+      "ar": "خليط سيامي"
+    },
+    "gender": "female",
+    "ageMonths": 14,
+    "size": "sm",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/1404819.jpg",
+      "/img/stock/156934.jpg",
+      "/img/stock/1828875.jpg"
+    ],
+    "story": {
+      "en": "Coco was rescued from a busy street and has been in foster care since. Coco is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Coco من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Calm",
+        "ar": "هادئ"
+      },
+      {
+        "en": "Gentle",
+        "ar": "لطيف"
+      },
+      {
+        "en": "Independent",
+        "ar": "مستقل"
+      }
+    ],
+    "vaccinated": true,
+    "neutered": true,
+    "microchipped": true,
+    "cityId": "c-dammam",
+    "district": "Uhud",
+    "publisher": {
+      "id": "pub-3",
+      "name": {
+        "en": "Reem Al-Salem",
+        "ar": "ريم السالم"
+      },
+      "type": "individual",
+      "avatar": "/img/stock/415829.jpg",
+      "verifiedAssociation": false,
+      "rating": {
+        "average": 4.5,
+        "count": 398,
+        "breakdown": [
+          32,
+          12,
+          24,
+          72,
+          258
+        ]
+      }
+    },
+    "moderation": "approved",
+    "priority": false,
+    "fosterAvailable": false,
+    "goodWith": [
+      "children",
+      "cats",
+      "seniors"
+    ],
+    "publishedAt": "2026-06-16T09:00:00.000Z",
+    "status": "available",
+    "applicationCount": 4,
+    "viewCount": 651
+  },
+  {
+    "id": "ad-4",
+    "slug": "bruno-4",
+    "petName": "Bruno",
+    "species": "dog",
+    "breed": {
+      "en": "Labrador Mix",
+      "ar": "خليط لابرادور"
+    },
+    "gender": "male",
+    "ageMonths": 60,
+    "size": "lg",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/59523.jpg",
+      "/img/stock/406014.jpg",
+      "/img/stock/333083.jpg"
+    ],
+    "story": {
+      "en": "Bruno was rescued from a busy street and has been in foster care since. Bruno is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Bruno من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Loyal",
+        "ar": "وفي"
+      },
+      {
+        "en": "Gentle",
+        "ar": "لطيف"
+      },
+      {
+        "en": "Calm",
+        "ar": "هادئ"
+      }
+    ],
+    "vaccinated": true,
+    "neutered": false,
+    "microchipped": true,
+    "specialNeeds": {
+      "en": "Requires ongoing joint supplements",
+      "ar": "يحتاج مكملات دائمة للمفاصل"
+    },
+    "cityId": "c-dubai",
+    "district": "Jumeirah",
+    "publisher": {
+      "id": "pub-4",
+      "name": {
+        "en": "Ahmed Barakat",
+        "ar": "أحمد بركات"
+      },
+      "type": "individual",
+      "avatar": "/img/stock/1181686.jpg",
+      "verifiedAssociation": false,
+      "rating": {
+        "average": 4.9,
+        "count": 165,
+        "breakdown": [
+          4,
+          5,
+          10,
+          30,
+          116
+        ]
+      }
+    },
+    "moderation": "approved",
+    "priority": true,
+    "fosterAvailable": true,
+    "goodWith": [
+      "children",
+      "apartments",
+      "seniors"
+    ],
+    "publishedAt": "2026-03-27T09:00:00.000Z",
+    "status": "available",
+    "applicationCount": 18,
+    "viewCount": 339
+  },
+  {
+    "id": "ad-5",
+    "slug": "pixel-5",
+    "petName": "Pixel",
+    "species": "cat",
+    "breed": {
+      "en": "Tabby",
+      "ar": "مخطط"
+    },
+    "gender": "male",
+    "ageMonths": 4,
+    "size": "xs",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/209037.jpg",
+      "/img/stock/617278.jpg",
+      "/img/stock/320014.jpg"
+    ],
+    "story": {
+      "en": "Pixel was rescued from a busy street and has been in foster care since. Pixel is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Pixel من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Loyal",
+        "ar": "وفي"
+      },
+      {
+        "en": "Gentle",
+        "ar": "لطيف"
+      },
+      {
+        "en": "Calm",
+        "ar": "هادئ"
+      }
+    ],
+    "vaccinated": true,
+    "neutered": true,
+    "microchipped": false,
+    "cityId": "c-riyadh",
+    "district": "Al Yasmin",
+    "publisher": {
+      "id": "pub-1",
+      "name": {
+        "en": "Kind Paws Association",
+        "ar": "جمعية الأكف الرحيمة"
+      },
+      "type": "association",
+      "avatar": "/img/stock/2253275.jpg",
+      "verifiedAssociation": true,
+      "rating": {
+        "average": 4.6,
+        "count": 417,
+        "breakdown": [
+          28,
+          13,
+          25,
+          75,
+          276
+        ]
+      }
+    },
+    "moderation": "approved",
+    "priority": false,
+    "fosterAvailable": false,
+    "goodWith": [
+      "seniors",
+      "apartments",
+      "children"
+    ],
+    "publishedAt": "2026-05-21T09:00:00.000Z",
+    "status": "available",
+    "applicationCount": 10,
+    "viewCount": 2917
+  },
+  {
+    "id": "ad-6",
+    "slug": "hana-6",
+    "petName": "Hana",
+    "species": "rabbit",
+    "breed": {
+      "en": "Holland Lop",
+      "ar": "هولندي لوب"
+    },
+    "gender": "female",
+    "ageMonths": 10,
+    "size": "sm",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/2061752.jpg",
+      "/img/stock/326012.jpg",
+      "/img/stock/458806.jpg"
+    ],
+    "story": {
+      "en": "Hana was rescued from a busy street and has been in foster care since. Hana is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Hana من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Curious",
+        "ar": "فضولي"
+      },
+      {
+        "en": "Independent",
+        "ar": "مستقل"
+      },
+      {
+        "en": "Loyal",
+        "ar": "وفي"
+      }
+    ],
+    "vaccinated": false,
+    "neutered": true,
+    "microchipped": true,
+    "cityId": "c-jeddah",
+    "district": "Al Shatea",
+    "publisher": {
+      "id": "pub-2",
+      "name": {
+        "en": "Second Chance Shelter",
+        "ar": "ملجأ الفرصة الثانية"
+      },
+      "type": "association",
+      "avatar": "/img/stock/1805164.jpg",
+      "verifiedAssociation": true,
+      "rating": {
+        "average": 4.6,
+        "count": 171,
+        "breakdown": [
+          12,
+          5,
+          10,
+          31,
+          113
+        ]
+      }
+    },
+    "moderation": "approved",
+    "priority": false,
+    "fosterAvailable": false,
+    "goodWith": [
+      "dogs",
+      "cats",
+      "apartments"
+    ],
+    "publishedAt": "2026-05-20T09:00:00.000Z",
+    "status": "available",
+    "applicationCount": 4,
+    "viewCount": 3400
+  },
+  {
+    "id": "ad-7",
+    "slug": "shadow-7",
+    "petName": "Shadow",
+    "species": "cat",
+    "breed": {
+      "en": "Bombay",
+      "ar": "بومباي"
+    },
+    "gender": "male",
+    "ageMonths": 96,
+    "size": "md",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/2194261.jpg",
+      "/img/stock/1170986.jpg",
+      "/img/stock/257532.jpg"
+    ],
+    "story": {
+      "en": "Shadow was rescued from a busy street and has been in foster care since. Shadow is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Shadow من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Independent",
+        "ar": "مستقل"
+      },
+      {
+        "en": "Curious",
+        "ar": "فضولي"
+      },
+      {
+        "en": "Calm",
+        "ar": "هادئ"
+      }
+    ],
+    "vaccinated": true,
+    "neutered": false,
+    "microchipped": true,
+    "specialNeeds": {
+      "en": "Requires ongoing joint supplements",
+      "ar": "يحتاج مكملات دائمة للمفاصل"
+    },
+    "cityId": "c-dammam",
+    "district": "Al Faisaliyah",
+    "publisher": {
+      "id": "pub-3",
+      "name": {
+        "en": "Reem Al-Salem",
+        "ar": "ريم السالم"
+      },
+      "type": "individual",
+      "avatar": "/img/stock/415829.jpg",
+      "verifiedAssociation": false,
+      "rating": {
+        "average": 4.5,
+        "count": 398,
+        "breakdown": [
+          32,
+          12,
+          24,
+          72,
+          258
+        ]
+      }
+    },
+    "moderation": "approved",
+    "priority": true,
+    "fosterAvailable": true,
+    "goodWith": [
+      "seniors",
+      "apartments",
+      "cats"
+    ],
+    "publishedAt": "2026-05-27T09:00:00.000Z",
+    "status": "available",
+    "applicationCount": 9,
+    "viewCount": 1650
+  },
+  {
+    "id": "ad-8",
+    "slug": "rio-8",
+    "petName": "Rio",
+    "species": "bird",
+    "breed": {
+      "en": "Cockatiel",
+      "ar": "كوكتيل"
+    },
+    "gender": "male",
+    "ageMonths": 18,
+    "size": "xs",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/1661179.jpg",
+      "/img/stock/1181181.jpg",
+      "/img/stock/56733.jpg"
+    ],
+    "story": {
+      "en": "Rio was rescued from a busy street and has been in foster care since. Rio is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Rio من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Affectionate",
+        "ar": "ودود"
+      },
+      {
+        "en": "Independent",
+        "ar": "مستقل"
+      },
+      {
+        "en": "Curious",
+        "ar": "فضولي"
+      }
+    ],
+    "vaccinated": true,
+    "neutered": true,
+    "microchipped": true,
+    "cityId": "c-dubai",
+    "district": "Al Barsha",
+    "publisher": {
+      "id": "pub-4",
+      "name": {
+        "en": "Ahmed Barakat",
+        "ar": "أحمد بركات"
+      },
+      "type": "individual",
+      "avatar": "/img/stock/1181686.jpg",
+      "verifiedAssociation": false,
+      "rating": {
+        "average": 4.9,
+        "count": 165,
+        "breakdown": [
+          4,
+          5,
+          10,
+          30,
+          116
+        ]
+      }
+    },
+    "moderation": "approved",
+    "priority": false,
+    "fosterAvailable": false,
+    "goodWith": [
+      "seniors",
+      "apartments",
+      "children"
+    ],
+    "publishedAt": "2026-05-03T09:00:00.000Z",
+    "status": "available",
+    "applicationCount": 18,
+    "viewCount": 1898
+  },
+  {
+    "id": "ad-9",
+    "slug": "sasha-9",
+    "petName": "Sasha",
+    "species": "dog",
+    "breed": {
+      "en": "Poodle Mix",
+      "ar": "خليط بودل"
+    },
+    "gender": "female",
+    "ageMonths": 36,
+    "size": "sm",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/1490908.jpg",
+      "/img/stock/2253275.jpg",
+      "/img/stock/96420.jpg"
+    ],
+    "story": {
+      "en": "Sasha was rescued from a busy street and has been in foster care since. Sasha is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Sasha من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Loyal",
+        "ar": "وفي"
+      },
+      {
+        "en": "Playful",
+        "ar": "مرح"
+      },
+      {
+        "en": "Curious",
+        "ar": "فضولي"
+      }
+    ],
+    "vaccinated": true,
+    "neutered": true,
+    "microchipped": false,
+    "cityId": "c-riyadh",
+    "district": "Al Narjis",
+    "publisher": {
+      "id": "pub-1",
+      "name": {
+        "en": "Kind Paws Association",
+        "ar": "جمعية الأكف الرحيمة"
+      },
+      "type": "association",
+      "avatar": "/img/stock/2253275.jpg",
+      "verifiedAssociation": true,
+      "rating": {
+        "average": 4.6,
+        "count": 417,
+        "breakdown": [
+          28,
+          13,
+          25,
+          75,
+          276
+        ]
+      }
+    },
+    "moderation": "approved",
+    "priority": false,
+    "fosterAvailable": false,
+    "goodWith": [
+      "seniors",
+      "dogs",
+      "cats"
+    ],
+    "publishedAt": "2026-04-13T09:00:00.000Z",
+    "status": "available",
+    "applicationCount": 4,
+    "viewCount": 3266
+  },
+  {
+    "id": "ad-10",
+    "slug": "toffee-10",
+    "petName": "Toffee",
+    "species": "cat",
+    "breed": {
+      "en": "Ragdoll Mix",
+      "ar": "خليط راغدول"
+    },
+    "gender": "female",
+    "ageMonths": 6,
+    "size": "sm",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/156934.jpg",
+      "/img/stock/1404819.jpg",
+      "/img/stock/127028.jpg"
+    ],
+    "story": {
+      "en": "Toffee was rescued from a busy street and has been in foster care since. Toffee is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Toffee من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Affectionate",
+        "ar": "ودود"
+      },
+      {
+        "en": "Calm",
+        "ar": "هادئ"
+      },
+      {
+        "en": "Curious",
+        "ar": "فضولي"
+      }
+    ],
+    "vaccinated": true,
+    "neutered": false,
+    "microchipped": true,
+    "cityId": "c-jeddah",
+    "district": "Al Shatea",
+    "publisher": {
+      "id": "pub-2",
+      "name": {
+        "en": "Second Chance Shelter",
+        "ar": "ملجأ الفرصة الثانية"
+      },
+      "type": "association",
+      "avatar": "/img/stock/1805164.jpg",
+      "verifiedAssociation": true,
+      "rating": {
+        "average": 4.6,
+        "count": 171,
+        "breakdown": [
+          12,
+          5,
+          10,
+          31,
+          113
+        ]
+      }
+    },
+    "moderation": "approved",
+    "priority": false,
+    "fosterAvailable": true,
+    "goodWith": [
+      "apartments",
+      "children",
+      "dogs"
+    ],
+    "publishedAt": "2026-05-27T09:00:00.000Z",
+    "status": "reserved",
+    "applicationCount": 5,
+    "viewCount": 2337
+  },
+  {
+    "id": "ad-11",
+    "slug": "rex-11",
+    "petName": "Rex",
+    "species": "dog",
+    "breed": {
+      "en": "German Shepherd",
+      "ar": "راعي ألماني"
+    },
+    "gender": "male",
+    "ageMonths": 48,
+    "size": "xl",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/333083.jpg",
+      "/img/stock/96420.jpg",
+      "/img/stock/2253275.jpg"
+    ],
+    "story": {
+      "en": "Rex was rescued from a busy street and has been in foster care since. Rex is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Rex من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Playful",
+        "ar": "مرح"
+      },
+      {
+        "en": "Gentle",
+        "ar": "لطيف"
+      },
+      {
+        "en": "Loyal",
+        "ar": "وفي"
+      }
+    ],
+    "vaccinated": false,
+    "neutered": true,
+    "microchipped": true,
+    "specialNeeds": {
+      "en": "Requires ongoing joint supplements",
+      "ar": "يحتاج مكملات دائمة للمفاصل"
+    },
+    "cityId": "c-dammam",
+    "district": "Al Shatea",
+    "publisher": {
+      "id": "pub-3",
+      "name": {
+        "en": "Reem Al-Salem",
+        "ar": "ريم السالم"
+      },
+      "type": "individual",
+      "avatar": "/img/stock/415829.jpg",
+      "verifiedAssociation": false,
+      "rating": {
+        "average": 4.5,
+        "count": 398,
+        "breakdown": [
+          32,
+          12,
+          24,
+          72,
+          258
+        ]
+      }
+    },
+    "moderation": "approved",
+    "priority": true,
+    "fosterAvailable": false,
+    "goodWith": [
+      "dogs",
+      "seniors",
+      "children"
+    ],
+    "publishedAt": "2026-07-06T09:00:00.000Z",
+    "status": "adopted",
+    "applicationCount": 21,
+    "viewCount": 2485,
+    "adoptedAt": "2026-06-22T09:00:00.000Z"
+  },
+  {
+    "id": "ad-12",
+    "slug": "nemo-12",
+    "petName": "Nemo",
+    "species": "rabbit",
+    "breed": {
+      "en": "Mini Rex",
+      "ar": "ميني ريكس"
+    },
+    "gender": "male",
+    "ageMonths": 7,
+    "size": "xs",
+    "color": {
+      "en": "Mixed",
+      "ar": "متعدد"
+    },
+    "photos": [
+      "/img/stock/458806.jpg",
+      "/img/stock/326012.jpg",
+      "/img/stock/3828097.jpg"
+    ],
+    "story": {
+      "en": "Nemo was rescued from a busy street and has been in foster care since. Nemo is fully health-checked, sociable with people and ready for a calm, committed home.",
+      "ar": "أُنقذ Nemo من شارع مزدحم ويعيش منذ ذلك الحين في رعاية مؤقتة. خضع لفحص صحي كامل، وهو اجتماعي مع الناس وجاهز لبيت هادئ وملتزم."
+    },
+    "temperament": [
+      {
+        "en": "Curious",
+        "ar": "فضولي"
+      },
+      {
+        "en": "Independent",
+        "ar": "مستقل"
+      },
+      {
+        "en": "Affectionate",
+        "ar": "ودود"
+      }
+    ],
+    "vaccinated": true,
+    "neutered": true,
+    "microchipped": true,
+    "cityId": "c-dubai",
+    "district": "Marina",
+    "publisher": {
+      "id": "pub-4",
+      "name": {
+        "en": "Ahmed Barakat",
+        "ar": "أحمد بركات"
+      },
+      "type": "individual",
+      "avatar": "/img/stock/1181686.jpg",
+      "verifiedAssociation": false,
+      "rating": {
+        "average": 4.9,
+        "count": 165,
+        "breakdown": [
+          4,
+          5,
+          10,
+          30,
+          116
+        ]
+      }
+    },
+    "moderation": "pending",
+    "priority": false,
+    "fosterAvailable": false,
+    "goodWith": [
+      "seniors",
+      "apartments",
+      "children"
+    ],
+    "publishedAt": "2026-04-02T09:00:00.000Z",
+    "status": "adopted",
+    "applicationCount": 20,
+    "viewCount": 3004,
+    "adoptedAt": "2026-06-11T09:00:00.000Z"
+  }
+]

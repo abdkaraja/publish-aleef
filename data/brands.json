@@ -1,0 +1,162 @@
+[
+  {
+    "id": "b-1",
+    "slug": "royal-paws",
+    "name": "Royal Paws",
+    "logo": "/img/brands/royal-paws.svg",
+    "country": {
+      "en": "France",
+      "ar": "رويال باوز"
+    },
+    "description": {
+      "en": "Royal Paws formulates veterinary-grade products trusted by clinics across the region.",
+      "ar": "تقدّم رويال باوز منتجات بمعايير بيطرية تعتمدها العيادات في المنطقة."
+    },
+    "premium": true,
+    "productCount": 5
+  },
+  {
+    "id": "b-2",
+    "slug": "nutripet",
+    "name": "NutriPet",
+    "logo": "/img/brands/nutripet.svg",
+    "country": {
+      "en": "Germany",
+      "ar": "نيوتري بت"
+    },
+    "description": {
+      "en": "NutriPet formulates veterinary-grade products trusted by clinics across the region.",
+      "ar": "تقدّم نيوتري بت منتجات بمعايير بيطرية تعتمدها العيادات في المنطقة."
+    },
+    "premium": false,
+    "productCount": 6
+  },
+  {
+    "id": "b-3",
+    "slug": "aleef-essentials",
+    "name": "Aleef Essentials",
+    "logo": "/img/brands/aleef-essentials.svg",
+    "country": {
+      "en": "Saudi Arabia",
+      "ar": "أساسيات أليف"
+    },
+    "description": {
+      "en": "Aleef Essentials formulates veterinary-grade products trusted by clinics across the region.",
+      "ar": "تقدّم أساسيات أليف منتجات بمعايير بيطرية تعتمدها العيادات في المنطقة."
+    },
+    "premium": false,
+    "productCount": 6
+  },
+  {
+    "id": "b-4",
+    "slug": "vitafur",
+    "name": "VitaFur",
+    "logo": "/img/brands/vitafur.svg",
+    "country": {
+      "en": "Netherlands",
+      "ar": "فيتافير"
+    },
+    "description": {
+      "en": "VitaFur formulates veterinary-grade products trusted by clinics across the region.",
+      "ar": "تقدّم فيتافير منتجات بمعايير بيطرية تعتمدها العيادات في المنطقة."
+    },
+    "premium": false,
+    "productCount": 6
+  },
+  {
+    "id": "b-5",
+    "slug": "purrfectlife",
+    "name": "PurrfectLife",
+    "logo": "/img/brands/purrfectlife.svg",
+    "country": {
+      "en": "United Kingdom",
+      "ar": "بيرفكت لايف"
+    },
+    "description": {
+      "en": "PurrfectLife formulates veterinary-grade products trusted by clinics across the region.",
+      "ar": "تقدّم بيرفكت لايف منتجات بمعايير بيطرية تعتمدها العيادات في المنطقة."
+    },
+    "premium": true,
+    "productCount": 9
+  },
+  {
+    "id": "b-6",
+    "slug": "wildroots",
+    "name": "WildRoots",
+    "logo": "/img/brands/wildroots.svg",
+    "country": {
+      "en": "Canada",
+      "ar": "وايلد روتس"
+    },
+    "description": {
+      "en": "WildRoots formulates veterinary-grade products trusted by clinics across the region.",
+      "ar": "تقدّم وايلد روتس منتجات بمعايير بيطرية تعتمدها العيادات في المنطقة."
+    },
+    "premium": false,
+    "productCount": 9
+  },
+  {
+    "id": "b-7",
+    "slug": "aquasphere",
+    "name": "AquaSphere",
+    "logo": "/img/brands/aquasphere.svg",
+    "country": {
+      "en": "Japan",
+      "ar": "أكوا سفير"
+    },
+    "description": {
+      "en": "AquaSphere formulates veterinary-grade products trusted by clinics across the region.",
+      "ar": "تقدّم أكوا سفير منتجات بمعايير بيطرية تعتمدها العيادات في المنطقة."
+    },
+    "premium": false,
+    "productCount": 7
+  },
+  {
+    "id": "b-8",
+    "slug": "safecollar",
+    "name": "SafeCollar",
+    "logo": "/img/brands/safecollar.svg",
+    "country": {
+      "en": "United States",
+      "ar": "سيف كولار"
+    },
+    "description": {
+      "en": "SafeCollar formulates veterinary-grade products trusted by clinics across the region.",
+      "ar": "تقدّم سيف كولار منتجات بمعايير بيطرية تعتمدها العيادات في المنطقة."
+    },
+    "premium": false,
+    "productCount": 7
+  },
+  {
+    "id": "b-9",
+    "slug": "gentlegroom",
+    "name": "GentleGroom",
+    "logo": "/img/brands/gentlegroom.svg",
+    "country": {
+      "en": "Italy",
+      "ar": "جنتل جروم"
+    },
+    "description": {
+      "en": "GentleGroom formulates veterinary-grade products trusted by clinics across the region.",
+      "ar": "تقدّم جنتل جروم منتجات بمعايير بيطرية تعتمدها العيادات في المنطقة."
+    },
+    "premium": true,
+    "productCount": 7
+  },
+  {
+    "id": "b-10",
+    "slug": "birdharmony",
+    "name": "BirdHarmony",
+    "logo": "/img/brands/birdharmony.svg",
+    "country": {
+      "en": "Spain",
+      "ar": "بيرد هارموني"
+    },
+    "description": {
+      "en": "BirdHarmony formulates veterinary-grade products trusted by clinics across the region.",
+      "ar": "تقدّم بيرد هارموني منتجات بمعايير بيطرية تعتمدها العيادات في المنطقة."
+    },
+    "premium": false,
+    "productCount": 7
+  }
+]

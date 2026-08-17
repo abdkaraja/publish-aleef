@@ -1,0 +1,68 @@
+[
+  {
+    "id": "is-1",
+    "label": {
+      "en": "Pets registered",
+      "ar": "حيوان مسجّل"
+    },
+    "value": 18400,
+    "suffix": "+",
+    "icon": "paw",
+    "tone": "brand"
+  },
+  {
+    "id": "is-2",
+    "label": {
+      "en": "Consultations completed",
+      "ar": "استشارة مكتملة"
+    },
+    "value": 12680,
+    "suffix": "+",
+    "icon": "stethoscope",
+    "tone": "care"
+  },
+  {
+    "id": "is-3",
+    "label": {
+      "en": "Successful adoptions",
+      "ar": "حالة تبنٍّ ناجحة"
+    },
+    "value": 2140,
+    "suffix": "",
+    "icon": "hand-heart",
+    "tone": "rescue"
+  },
+  {
+    "id": "is-4",
+    "label": {
+      "en": "Pets reunited",
+      "ar": "حيوان عاد لأهله"
+    },
+    "value": 1240,
+    "suffix": "",
+    "icon": "siren",
+    "tone": "accent"
+  },
+  {
+    "id": "is-5",
+    "label": {
+      "en": "Grooming sessions",
+      "ar": "جلسة عناية"
+    },
+    "value": 9820,
+    "suffix": "+",
+    "icon": "scissors",
+    "tone": "accent"
+  },
+  {
+    "id": "is-6",
+    "label": {
+      "en": "Nights boarded",
+      "ar": "ليلة إيواء"
+    },
+    "value": 24500,
+    "suffix": "+",
+    "icon": "hotel",
+    "tone": "brand"
+  }
+]

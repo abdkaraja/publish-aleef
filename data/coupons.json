@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cp-1",
+    "code": "ALEEF10",
+    "description": {
+      "en": "10% off your first order",
+      "ar": "خصم ١٠٪ على أول طلب"
+    },
+    "type": "percent",
+    "value": 10,
+    "minSubtotal": 150,
+    "maxDiscount": 80,
+    "expiresAt": "2026-11-22T09:00:00.000Z",
+    "usageLimit": 1000,
+    "used": 412,
+    "appliesTo": "store"
+  },
+  {
+    "id": "cp-2",
+    "code": "FREESHIP",
+    "description": {
+      "en": "Free delivery on any order",
+      "ar": "توصيل مجاني على أي طلب"
+    },
+    "type": "free_shipping",
+    "value": 0,
+    "expiresAt": "2026-09-23T09:00:00.000Z",
+    "appliesTo": "store"
+  },
+  {
+    "id": "cp-3",
+    "code": "GROOM25",
+    "description": {
+      "en": "SAR 25 off a grooming session",
+      "ar": "خصم ٢٥ ر.س على جلسة عناية"
+    },
+    "type": "fixed",
+    "value": 25,
+    "minSubtotal": 100,
+    "expiresAt": "2026-09-08T09:00:00.000Z",
+    "appliesTo": "grooming"
+  },
+  {
+    "id": "cp-4",
+    "code": "VETCARE",
+    "description": {
+      "en": "15% off your next consultation",
+      "ar": "خصم ١٥٪ على استشارتك القادمة"
+    },
+    "type": "percent",
+    "value": 15,
+    "maxDiscount": 40,
+    "expiresAt": "2026-08-24T09:00:00.000Z",
+    "appliesTo": "consultation"
+  }
+]

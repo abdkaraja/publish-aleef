@@ -1,0 +1,53 @@
+[
+  {
+    "id": "lc-1",
+    "name": {
+      "en": "Complete a pet profile",
+      "ar": "أكمل ملف حيوانك"
+    },
+    "description": {
+      "en": "Fill every field on one pet profile this month.",
+      "ar": "أكمل جميع حقول ملف أحد حيواناتك هذا الشهر."
+    },
+    "icon": "paw",
+    "rewardPoints": 200,
+    "progress": 3,
+    "goal": 4,
+    "endsAt": "2026-08-06T09:00:00.000Z",
+    "completed": false
+  },
+  {
+    "id": "lc-2",
+    "name": {
+      "en": "Write two verified reviews",
+      "ar": "اكتب تقييمين موثّقين"
+    },
+    "description": {
+      "en": "Share your experience on delivered products.",
+      "ar": "شارك تجربتك مع المنتجات المستلمة."
+    },
+    "icon": "star",
+    "rewardPoints": 120,
+    "progress": 1,
+    "goal": 2,
+    "endsAt": "2026-08-06T09:00:00.000Z",
+    "completed": false
+  },
+  {
+    "id": "lc-3",
+    "name": {
+      "en": "Book any service",
+      "ar": "احجز أي خدمة"
+    },
+    "description": {
+      "en": "Grooming, boarding or a vet consultation.",
+      "ar": "عناية أو إيواء أو استشارة بيطرية."
+    },
+    "icon": "calendar-check",
+    "rewardPoints": 150,
+    "progress": 1,
+    "goal": 1,
+    "endsAt": "2026-08-06T09:00:00.000Z",
+    "completed": true
+  }
+]

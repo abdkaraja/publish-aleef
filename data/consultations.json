@@ -1,0 +1,803 @@
+[
+  {
+    "id": "cons-1",
+    "reference": "CN-2600",
+    "petId": "pt-1",
+    "petName": "Simba",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-1",
+    "vetName": {
+      "en": "Dr. Yasmin Farouk",
+      "ar": "د. ياسمين فاروق"
+    },
+    "mode": "video",
+    "type": "instant",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "fee": 120,
+    "vetPayout": 96,
+    "platformFee": 24,
+    "status": "cancelled"
+  },
+  {
+    "id": "cons-2",
+    "reference": "CN-2601",
+    "petId": "pt-2",
+    "petName": "Luna",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-2",
+    "vetName": {
+      "en": "Dr. Omar Al-Rashid",
+      "ar": "د. عمر الراشد"
+    },
+    "mode": "chat",
+    "type": "second_opinion",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "startedAt": "2026-03-01T09:00:00.000Z",
+    "endedAt": "2026-03-01T10:00:00.000Z",
+    "durationMinutes": 22,
+    "fee": 180,
+    "vetPayout": 144,
+    "platformFee": 36,
+    "status": "completed",
+    "summary": {
+      "en": "Mild gastritis suspected. Bland diet for 48 hours and a probiotic course prescribed.",
+      "ar": "يُشتبه بالتهاب معدي خفيف. نظام غذائي خفيف لمدة ٤٨ ساعة مع بروبيوتيك."
+    },
+    "rating": 5
+  },
+  {
+    "id": "cons-3",
+    "reference": "CN-2602",
+    "petId": "pt-3",
+    "petName": "Rocky",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-3",
+    "vetName": {
+      "en": "Dr. Hala Mansour",
+      "ar": "د. هالة منصور"
+    },
+    "mode": "video",
+    "type": "follow_up",
+    "urgency": "emergency",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "scheduledAt": "2026-07-27T16:00:00.000Z",
+    "fee": 140,
+    "vetPayout": 112,
+    "platformFee": 28,
+    "status": "scheduled"
+  },
+  {
+    "id": "cons-4",
+    "reference": "CN-2603",
+    "petId": "pt-4",
+    "petName": "Kiwi",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-4",
+    "vetName": {
+      "en": "Dr. Saeed Al-Amri",
+      "ar": "د. سعيد العمري"
+    },
+    "mode": "chat",
+    "type": "second_opinion",
+    "urgency": "urgent",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "fee": 150,
+    "vetPayout": 120,
+    "platformFee": 30,
+    "status": "in_progress"
+  },
+  {
+    "id": "cons-5",
+    "reference": "CN-2604",
+    "petId": "pt-5",
+    "petName": "Nala",
+    "ownerId": "u-060",
+    "ownerName": {
+      "en": "Maha Al-Otaibi",
+      "ar": "مها العتيبي"
+    },
+    "vetId": "v-5",
+    "vetName": {
+      "en": "Dr. Nadia Kamal",
+      "ar": "د. نادية كمال"
+    },
+    "mode": "video",
+    "type": "instant",
+    "urgency": "emergency",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "startedAt": "2026-03-03T09:00:00.000Z",
+    "endedAt": "2026-03-03T10:00:00.000Z",
+    "durationMinutes": 14,
+    "fee": 130,
+    "vetPayout": 104,
+    "platformFee": 26,
+    "status": "completed",
+    "summary": {
+      "en": "Mild gastritis suspected. Bland diet for 48 hours and a probiotic course prescribed.",
+      "ar": "يُشتبه بالتهاب معدي خفيف. نظام غذائي خفيف لمدة ٤٨ ساعة مع بروبيوتيك."
+    },
+    "rating": 4
+  },
+  {
+    "id": "cons-6",
+    "reference": "CN-2605",
+    "petId": "pt-6",
+    "petName": "Sultan",
+    "ownerId": "u-080",
+    "ownerName": {
+      "en": "Hamad Al-Dosari",
+      "ar": "حمد الدوسري"
+    },
+    "vetId": "v-6",
+    "vetName": {
+      "en": "Dr. Faisal Buhairi",
+      "ar": "د. فيصل البحيري"
+    },
+    "mode": "chat",
+    "type": "scheduled",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "startedAt": "2026-04-18T09:00:00.000Z",
+    "endedAt": "2026-04-18T10:00:00.000Z",
+    "durationMinutes": 19,
+    "fee": 210,
+    "vetPayout": 168,
+    "platformFee": 42,
+    "status": "completed",
+    "summary": {
+      "en": "Mild gastritis suspected. Bland diet for 48 hours and a probiotic course prescribed.",
+      "ar": "يُشتبه بالتهاب معدي خفيف. نظام غذائي خفيف لمدة ٤٨ ساعة مع بروبيوتيك."
+    },
+    "rating": 5
+  },
+  {
+    "id": "cons-7",
+    "reference": "CN-2606",
+    "petId": "pt-1",
+    "petName": "Simba",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-7",
+    "vetName": {
+      "en": "Dr. Mona Zayed",
+      "ar": "د. منى زايد"
+    },
+    "mode": "video",
+    "type": "follow_up",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "fee": 110,
+    "vetPayout": 88,
+    "platformFee": 22,
+    "status": "queued",
+    "queuePosition": 5,
+    "estimatedWaitMinutes": 10
+  },
+  {
+    "id": "cons-8",
+    "reference": "CN-2607",
+    "petId": "pt-2",
+    "petName": "Luna",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-8",
+    "vetName": {
+      "en": "Dr. Riyadh Hakim",
+      "ar": "د. رياض حكيم"
+    },
+    "mode": "chat",
+    "type": "second_opinion",
+    "urgency": "urgent",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "fee": 320,
+    "vetPayout": 256,
+    "platformFee": 64,
+    "status": "cancelled"
+  },
+  {
+    "id": "cons-9",
+    "reference": "CN-2608",
+    "petId": "pt-3",
+    "petName": "Rocky",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-1",
+    "vetName": {
+      "en": "Dr. Yasmin Farouk",
+      "ar": "د. ياسمين فاروق"
+    },
+    "mode": "video",
+    "type": "instant",
+    "urgency": "emergency",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "startedAt": "2026-04-23T09:00:00.000Z",
+    "endedAt": "2026-04-23T10:00:00.000Z",
+    "durationMinutes": 12,
+    "fee": 120,
+    "vetPayout": 96,
+    "platformFee": 24,
+    "status": "completed",
+    "summary": {
+      "en": "Mild gastritis suspected. Bland diet for 48 hours and a probiotic course prescribed.",
+      "ar": "يُشتبه بالتهاب معدي خفيف. نظام غذائي خفيف لمدة ٤٨ ساعة مع بروبيوتيك."
+    },
+    "rating": 4
+  },
+  {
+    "id": "cons-10",
+    "reference": "CN-2609",
+    "petId": "pt-4",
+    "petName": "Kiwi",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-2",
+    "vetName": {
+      "en": "Dr. Omar Al-Rashid",
+      "ar": "د. عمر الراشد"
+    },
+    "mode": "chat",
+    "type": "scheduled",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "fee": 180,
+    "vetPayout": 144,
+    "platformFee": 36,
+    "status": "queued",
+    "queuePosition": 2,
+    "estimatedWaitMinutes": 17
+  },
+  {
+    "id": "cons-11",
+    "reference": "CN-2610",
+    "petId": "pt-5",
+    "petName": "Nala",
+    "ownerId": "u-060",
+    "ownerName": {
+      "en": "Maha Al-Otaibi",
+      "ar": "مها العتيبي"
+    },
+    "vetId": "v-3",
+    "vetName": {
+      "en": "Dr. Hala Mansour",
+      "ar": "د. هالة منصور"
+    },
+    "mode": "chat",
+    "type": "scheduled",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "startedAt": "2026-03-02T09:00:00.000Z",
+    "endedAt": "2026-03-02T10:00:00.000Z",
+    "durationMinutes": 11,
+    "fee": 140,
+    "vetPayout": 112,
+    "platformFee": 28,
+    "status": "completed",
+    "summary": {
+      "en": "Mild gastritis suspected. Bland diet for 48 hours and a probiotic course prescribed.",
+      "ar": "يُشتبه بالتهاب معدي خفيف. نظام غذائي خفيف لمدة ٤٨ ساعة مع بروبيوتيك."
+    },
+    "rating": 5
+  },
+  {
+    "id": "cons-12",
+    "reference": "CN-2611",
+    "petId": "pt-6",
+    "petName": "Sultan",
+    "ownerId": "u-080",
+    "ownerName": {
+      "en": "Hamad Al-Dosari",
+      "ar": "حمد الدوسري"
+    },
+    "vetId": "v-4",
+    "vetName": {
+      "en": "Dr. Saeed Al-Amri",
+      "ar": "د. سعيد العمري"
+    },
+    "mode": "video",
+    "type": "instant",
+    "urgency": "emergency",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "startedAt": "2026-02-16T09:00:00.000Z",
+    "endedAt": "2026-02-16T10:00:00.000Z",
+    "durationMinutes": 20,
+    "fee": 150,
+    "vetPayout": 120,
+    "platformFee": 30,
+    "status": "completed",
+    "summary": {
+      "en": "Mild gastritis suspected. Bland diet for 48 hours and a probiotic course prescribed.",
+      "ar": "يُشتبه بالتهاب معدي خفيف. نظام غذائي خفيف لمدة ٤٨ ساعة مع بروبيوتيك."
+    },
+    "rating": 4
+  },
+  {
+    "id": "cons-13",
+    "reference": "CN-2612",
+    "petId": "pt-1",
+    "petName": "Simba",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-5",
+    "vetName": {
+      "en": "Dr. Nadia Kamal",
+      "ar": "د. نادية كمال"
+    },
+    "mode": "chat",
+    "type": "second_opinion",
+    "urgency": "urgent",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "scheduledAt": "2026-08-03T13:00:00.000Z",
+    "fee": 130,
+    "vetPayout": 104,
+    "platformFee": 26,
+    "status": "scheduled"
+  },
+  {
+    "id": "cons-14",
+    "reference": "CN-2613",
+    "petId": "pt-2",
+    "petName": "Luna",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-6",
+    "vetName": {
+      "en": "Dr. Faisal Buhairi",
+      "ar": "د. فيصل البحيري"
+    },
+    "mode": "video",
+    "type": "follow_up",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "fee": 210,
+    "vetPayout": 168,
+    "platformFee": 42,
+    "status": "in_progress"
+  },
+  {
+    "id": "cons-15",
+    "reference": "CN-2614",
+    "petId": "pt-3",
+    "petName": "Rocky",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-7",
+    "vetName": {
+      "en": "Dr. Mona Zayed",
+      "ar": "د. منى زايد"
+    },
+    "mode": "chat",
+    "type": "second_opinion",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "startedAt": "2026-01-30T09:00:00.000Z",
+    "endedAt": "2026-01-30T10:00:00.000Z",
+    "durationMinutes": 30,
+    "fee": 110,
+    "vetPayout": 88,
+    "platformFee": 22,
+    "status": "completed",
+    "summary": {
+      "en": "Mild gastritis suspected. Bland diet for 48 hours and a probiotic course prescribed.",
+      "ar": "يُشتبه بالتهاب معدي خفيف. نظام غذائي خفيف لمدة ٤٨ ساعة مع بروبيوتيك."
+    },
+    "rating": 5
+  },
+  {
+    "id": "cons-16",
+    "reference": "CN-2615",
+    "petId": "pt-4",
+    "petName": "Kiwi",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-8",
+    "vetName": {
+      "en": "Dr. Riyadh Hakim",
+      "ar": "د. رياض حكيم"
+    },
+    "mode": "video",
+    "type": "instant",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "scheduledAt": "2026-08-02T10:00:00.000Z",
+    "fee": 320,
+    "vetPayout": 256,
+    "platformFee": 64,
+    "status": "scheduled"
+  },
+  {
+    "id": "cons-17",
+    "reference": "CN-2616",
+    "petId": "pt-5",
+    "petName": "Nala",
+    "ownerId": "u-060",
+    "ownerName": {
+      "en": "Maha Al-Otaibi",
+      "ar": "مها العتيبي"
+    },
+    "vetId": "v-1",
+    "vetName": {
+      "en": "Dr. Yasmin Farouk",
+      "ar": "د. ياسمين فاروق"
+    },
+    "mode": "chat",
+    "type": "second_opinion",
+    "urgency": "urgent",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "fee": 120,
+    "vetPayout": 96,
+    "platformFee": 24,
+    "status": "queued",
+    "queuePosition": 1,
+    "estimatedWaitMinutes": 15
+  },
+  {
+    "id": "cons-18",
+    "reference": "CN-2617",
+    "petId": "pt-6",
+    "petName": "Sultan",
+    "ownerId": "u-080",
+    "ownerName": {
+      "en": "Hamad Al-Dosari",
+      "ar": "حمد الدوسري"
+    },
+    "vetId": "v-2",
+    "vetName": {
+      "en": "Dr. Omar Al-Rashid",
+      "ar": "د. عمر الراشد"
+    },
+    "mode": "video",
+    "type": "follow_up",
+    "urgency": "emergency",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "fee": 180,
+    "vetPayout": 144,
+    "platformFee": 36,
+    "status": "cancelled"
+  },
+  {
+    "id": "cons-19",
+    "reference": "CN-2618",
+    "petId": "pt-1",
+    "petName": "Simba",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-3",
+    "vetName": {
+      "en": "Dr. Hala Mansour",
+      "ar": "د. هالة منصور"
+    },
+    "mode": "chat",
+    "type": "second_opinion",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "fee": 140,
+    "vetPayout": 112,
+    "platformFee": 28,
+    "status": "in_progress"
+  },
+  {
+    "id": "cons-20",
+    "reference": "CN-2619",
+    "petId": "pt-2",
+    "petName": "Luna",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-4",
+    "vetName": {
+      "en": "Dr. Saeed Al-Amri",
+      "ar": "د. سعيد العمري"
+    },
+    "mode": "video",
+    "type": "instant",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "startedAt": "2026-04-24T09:00:00.000Z",
+    "endedAt": "2026-04-24T10:00:00.000Z",
+    "durationMinutes": 12,
+    "fee": 150,
+    "vetPayout": 120,
+    "platformFee": 30,
+    "status": "completed",
+    "summary": {
+      "en": "Mild gastritis suspected. Bland diet for 48 hours and a probiotic course prescribed.",
+      "ar": "يُشتبه بالتهاب معدي خفيف. نظام غذائي خفيف لمدة ٤٨ ساعة مع بروبيوتيك."
+    },
+    "rating": 4
+  },
+  {
+    "id": "cons-21",
+    "reference": "CN-2620",
+    "petId": "pt-3",
+    "petName": "Rocky",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-5",
+    "vetName": {
+      "en": "Dr. Nadia Kamal",
+      "ar": "د. نادية كمال"
+    },
+    "mode": "video",
+    "type": "instant",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "fee": 130,
+    "vetPayout": 104,
+    "platformFee": 26,
+    "status": "cancelled"
+  },
+  {
+    "id": "cons-22",
+    "reference": "CN-2621",
+    "petId": "pt-4",
+    "petName": "Kiwi",
+    "ownerId": "u-001",
+    "ownerName": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "vetId": "v-6",
+    "vetName": {
+      "en": "Dr. Faisal Buhairi",
+      "ar": "د. فيصل البحيري"
+    },
+    "mode": "chat",
+    "type": "second_opinion",
+    "urgency": "routine",
+    "symptoms": [
+      {
+        "en": "Loss of appetite",
+        "ar": "فقدان الشهية"
+      },
+      {
+        "en": "Lethargy",
+        "ar": "خمول"
+      }
+    ],
+    "fee": 210,
+    "vetPayout": 168,
+    "platformFee": 42,
+    "status": "queued",
+    "queuePosition": 1,
+    "estimatedWaitMinutes": 5
+  }
+]

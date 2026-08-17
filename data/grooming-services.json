@@ -1,0 +1,442 @@
+[
+  {
+    "id": "gs-1",
+    "slug": "full-grooming-package",
+    "name": {
+      "en": "Full grooming package",
+      "ar": "باقة العناية الكاملة"
+    },
+    "description": {
+      "en": "Performed by a certified specialist using low-stress handling. Includes a health-check summary sent to your account afterwards.",
+      "ar": "يقدّمها أخصائي معتمد بأساليب تقلل التوتر، وتشمل تقريرًا صحيًا يُرسل إلى حسابك بعد الجلسة."
+    },
+    "icon": "scissors",
+    "image": "/img/stock/1254140.jpg",
+    "durationMinutes": 90,
+    "species": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "pricing": {
+      "xs": {
+        "center": 80,
+        "home": 110
+      },
+      "sm": {
+        "center": 98,
+        "home": 134
+      },
+      "md": {
+        "center": 115,
+        "home": 158
+      },
+      "lg": {
+        "center": 133,
+        "home": 183
+      },
+      "xl": {
+        "center": 150,
+        "home": 207
+      }
+    },
+    "popular": true,
+    "addOn": false
+  },
+  {
+    "id": "gs-2",
+    "slug": "bath-blow-dry",
+    "name": {
+      "en": "Bath & blow dry",
+      "ar": "استحمام وتجفيف"
+    },
+    "description": {
+      "en": "Performed by a certified specialist using low-stress handling. Includes a health-check summary sent to your account afterwards.",
+      "ar": "يقدّمها أخصائي معتمد بأساليب تقلل التوتر، وتشمل تقريرًا صحيًا يُرسل إلى حسابك بعد الجلسة."
+    },
+    "icon": "droplet",
+    "image": "/img/stock/1805164.jpg",
+    "durationMinutes": 45,
+    "species": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "pricing": {
+      "xs": {
+        "center": 55,
+        "home": 75
+      },
+      "sm": {
+        "center": 67,
+        "home": 92
+      },
+      "md": {
+        "center": 79,
+        "home": 108
+      },
+      "lg": {
+        "center": 91,
+        "home": 125
+      },
+      "xl": {
+        "center": 103,
+        "home": 141
+      }
+    },
+    "popular": true,
+    "addOn": false
+  },
+  {
+    "id": "gs-3",
+    "slug": "haircut-styling",
+    "name": {
+      "en": "Haircut & styling",
+      "ar": "قص وتصفيف"
+    },
+    "description": {
+      "en": "Performed by a certified specialist using low-stress handling. Includes a health-check summary sent to your account afterwards.",
+      "ar": "يقدّمها أخصائي معتمد بأساليب تقلل التوتر، وتشمل تقريرًا صحيًا يُرسل إلى حسابك بعد الجلسة."
+    },
+    "icon": "scissors",
+    "image": "/img/stock/2253275.jpg",
+    "durationMinutes": 60,
+    "species": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "pricing": {
+      "xs": {
+        "center": 70,
+        "home": 95
+      },
+      "sm": {
+        "center": 85,
+        "home": 116
+      },
+      "md": {
+        "center": 101,
+        "home": 137
+      },
+      "lg": {
+        "center": 116,
+        "home": 158
+      },
+      "xl": {
+        "center": 132,
+        "home": 179
+      }
+    },
+    "popular": false,
+    "addOn": false
+  },
+  {
+    "id": "gs-4",
+    "slug": "nail-trimming",
+    "name": {
+      "en": "Nail trimming",
+      "ar": "تقليم الأظافر"
+    },
+    "description": {
+      "en": "Performed by a certified specialist using low-stress handling. Includes a health-check summary sent to your account afterwards.",
+      "ar": "يقدّمها أخصائي معتمد بأساليب تقلل التوتر، وتشمل تقريرًا صحيًا يُرسل إلى حسابك بعد الجلسة."
+    },
+    "icon": "scissors",
+    "image": "/img/stock/573241.jpg",
+    "durationMinutes": 15,
+    "species": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "pricing": {
+      "xs": {
+        "center": 25,
+        "home": 40
+      },
+      "sm": {
+        "center": 31,
+        "home": 49
+      },
+      "md": {
+        "center": 36,
+        "home": 58
+      },
+      "lg": {
+        "center": 42,
+        "home": 66
+      },
+      "xl": {
+        "center": 47,
+        "home": 75
+      }
+    },
+    "popular": false,
+    "addOn": true
+  },
+  {
+    "id": "gs-5",
+    "slug": "ear-cleaning",
+    "name": {
+      "en": "Ear cleaning",
+      "ar": "تنظيف الأذن"
+    },
+    "description": {
+      "en": "Performed by a certified specialist using low-stress handling. Includes a health-check summary sent to your account afterwards.",
+      "ar": "يقدّمها أخصائي معتمد بأساليب تقلل التوتر، وتشمل تقريرًا صحيًا يُرسل إلى حسابك بعد الجلسة."
+    },
+    "icon": "droplet",
+    "image": "/img/stock/96420.jpg",
+    "durationMinutes": 15,
+    "species": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "pricing": {
+      "xs": {
+        "center": 20,
+        "home": 35
+      },
+      "sm": {
+        "center": 24,
+        "home": 43
+      },
+      "md": {
+        "center": 29,
+        "home": 50
+      },
+      "lg": {
+        "center": 33,
+        "home": 58
+      },
+      "xl": {
+        "center": 38,
+        "home": 66
+      }
+    },
+    "popular": false,
+    "addOn": true
+  },
+  {
+    "id": "gs-6",
+    "slug": "teeth-brushing",
+    "name": {
+      "en": "Teeth brushing",
+      "ar": "تنظيف الأسنان"
+    },
+    "description": {
+      "en": "Performed by a certified specialist using low-stress handling. Includes a health-check summary sent to your account afterwards.",
+      "ar": "يقدّمها أخصائي معتمد بأساليب تقلل التوتر، وتشمل تقريرًا صحيًا يُرسل إلى حسابك بعد الجلسة."
+    },
+    "icon": "sparkles",
+    "image": "/img/stock/1851164.jpg",
+    "durationMinutes": 20,
+    "species": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "pricing": {
+      "xs": {
+        "center": 30,
+        "home": 45
+      },
+      "sm": {
+        "center": 37,
+        "home": 55
+      },
+      "md": {
+        "center": 43,
+        "home": 65
+      },
+      "lg": {
+        "center": 50,
+        "home": 75
+      },
+      "xl": {
+        "center": 56,
+        "home": 85
+      }
+    },
+    "popular": false,
+    "addOn": true
+  },
+  {
+    "id": "gs-7",
+    "slug": "de-shedding-treatment",
+    "name": {
+      "en": "De-shedding treatment",
+      "ar": "علاج تساقط الشعر"
+    },
+    "description": {
+      "en": "Performed by a certified specialist using low-stress handling. Includes a health-check summary sent to your account afterwards.",
+      "ar": "يقدّمها أخصائي معتمد بأساليب تقلل التوتر، وتشمل تقريرًا صحيًا يُرسل إلى حسابك بعد الجلسة."
+    },
+    "icon": "leaf",
+    "image": "/img/stock/1254140.jpg",
+    "durationMinutes": 50,
+    "species": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "pricing": {
+      "xs": {
+        "center": 65,
+        "home": 90
+      },
+      "sm": {
+        "center": 79,
+        "home": 110
+      },
+      "md": {
+        "center": 94,
+        "home": 130
+      },
+      "lg": {
+        "center": 108,
+        "home": 149
+      },
+      "xl": {
+        "center": 122,
+        "home": 169
+      }
+    },
+    "popular": true,
+    "addOn": false
+  },
+  {
+    "id": "gs-8",
+    "slug": "flea-tick-bath",
+    "name": {
+      "en": "Flea & tick bath",
+      "ar": "حمّام مضاد للبراغيث"
+    },
+    "description": {
+      "en": "Performed by a certified specialist using low-stress handling. Includes a health-check summary sent to your account afterwards.",
+      "ar": "يقدّمها أخصائي معتمد بأساليب تقلل التوتر، وتشمل تقريرًا صحيًا يُرسل إلى حسابك بعد الجلسة."
+    },
+    "icon": "shield-check",
+    "image": "/img/stock/573241.jpg",
+    "durationMinutes": 45,
+    "species": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "pricing": {
+      "xs": {
+        "center": 70,
+        "home": 95
+      },
+      "sm": {
+        "center": 85,
+        "home": 116
+      },
+      "md": {
+        "center": 101,
+        "home": 137
+      },
+      "lg": {
+        "center": 116,
+        "home": 158
+      },
+      "xl": {
+        "center": 132,
+        "home": 179
+      }
+    },
+    "popular": false,
+    "addOn": false
+  },
+  {
+    "id": "gs-9",
+    "slug": "paw-pad-care",
+    "name": {
+      "en": "Paw & pad care",
+      "ar": "العناية بالكفوف"
+    },
+    "description": {
+      "en": "Performed by a certified specialist using low-stress handling. Includes a health-check summary sent to your account afterwards.",
+      "ar": "يقدّمها أخصائي معتمد بأساليب تقلل التوتر، وتشمل تقريرًا صحيًا يُرسل إلى حسابك بعد الجلسة."
+    },
+    "icon": "paw",
+    "image": "/img/stock/96420.jpg",
+    "durationMinutes": 20,
+    "species": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "pricing": {
+      "xs": {
+        "center": 28,
+        "home": 42
+      },
+      "sm": {
+        "center": 34,
+        "home": 51
+      },
+      "md": {
+        "center": 40,
+        "home": 60
+      },
+      "lg": {
+        "center": 46,
+        "home": 70
+      },
+      "xl": {
+        "center": 53,
+        "home": 79
+      }
+    },
+    "popular": false,
+    "addOn": true
+  },
+  {
+    "id": "gs-10",
+    "slug": "puppy-first-groom",
+    "name": {
+      "en": "Puppy first groom",
+      "ar": "أول جلسة للجرو"
+    },
+    "description": {
+      "en": "Performed by a certified specialist using low-stress handling. Includes a health-check summary sent to your account afterwards.",
+      "ar": "يقدّمها أخصائي معتمد بأساليب تقلل التوتر، وتشمل تقريرًا صحيًا يُرسل إلى حسابك بعد الجلسة."
+    },
+    "icon": "heart",
+    "image": "/img/stock/96420.jpg",
+    "durationMinutes": 40,
+    "species": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "pricing": {
+      "xs": {
+        "center": 48,
+        "home": 68
+      },
+      "sm": {
+        "center": 59,
+        "home": 83
+      },
+      "md": {
+        "center": 69,
+        "home": 98
+      },
+      "lg": {
+        "center": 80,
+        "home": 113
+      },
+      "xl": {
+        "center": 90,
+        "home": 128
+      }
+    },
+    "popular": false,
+    "addOn": false
+  }
+]

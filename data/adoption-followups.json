@@ -1,0 +1,74 @@
+[
+  {
+    "id": "af-1",
+    "listingId": "ad-9",
+    "adopterName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "dueAt": "2026-07-21T09:00:00.000Z",
+    "submittedAt": "2026-07-19T09:00:00.000Z",
+    "petCondition": "adjusting",
+    "notes": {
+      "en": "Settled in beautifully and already best friends with the kids.",
+      "ar": "اندمج بشكل رائع وأصبح صديقًا مقربًا للأطفال."
+    }
+  },
+  {
+    "id": "af-2",
+    "listingId": "ad-10",
+    "adopterName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "dueAt": "2026-08-11T09:00:00.000Z"
+  },
+  {
+    "id": "af-3",
+    "listingId": "ad-11",
+    "adopterName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "dueAt": "2026-08-12T09:00:00.000Z",
+    "submittedAt": "2026-07-21T09:00:00.000Z",
+    "petCondition": "adjusting",
+    "notes": {
+      "en": "Settled in beautifully and already best friends with the kids.",
+      "ar": "اندمج بشكل رائع وأصبح صديقًا مقربًا للأطفال."
+    }
+  },
+  {
+    "id": "af-4",
+    "listingId": "ad-12",
+    "adopterName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "dueAt": "2026-07-18T09:00:00.000Z"
+  },
+  {
+    "id": "af-5",
+    "listingId": "ad-1",
+    "adopterName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "dueAt": "2026-08-06T09:00:00.000Z",
+    "submittedAt": "2026-07-15T09:00:00.000Z",
+    "petCondition": "adjusting",
+    "notes": {
+      "en": "Settled in beautifully and already best friends with the kids.",
+      "ar": "اندمج بشكل رائع وأصبح صديقًا مقربًا للأطفال."
+    }
+  },
+  {
+    "id": "af-6",
+    "listingId": "ad-2",
+    "adopterName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "dueAt": "2026-07-24T09:00:00.000Z"
+  }
+]

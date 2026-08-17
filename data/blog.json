@@ -1,0 +1,458 @@
+[
+  {
+    "id": "bl-1",
+    "slug": "how-to-read-a-pet-food-label",
+    "title": {
+      "en": "How to read a pet food label",
+      "ar": "كيف تقرأ ملصق طعام الحيوان"
+    },
+    "excerpt": {
+      "en": "A practical, vet-reviewed walkthrough with the details that actually matter day to day.",
+      "ar": "شرح عملي مراجَع بيطريًا يركّز على التفاصيل التي تهمّك يوميًا."
+    },
+    "body": {
+      "en": "## Why this matters\n\nEvery pet owner faces this question sooner or later, and the answer changes with age, breed and season.\n\n## What to look for\n\n- Start with the basics and observe over several days.\n- Write down what changes so you can share it during a consultation.\n- Compare against the baseline in your pet's medical record.\n\n## When to call a vet\n\nIf anything on this list persists for more than 48 hours, open an instant consultation. Our triage step will classify the urgency for you.",
+      "ar": "## لماذا يهم هذا الأمر\n\nيواجه كل مربٍّ هذا السؤال عاجلًا أم آجلًا، وتختلف الإجابة باختلاف العمر والسلالة والفصل.\n\n## ما الذي يجب ملاحظته\n\n- ابدأ بالأساسيات وراقب على مدى عدة أيام.\n- دوّن التغيّرات لتتمكن من مشاركتها أثناء الاستشارة.\n- قارنها بالقيم المرجعية في السجل الطبي لحيوانك.\n\n## متى تتصل بالطبيب\n\nإذا استمرت أي من هذه العلامات أكثر من ٤٨ ساعة، ابدأ استشارة فورية وسيصنّف الفرز درجة الاستعجال نيابة عنك."
+    },
+    "cover": "/img/stock/326012.jpg",
+    "category": {
+      "en": "Nutrition",
+      "ar": "التغذية"
+    },
+    "categorySlug": "nutrition",
+    "tags": [
+      {
+        "en": "Nutrition",
+        "ar": "التغذية"
+      },
+      {
+        "en": "Guide",
+        "ar": "دليل"
+      }
+    ],
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "author": {
+      "name": {
+        "en": "Dr. Yasmin Farouk",
+        "ar": "د. ياسمين فاروق"
+      },
+      "avatar": "/img/stock/5452293.jpg",
+      "role": {
+        "en": "Chief Veterinary Officer",
+        "ar": "المدير الطبي البيطري"
+      }
+    },
+    "publishedAt": "2026-03-02T09:00:00.000Z",
+    "readMinutes": 5,
+    "featured": true,
+    "viewCount": 10782
+  },
+  {
+    "id": "bl-2",
+    "slug": "vaccination-schedule-for-kittens",
+    "title": {
+      "en": "Vaccination schedule for kittens",
+      "ar": "جدول التطعيمات للقطط الصغيرة"
+    },
+    "excerpt": {
+      "en": "A practical, vet-reviewed walkthrough with the details that actually matter day to day.",
+      "ar": "شرح عملي مراجَع بيطريًا يركّز على التفاصيل التي تهمّك يوميًا."
+    },
+    "body": {
+      "en": "## Why this matters\n\nEvery pet owner faces this question sooner or later, and the answer changes with age, breed and season.\n\n## What to look for\n\n- Start with the basics and observe over several days.\n- Write down what changes so you can share it during a consultation.\n- Compare against the baseline in your pet's medical record.\n\n## When to call a vet\n\nIf anything on this list persists for more than 48 hours, open an instant consultation. Our triage step will classify the urgency for you.",
+      "ar": "## لماذا يهم هذا الأمر\n\nيواجه كل مربٍّ هذا السؤال عاجلًا أم آجلًا، وتختلف الإجابة باختلاف العمر والسلالة والفصل.\n\n## ما الذي يجب ملاحظته\n\n- ابدأ بالأساسيات وراقب على مدى عدة أيام.\n- دوّن التغيّرات لتتمكن من مشاركتها أثناء الاستشارة.\n- قارنها بالقيم المرجعية في السجل الطبي لحيوانك.\n\n## متى تتصل بالطبيب\n\nإذا استمرت أي من هذه العلامات أكثر من ٤٨ ساعة، ابدأ استشارة فورية وسيصنّف الفرز درجة الاستعجال نيابة عنك."
+    },
+    "cover": "/img/stock/1170986.jpg",
+    "category": {
+      "en": "Health",
+      "ar": "الصحة"
+    },
+    "categorySlug": "health",
+    "tags": [
+      {
+        "en": "Health",
+        "ar": "الصحة"
+      },
+      {
+        "en": "Guide",
+        "ar": "دليل"
+      }
+    ],
+    "species": [
+      "cat"
+    ],
+    "author": {
+      "name": {
+        "en": "Dr. Yasmin Farouk",
+        "ar": "د. ياسمين فاروق"
+      },
+      "avatar": "/img/stock/5452293.jpg",
+      "role": {
+        "en": "Chief Veterinary Officer",
+        "ar": "المدير الطبي البيطري"
+      }
+    },
+    "publishedAt": "2025-12-31T09:00:00.000Z",
+    "readMinutes": 10,
+    "featured": true,
+    "viewCount": 12727
+  },
+  {
+    "id": "bl-3",
+    "slug": "signs-your-dog-is-in-pain",
+    "title": {
+      "en": "Signs your dog is in pain",
+      "ar": "علامات تدل على شعور كلبك بالألم"
+    },
+    "excerpt": {
+      "en": "A practical, vet-reviewed walkthrough with the details that actually matter day to day.",
+      "ar": "شرح عملي مراجَع بيطريًا يركّز على التفاصيل التي تهمّك يوميًا."
+    },
+    "body": {
+      "en": "## Why this matters\n\nEvery pet owner faces this question sooner or later, and the answer changes with age, breed and season.\n\n## What to look for\n\n- Start with the basics and observe over several days.\n- Write down what changes so you can share it during a consultation.\n- Compare against the baseline in your pet's medical record.\n\n## When to call a vet\n\nIf anything on this list persists for more than 48 hours, open an instant consultation. Our triage step will classify the urgency for you.",
+      "ar": "## لماذا يهم هذا الأمر\n\nيواجه كل مربٍّ هذا السؤال عاجلًا أم آجلًا، وتختلف الإجابة باختلاف العمر والسلالة والفصل.\n\n## ما الذي يجب ملاحظته\n\n- ابدأ بالأساسيات وراقب على مدى عدة أيام.\n- دوّن التغيّرات لتتمكن من مشاركتها أثناء الاستشارة.\n- قارنها بالقيم المرجعية في السجل الطبي لحيوانك.\n\n## متى تتصل بالطبيب\n\nإذا استمرت أي من هذه العلامات أكثر من ٤٨ ساعة، ابدأ استشارة فورية وسيصنّف الفرز درجة الاستعجال نيابة عنك."
+    },
+    "cover": "/img/stock/1350591.jpg",
+    "category": {
+      "en": "Health",
+      "ar": "الصحة"
+    },
+    "categorySlug": "health",
+    "tags": [
+      {
+        "en": "Health",
+        "ar": "الصحة"
+      },
+      {
+        "en": "Guide",
+        "ar": "دليل"
+      }
+    ],
+    "species": [
+      "dog"
+    ],
+    "author": {
+      "name": {
+        "en": "Dr. Yasmin Farouk",
+        "ar": "د. ياسمين فاروق"
+      },
+      "avatar": "/img/stock/5452293.jpg",
+      "role": {
+        "en": "Chief Veterinary Officer",
+        "ar": "المدير الطبي البيطري"
+      }
+    },
+    "publishedAt": "2026-07-02T09:00:00.000Z",
+    "readMinutes": 5,
+    "featured": true,
+    "viewCount": 14677
+  },
+  {
+    "id": "bl-4",
+    "slug": "preparing-your-pet-for-boarding",
+    "title": {
+      "en": "Preparing your pet for boarding",
+      "ar": "كيف تجهّز حيوانك للإيواء"
+    },
+    "excerpt": {
+      "en": "A practical, vet-reviewed walkthrough with the details that actually matter day to day.",
+      "ar": "شرح عملي مراجَع بيطريًا يركّز على التفاصيل التي تهمّك يوميًا."
+    },
+    "body": {
+      "en": "## Why this matters\n\nEvery pet owner faces this question sooner or later, and the answer changes with age, breed and season.\n\n## What to look for\n\n- Start with the basics and observe over several days.\n- Write down what changes so you can share it during a consultation.\n- Compare against the baseline in your pet's medical record.\n\n## When to call a vet\n\nIf anything on this list persists for more than 48 hours, open an instant consultation. Our triage step will classify the urgency for you.",
+      "ar": "## لماذا يهم هذا الأمر\n\nيواجه كل مربٍّ هذا السؤال عاجلًا أم آجلًا، وتختلف الإجابة باختلاف العمر والسلالة والفصل.\n\n## ما الذي يجب ملاحظته\n\n- ابدأ بالأساسيات وراقب على مدى عدة أيام.\n- دوّن التغيّرات لتتمكن من مشاركتها أثناء الاستشارة.\n- قارنها بالقيم المرجعية في السجل الطبي لحيوانك.\n\n## متى تتصل بالطبيب\n\nإذا استمرت أي من هذه العلامات أكثر من ٤٨ ساعة، ابدأ استشارة فورية وسيصنّف الفرز درجة الاستعجال نيابة عنك."
+    },
+    "cover": "/img/stock/1661179.jpg",
+    "category": {
+      "en": "Travel",
+      "ar": "السفر"
+    },
+    "categorySlug": "travel",
+    "tags": [
+      {
+        "en": "Travel",
+        "ar": "السفر"
+      },
+      {
+        "en": "Guide",
+        "ar": "دليل"
+      }
+    ],
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "author": {
+      "name": {
+        "en": "Dr. Yasmin Farouk",
+        "ar": "د. ياسمين فاروق"
+      },
+      "avatar": "/img/stock/5452293.jpg",
+      "role": {
+        "en": "Chief Veterinary Officer",
+        "ar": "المدير الطبي البيطري"
+      }
+    },
+    "publishedAt": "2026-05-02T09:00:00.000Z",
+    "readMinutes": 4,
+    "featured": false,
+    "viewCount": 17750
+  },
+  {
+    "id": "bl-5",
+    "slug": "grooming-a-long-haired-cat-at-home",
+    "title": {
+      "en": "Grooming a long-haired cat at home",
+      "ar": "العناية بقطة طويلة الشعر في المنزل"
+    },
+    "excerpt": {
+      "en": "A practical, vet-reviewed walkthrough with the details that actually matter day to day.",
+      "ar": "شرح عملي مراجَع بيطريًا يركّز على التفاصيل التي تهمّك يوميًا."
+    },
+    "body": {
+      "en": "## Why this matters\n\nEvery pet owner faces this question sooner or later, and the answer changes with age, breed and season.\n\n## What to look for\n\n- Start with the basics and observe over several days.\n- Write down what changes so you can share it during a consultation.\n- Compare against the baseline in your pet's medical record.\n\n## When to call a vet\n\nIf anything on this list persists for more than 48 hours, open an instant consultation. Our triage step will classify the urgency for you.",
+      "ar": "## لماذا يهم هذا الأمر\n\nيواجه كل مربٍّ هذا السؤال عاجلًا أم آجلًا، وتختلف الإجابة باختلاف العمر والسلالة والفصل.\n\n## ما الذي يجب ملاحظته\n\n- ابدأ بالأساسيات وراقب على مدى عدة أيام.\n- دوّن التغيّرات لتتمكن من مشاركتها أثناء الاستشارة.\n- قارنها بالقيم المرجعية في السجل الطبي لحيوانك.\n\n## متى تتصل بالطبيب\n\nإذا استمرت أي من هذه العلامات أكثر من ٤٨ ساعة، ابدأ استشارة فورية وسيصنّف الفرز درجة الاستعجال نيابة عنك."
+    },
+    "cover": "/img/stock/1108099.jpg",
+    "category": {
+      "en": "Grooming",
+      "ar": "العناية"
+    },
+    "categorySlug": "grooming",
+    "tags": [
+      {
+        "en": "Grooming",
+        "ar": "العناية"
+      },
+      {
+        "en": "Guide",
+        "ar": "دليل"
+      }
+    ],
+    "species": [
+      "cat"
+    ],
+    "author": {
+      "name": {
+        "en": "Dr. Yasmin Farouk",
+        "ar": "د. ياسمين فاروق"
+      },
+      "avatar": "/img/stock/5452293.jpg",
+      "role": {
+        "en": "Chief Veterinary Officer",
+        "ar": "المدير الطبي البيطري"
+      }
+    },
+    "publishedAt": "2026-05-15T09:00:00.000Z",
+    "readMinutes": 9,
+    "featured": false,
+    "viewCount": 7731
+  },
+  {
+    "id": "bl-6",
+    "slug": "what-to-do-in-the-first-24-hours-after-adoption",
+    "title": {
+      "en": "What to do in the first 24 hours after adoption",
+      "ar": "ماذا تفعل في أول ٢٤ ساعة بعد التبنّي"
+    },
+    "excerpt": {
+      "en": "A practical, vet-reviewed walkthrough with the details that actually matter day to day.",
+      "ar": "شرح عملي مراجَع بيطريًا يركّز على التفاصيل التي تهمّك يوميًا."
+    },
+    "body": {
+      "en": "## Why this matters\n\nEvery pet owner faces this question sooner or later, and the answer changes with age, breed and season.\n\n## What to look for\n\n- Start with the basics and observe over several days.\n- Write down what changes so you can share it during a consultation.\n- Compare against the baseline in your pet's medical record.\n\n## When to call a vet\n\nIf anything on this list persists for more than 48 hours, open an instant consultation. Our triage step will classify the urgency for you.",
+      "ar": "## لماذا يهم هذا الأمر\n\nيواجه كل مربٍّ هذا السؤال عاجلًا أم آجلًا، وتختلف الإجابة باختلاف العمر والسلالة والفصل.\n\n## ما الذي يجب ملاحظته\n\n- ابدأ بالأساسيات وراقب على مدى عدة أيام.\n- دوّن التغيّرات لتتمكن من مشاركتها أثناء الاستشارة.\n- قارنها بالقيم المرجعية في السجل الطبي لحيوانك.\n\n## متى تتصل بالطبيب\n\nإذا استمرت أي من هذه العلامات أكثر من ٤٨ ساعة، ابدأ استشارة فورية وسيصنّف الفرز درجة الاستعجال نيابة عنك."
+    },
+    "cover": "/img/stock/2253275.jpg",
+    "category": {
+      "en": "Adoption",
+      "ar": "التبنّي"
+    },
+    "categorySlug": "adoption",
+    "tags": [
+      {
+        "en": "Adoption",
+        "ar": "التبنّي"
+      },
+      {
+        "en": "Guide",
+        "ar": "دليل"
+      }
+    ],
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "author": {
+      "name": {
+        "en": "Dr. Yasmin Farouk",
+        "ar": "د. ياسمين فاروق"
+      },
+      "avatar": "/img/stock/5452293.jpg",
+      "role": {
+        "en": "Chief Veterinary Officer",
+        "ar": "المدير الطبي البيطري"
+      }
+    },
+    "publishedAt": "2026-03-15T09:00:00.000Z",
+    "readMinutes": 6,
+    "featured": false,
+    "viewCount": 16464
+  },
+  {
+    "id": "bl-7",
+    "slug": "keeping-birds-healthy-in-dry-climates",
+    "title": {
+      "en": "Keeping birds healthy in dry climates",
+      "ar": "الحفاظ على صحة الطيور في المناخ الجاف"
+    },
+    "excerpt": {
+      "en": "A practical, vet-reviewed walkthrough with the details that actually matter day to day.",
+      "ar": "شرح عملي مراجَع بيطريًا يركّز على التفاصيل التي تهمّك يوميًا."
+    },
+    "body": {
+      "en": "## Why this matters\n\nEvery pet owner faces this question sooner or later, and the answer changes with age, breed and season.\n\n## What to look for\n\n- Start with the basics and observe over several days.\n- Write down what changes so you can share it during a consultation.\n- Compare against the baseline in your pet's medical record.\n\n## When to call a vet\n\nIf anything on this list persists for more than 48 hours, open an instant consultation. Our triage step will classify the urgency for you.",
+      "ar": "## لماذا يهم هذا الأمر\n\nيواجه كل مربٍّ هذا السؤال عاجلًا أم آجلًا، وتختلف الإجابة باختلاف العمر والسلالة والفصل.\n\n## ما الذي يجب ملاحظته\n\n- ابدأ بالأساسيات وراقب على مدى عدة أيام.\n- دوّن التغيّرات لتتمكن من مشاركتها أثناء الاستشارة.\n- قارنها بالقيم المرجعية في السجل الطبي لحيوانك.\n\n## متى تتصل بالطبيب\n\nإذا استمرت أي من هذه العلامات أكثر من ٤٨ ساعة، ابدأ استشارة فورية وسيصنّف الفرز درجة الاستعجال نيابة عنك."
+    },
+    "cover": "/img/stock/1805164.jpg",
+    "category": {
+      "en": "Birds",
+      "ar": "الطيور"
+    },
+    "categorySlug": "birds",
+    "tags": [
+      {
+        "en": "Birds",
+        "ar": "الطيور"
+      },
+      {
+        "en": "Guide",
+        "ar": "دليل"
+      }
+    ],
+    "species": [
+      "bird"
+    ],
+    "author": {
+      "name": {
+        "en": "Dr. Yasmin Farouk",
+        "ar": "د. ياسمين فاروق"
+      },
+      "avatar": "/img/stock/5452293.jpg",
+      "role": {
+        "en": "Chief Veterinary Officer",
+        "ar": "المدير الطبي البيطري"
+      }
+    },
+    "publishedAt": "2025-10-31T09:00:00.000Z",
+    "readMinutes": 7,
+    "featured": false,
+    "viewCount": 2715
+  },
+  {
+    "id": "bl-8",
+    "slug": "a-practical-guide-to-microchipping",
+    "title": {
+      "en": "A practical guide to microchipping",
+      "ar": "دليل عملي لزراعة الشريحة"
+    },
+    "excerpt": {
+      "en": "A practical, vet-reviewed walkthrough with the details that actually matter day to day.",
+      "ar": "شرح عملي مراجَع بيطريًا يركّز على التفاصيل التي تهمّك يوميًا."
+    },
+    "body": {
+      "en": "## Why this matters\n\nEvery pet owner faces this question sooner or later, and the answer changes with age, breed and season.\n\n## What to look for\n\n- Start with the basics and observe over several days.\n- Write down what changes so you can share it during a consultation.\n- Compare against the baseline in your pet's medical record.\n\n## When to call a vet\n\nIf anything on this list persists for more than 48 hours, open an instant consultation. Our triage step will classify the urgency for you.",
+      "ar": "## لماذا يهم هذا الأمر\n\nيواجه كل مربٍّ هذا السؤال عاجلًا أم آجلًا، وتختلف الإجابة باختلاف العمر والسلالة والفصل.\n\n## ما الذي يجب ملاحظته\n\n- ابدأ بالأساسيات وراقب على مدى عدة أيام.\n- دوّن التغيّرات لتتمكن من مشاركتها أثناء الاستشارة.\n- قارنها بالقيم المرجعية في السجل الطبي لحيوانك.\n\n## متى تتصل بالطبيب\n\nإذا استمرت أي من هذه العلامات أكثر من ٤٨ ساعة، ابدأ استشارة فورية وسيصنّف الفرز درجة الاستعجال نيابة عنك."
+    },
+    "cover": "/img/stock/4173251.jpg",
+    "category": {
+      "en": "Safety",
+      "ar": "السلامة"
+    },
+    "categorySlug": "safety",
+    "tags": [
+      {
+        "en": "Safety",
+        "ar": "السلامة"
+      },
+      {
+        "en": "Guide",
+        "ar": "دليل"
+      }
+    ],
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "author": {
+      "name": {
+        "en": "Dr. Yasmin Farouk",
+        "ar": "د. ياسمين فاروق"
+      },
+      "avatar": "/img/stock/5452293.jpg",
+      "role": {
+        "en": "Chief Veterinary Officer",
+        "ar": "المدير الطبي البيطري"
+      }
+    },
+    "publishedAt": "2026-07-15T09:00:00.000Z",
+    "readMinutes": 8,
+    "featured": false,
+    "viewCount": 2028
+  },
+  {
+    "id": "bl-9",
+    "slug": "summer-heat-safety-checklist",
+    "title": {
+      "en": "Summer heat safety checklist",
+      "ar": "قائمة السلامة في حرارة الصيف"
+    },
+    "excerpt": {
+      "en": "A practical, vet-reviewed walkthrough with the details that actually matter day to day.",
+      "ar": "شرح عملي مراجَع بيطريًا يركّز على التفاصيل التي تهمّك يوميًا."
+    },
+    "body": {
+      "en": "## Why this matters\n\nEvery pet owner faces this question sooner or later, and the answer changes with age, breed and season.\n\n## What to look for\n\n- Start with the basics and observe over several days.\n- Write down what changes so you can share it during a consultation.\n- Compare against the baseline in your pet's medical record.\n\n## When to call a vet\n\nIf anything on this list persists for more than 48 hours, open an instant consultation. Our triage step will classify the urgency for you.",
+      "ar": "## لماذا يهم هذا الأمر\n\nيواجه كل مربٍّ هذا السؤال عاجلًا أم آجلًا، وتختلف الإجابة باختلاف العمر والسلالة والفصل.\n\n## ما الذي يجب ملاحظته\n\n- ابدأ بالأساسيات وراقب على مدى عدة أيام.\n- دوّن التغيّرات لتتمكن من مشاركتها أثناء الاستشارة.\n- قارنها بالقيم المرجعية في السجل الطبي لحيوانك.\n\n## متى تتصل بالطبيب\n\nإذا استمرت أي من هذه العلامات أكثر من ٤٨ ساعة، ابدأ استشارة فورية وسيصنّف الفرز درجة الاستعجال نيابة عنك."
+    },
+    "cover": "/img/stock/326012.jpg",
+    "category": {
+      "en": "Safety",
+      "ar": "السلامة"
+    },
+    "categorySlug": "safety",
+    "tags": [
+      {
+        "en": "Safety",
+        "ar": "السلامة"
+      },
+      {
+        "en": "Guide",
+        "ar": "دليل"
+      }
+    ],
+    "species": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "author": {
+      "name": {
+        "en": "Dr. Yasmin Farouk",
+        "ar": "د. ياسمين فاروق"
+      },
+      "avatar": "/img/stock/5452293.jpg",
+      "role": {
+        "en": "Chief Veterinary Officer",
+        "ar": "المدير الطبي البيطري"
+      }
+    },
+    "publishedAt": "2025-09-13T09:00:00.000Z",
+    "readMinutes": 11,
+    "featured": false,
+    "viewCount": 2994
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "gp-1",
+    "name": {
+      "en": "Monthly Essentials",
+      "ar": "أساسيات الشهر"
+    },
+    "description": {
+      "en": "Four bath & dry sessions to use within 60 days.",
+      "ar": "أربع جلسات استحمام وتجفيف تُستخدم خلال ٦٠ يومًا."
+    },
+    "sessions": 4,
+    "validityDays": 60,
+    "serviceIds": [
+      "gs-2",
+      "gs-4"
+    ],
+    "price": 199,
+    "originalPrice": 260,
+    "savingsPercent": 23
+  },
+  {
+    "id": "gp-2",
+    "name": {
+      "en": "Full Care Quarterly",
+      "ar": "العناية الكاملة الفصلية"
+    },
+    "description": {
+      "en": "Six full grooming packages across three months.",
+      "ar": "ست جلسات عناية كاملة خلال ثلاثة أشهر."
+    },
+    "sessions": 6,
+    "validityDays": 90,
+    "serviceIds": [
+      "gs-1",
+      "gs-5",
+      "gs-6"
+    ],
+    "price": 549,
+    "originalPrice": 780,
+    "savingsPercent": 30,
+    "recommended": true
+  },
+  {
+    "id": "gp-3",
+    "name": {
+      "en": "Home Service Pack",
+      "ar": "باقة الخدمة المنزلية"
+    },
+    "description": {
+      "en": "Three at-home visits with our mobile grooming van.",
+      "ar": "ثلاث زيارات منزلية بعربة العناية المتنقلة."
+    },
+    "sessions": 3,
+    "validityDays": 75,
+    "serviceIds": [
+      "gs-1",
+      "gs-7"
+    ],
+    "price": 429,
+    "originalPrice": 555,
+    "savingsPercent": 23
+  }
+]

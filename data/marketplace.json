@@ -1,0 +1,660 @@
+[
+  {
+    "id": "mk-1",
+    "slug": "bengal-amir",
+    "kind": "sale",
+    "petName": "Amir",
+    "species": "cat",
+    "breed": {
+      "en": "Bengal",
+      "ar": "بنغالي"
+    },
+    "gender": "male",
+    "ageMonths": 5,
+    "size": "sm",
+    "color": {
+      "en": "As shown in photos",
+      "ar": "كما في الصور"
+    },
+    "photos": [
+      "/img/stock/38867.jpg",
+      "/img/stock/1056251.jpg",
+      "/img/stock/1741205.jpg"
+    ],
+    "description": {
+      "en": "Amir comes from a fully documented line with health screening on both parents. Vaccinations are up to date and the medical record transfers automatically to the new owner.",
+      "ar": "Amir من سلالة موثّقة بالكامل مع فحص صحي للوالدين. التطعيمات محدّثة وينتقل السجل الطبي تلقائيًا إلى المالك الجديد."
+    },
+    "price": 4800,
+    "negotiable": true,
+    "breederId": "br-1",
+    "cityId": "c-dammam",
+    "healthDocuments": [],
+    "vaccinated": false,
+    "healthRecordComplete": false,
+    "championBloodline": true,
+    "moderation": "pending",
+    "moderationNote": {
+      "en": "Health documentation missing.",
+      "ar": "المستندات الصحية غير مكتملة."
+    },
+    "status": "available",
+    "commissionPercent": 8,
+    "publishedAt": "2026-05-18T09:00:00.000Z",
+    "viewCount": 3218,
+    "inquiryCount": 13,
+    "preSaleVetCheckAvailable": true,
+    "preSaleVetCheckFee": 220
+  },
+  {
+    "id": "mk-2",
+    "slug": "belgian-malinois-layth",
+    "kind": "sale",
+    "petName": "Layth",
+    "species": "dog",
+    "breed": {
+      "en": "Belgian Malinois",
+      "ar": "مالينوا بلجيكي"
+    },
+    "gender": "male",
+    "ageMonths": 8,
+    "size": "lg",
+    "color": {
+      "en": "As shown in photos",
+      "ar": "كما في الصور"
+    },
+    "photos": [
+      "/img/stock/1851164.jpg",
+      "/img/stock/1386422.jpg",
+      "/img/stock/551628.jpg"
+    ],
+    "description": {
+      "en": "Layth comes from a fully documented line with health screening on both parents. Vaccinations are up to date and the medical record transfers automatically to the new owner.",
+      "ar": "Layth من سلالة موثّقة بالكامل مع فحص صحي للوالدين. التطعيمات محدّثة وينتقل السجل الطبي تلقائيًا إلى المالك الجديد."
+    },
+    "price": 12500,
+    "negotiable": false,
+    "breederId": "br-2",
+    "cityId": "c-riyadh",
+    "pedigreeCertificate": {
+      "url": "#",
+      "registry": {
+        "en": "International Cat Association",
+        "ar": "الرابطة الدولية للقطط"
+      },
+      "verified": true
+    },
+    "healthDocuments": [
+      {
+        "id": "mk-1-hd1",
+        "name": {
+          "en": "Vaccination card",
+          "ar": "بطاقة التطعيم"
+        },
+        "url": "#",
+        "verified": true
+      },
+      {
+        "id": "mk-1-hd2",
+        "name": {
+          "en": "Genetic screening report",
+          "ar": "تقرير الفحص الجيني"
+        },
+        "url": "#",
+        "verified": true
+      }
+    ],
+    "vaccinated": true,
+    "healthRecordComplete": true,
+    "championBloodline": false,
+    "moderation": "approved",
+    "status": "available",
+    "commissionPercent": 8,
+    "publishedAt": "2026-05-09T09:00:00.000Z",
+    "viewCount": 3120,
+    "inquiryCount": 34,
+    "preSaleVetCheckAvailable": true,
+    "preSaleVetCheckFee": 220
+  },
+  {
+    "id": "mk-3",
+    "slug": "british-shorthair-sultan",
+    "kind": "mating",
+    "petName": "Sultan",
+    "species": "cat",
+    "breed": {
+      "en": "British Shorthair",
+      "ar": "بريطاني قصير الشعر"
+    },
+    "gender": "male",
+    "ageMonths": 30,
+    "size": "md",
+    "color": {
+      "en": "As shown in photos",
+      "ar": "كما في الصور"
+    },
+    "photos": [
+      "/img/stock/156934.jpg",
+      "/img/stock/320014.jpg",
+      "/img/stock/617278.jpg"
+    ],
+    "description": {
+      "en": "Sultan comes from a fully documented line with health screening on both parents. Vaccinations are up to date and the medical record transfers automatically to the new owner.",
+      "ar": "Sultan من سلالة موثّقة بالكامل مع فحص صحي للوالدين. التطعيمات محدّثة وينتقل السجل الطبي تلقائيًا إلى المالك الجديد."
+    },
+    "price": 1500,
+    "matingFee": 1500,
+    "negotiable": false,
+    "breederId": "br-3",
+    "cityId": "c-riyadh",
+    "pedigreeCertificate": {
+      "url": "#",
+      "registry": {
+        "en": "International Cat Association",
+        "ar": "الرابطة الدولية للقطط"
+      },
+      "verified": true
+    },
+    "healthDocuments": [
+      {
+        "id": "mk-2-hd1",
+        "name": {
+          "en": "Vaccination card",
+          "ar": "بطاقة التطعيم"
+        },
+        "url": "#",
+        "verified": true
+      },
+      {
+        "id": "mk-2-hd2",
+        "name": {
+          "en": "Genetic screening report",
+          "ar": "تقرير الفحص الجيني"
+        },
+        "url": "#",
+        "verified": true
+      }
+    ],
+    "vaccinated": true,
+    "healthRecordComplete": true,
+    "championBloodline": false,
+    "moderation": "approved",
+    "status": "available",
+    "commissionPercent": 8,
+    "publishedAt": "2026-05-16T09:00:00.000Z",
+    "viewCount": 4561,
+    "inquiryCount": 12,
+    "preSaleVetCheckAvailable": true,
+    "preSaleVetCheckFee": 220
+  },
+  {
+    "id": "mk-4",
+    "slug": "german-shepherd-falcon",
+    "kind": "rent",
+    "petName": "Falcon",
+    "species": "dog",
+    "breed": {
+      "en": "German Shepherd",
+      "ar": "راعي ألماني"
+    },
+    "gender": "male",
+    "ageMonths": 36,
+    "size": "xl",
+    "color": {
+      "en": "As shown in photos",
+      "ar": "كما في الصور"
+    },
+    "photos": [
+      "/img/stock/1851164.jpg",
+      "/img/stock/1629781.jpg",
+      "/img/stock/551628.jpg"
+    ],
+    "description": {
+      "en": "Falcon comes from a fully documented line with health screening on both parents. Vaccinations are up to date and the medical record transfers automatically to the new owner.",
+      "ar": "Falcon من سلالة موثّقة بالكامل مع فحص صحي للوالدين. التطعيمات محدّثة وينتقل السجل الطبي تلقائيًا إلى المالك الجديد."
+    },
+    "price": 0,
+    "rentPricePerDay": 350,
+    "negotiable": true,
+    "breederId": "br-4",
+    "cityId": "c-jeddah",
+    "pedigreeCertificate": {
+      "url": "#",
+      "registry": {
+        "en": "International Cat Association",
+        "ar": "الرابطة الدولية للقطط"
+      },
+      "verified": true
+    },
+    "healthDocuments": [
+      {
+        "id": "mk-3-hd1",
+        "name": {
+          "en": "Vaccination card",
+          "ar": "بطاقة التطعيم"
+        },
+        "url": "#",
+        "verified": true
+      },
+      {
+        "id": "mk-3-hd2",
+        "name": {
+          "en": "Genetic screening report",
+          "ar": "تقرير الفحص الجيني"
+        },
+        "url": "#",
+        "verified": false
+      }
+    ],
+    "vaccinated": true,
+    "healthRecordComplete": true,
+    "championBloodline": false,
+    "moderation": "approved",
+    "status": "available",
+    "commissionPercent": 8,
+    "publishedAt": "2026-07-14T09:00:00.000Z",
+    "viewCount": 2472,
+    "inquiryCount": 14,
+    "preSaleVetCheckAvailable": true,
+    "preSaleVetCheckFee": 220
+  },
+  {
+    "id": "mk-5",
+    "slug": "scottish-fold-zahra",
+    "kind": "sale",
+    "petName": "Zahra",
+    "species": "cat",
+    "breed": {
+      "en": "Scottish Fold",
+      "ar": "سكوتش فولد"
+    },
+    "gender": "female",
+    "ageMonths": 4,
+    "size": "sm",
+    "color": {
+      "en": "As shown in photos",
+      "ar": "كما في الصور"
+    },
+    "photos": [
+      "/img/stock/2558605.jpg",
+      "/img/stock/2194261.jpg",
+      "/img/stock/1543793.jpg"
+    ],
+    "description": {
+      "en": "Zahra comes from a fully documented line with health screening on both parents. Vaccinations are up to date and the medical record transfers automatically to the new owner.",
+      "ar": "Zahra من سلالة موثّقة بالكامل مع فحص صحي للوالدين. التطعيمات محدّثة وينتقل السجل الطبي تلقائيًا إلى المالك الجديد."
+    },
+    "price": 5600,
+    "negotiable": false,
+    "breederId": "br-1",
+    "cityId": "c-dammam",
+    "pedigreeCertificate": {
+      "url": "#",
+      "registry": {
+        "en": "International Cat Association",
+        "ar": "الرابطة الدولية للقطط"
+      },
+      "verified": false
+    },
+    "healthDocuments": [
+      {
+        "id": "mk-4-hd1",
+        "name": {
+          "en": "Vaccination card",
+          "ar": "بطاقة التطعيم"
+        },
+        "url": "#",
+        "verified": true
+      },
+      {
+        "id": "mk-4-hd2",
+        "name": {
+          "en": "Genetic screening report",
+          "ar": "تقرير الفحص الجيني"
+        },
+        "url": "#",
+        "verified": true
+      }
+    ],
+    "vaccinated": true,
+    "healthRecordComplete": true,
+    "championBloodline": true,
+    "moderation": "approved",
+    "status": "available",
+    "commissionPercent": 8,
+    "publishedAt": "2026-05-14T09:00:00.000Z",
+    "viewCount": 4033,
+    "inquiryCount": 53,
+    "preSaleVetCheckAvailable": true,
+    "preSaleVetCheckFee": 220
+  },
+  {
+    "id": "mk-6",
+    "slug": "siberian-husky-kaiser",
+    "kind": "sale",
+    "petName": "Kaiser",
+    "species": "dog",
+    "breed": {
+      "en": "Siberian Husky",
+      "ar": "هاسكي سيبيري"
+    },
+    "gender": "male",
+    "ageMonths": 6,
+    "size": "lg",
+    "color": {
+      "en": "As shown in photos",
+      "ar": "كما في الصور"
+    },
+    "photos": [
+      "/img/stock/2023384.jpg",
+      "/img/stock/1108099.jpg",
+      "/img/stock/257540.jpg"
+    ],
+    "description": {
+      "en": "Kaiser comes from a fully documented line with health screening on both parents. Vaccinations are up to date and the medical record transfers automatically to the new owner.",
+      "ar": "Kaiser من سلالة موثّقة بالكامل مع فحص صحي للوالدين. التطعيمات محدّثة وينتقل السجل الطبي تلقائيًا إلى المالك الجديد."
+    },
+    "price": 7200,
+    "negotiable": false,
+    "breederId": "br-2",
+    "cityId": "c-riyadh",
+    "healthDocuments": [],
+    "vaccinated": false,
+    "healthRecordComplete": false,
+    "championBloodline": false,
+    "moderation": "pending",
+    "moderationNote": {
+      "en": "Health documentation missing.",
+      "ar": "المستندات الصحية غير مكتملة."
+    },
+    "status": "available",
+    "commissionPercent": 8,
+    "publishedAt": "2026-05-15T09:00:00.000Z",
+    "viewCount": 4090,
+    "inquiryCount": 61,
+    "preSaleVetCheckAvailable": true,
+    "preSaleVetCheckFee": 220
+  },
+  {
+    "id": "mk-7",
+    "slug": "golden-retriever-duchess",
+    "kind": "mating",
+    "petName": "Duchess",
+    "species": "dog",
+    "breed": {
+      "en": "Golden Retriever",
+      "ar": "جولدن ريتريفر"
+    },
+    "gender": "female",
+    "ageMonths": 28,
+    "size": "lg",
+    "color": {
+      "en": "As shown in photos",
+      "ar": "كما في الصور"
+    },
+    "photos": [
+      "/img/stock/333083.jpg",
+      "/img/stock/96420.jpg",
+      "/img/stock/2253275.jpg"
+    ],
+    "description": {
+      "en": "Duchess comes from a fully documented line with health screening on both parents. Vaccinations are up to date and the medical record transfers automatically to the new owner.",
+      "ar": "Duchess من سلالة موثّقة بالكامل مع فحص صحي للوالدين. التطعيمات محدّثة وينتقل السجل الطبي تلقائيًا إلى المالك الجديد."
+    },
+    "price": 2200,
+    "matingFee": 2200,
+    "negotiable": true,
+    "breederId": "br-3",
+    "cityId": "c-riyadh",
+    "pedigreeCertificate": {
+      "url": "#",
+      "registry": {
+        "en": "International Cat Association",
+        "ar": "الرابطة الدولية للقطط"
+      },
+      "verified": true
+    },
+    "healthDocuments": [
+      {
+        "id": "mk-6-hd1",
+        "name": {
+          "en": "Vaccination card",
+          "ar": "بطاقة التطعيم"
+        },
+        "url": "#",
+        "verified": true
+      },
+      {
+        "id": "mk-6-hd2",
+        "name": {
+          "en": "Genetic screening report",
+          "ar": "تقرير الفحص الجيني"
+        },
+        "url": "#",
+        "verified": false
+      }
+    ],
+    "vaccinated": true,
+    "healthRecordComplete": true,
+    "championBloodline": false,
+    "moderation": "approved",
+    "status": "available",
+    "commissionPercent": 8,
+    "publishedAt": "2026-07-13T09:00:00.000Z",
+    "viewCount": 2410,
+    "inquiryCount": 11,
+    "preSaleVetCheckAvailable": true,
+    "preSaleVetCheckFee": 220
+  },
+  {
+    "id": "mk-8",
+    "slug": "macaw-sky",
+    "kind": "sale",
+    "petName": "Sky",
+    "species": "bird",
+    "breed": {
+      "en": "Macaw",
+      "ar": "مكاو"
+    },
+    "gender": "male",
+    "ageMonths": 14,
+    "size": "md",
+    "color": {
+      "en": "As shown in photos",
+      "ar": "كما في الصور"
+    },
+    "photos": [
+      "/img/stock/2662434.jpg",
+      "/img/stock/1661179.jpg",
+      "/img/stock/1181181.jpg"
+    ],
+    "description": {
+      "en": "Sky comes from a fully documented line with health screening on both parents. Vaccinations are up to date and the medical record transfers automatically to the new owner.",
+      "ar": "Sky من سلالة موثّقة بالكامل مع فحص صحي للوالدين. التطعيمات محدّثة وينتقل السجل الطبي تلقائيًا إلى المالك الجديد."
+    },
+    "price": 15800,
+    "negotiable": false,
+    "breederId": "br-4",
+    "cityId": "c-jeddah",
+    "pedigreeCertificate": {
+      "url": "#",
+      "registry": {
+        "en": "International Cat Association",
+        "ar": "الرابطة الدولية للقطط"
+      },
+      "verified": true
+    },
+    "healthDocuments": [
+      {
+        "id": "mk-7-hd1",
+        "name": {
+          "en": "Vaccination card",
+          "ar": "بطاقة التطعيم"
+        },
+        "url": "#",
+        "verified": true
+      },
+      {
+        "id": "mk-7-hd2",
+        "name": {
+          "en": "Genetic screening report",
+          "ar": "تقرير الفحص الجيني"
+        },
+        "url": "#",
+        "verified": true
+      }
+    ],
+    "vaccinated": true,
+    "healthRecordComplete": true,
+    "championBloodline": false,
+    "moderation": "approved",
+    "status": "available",
+    "commissionPercent": 8,
+    "publishedAt": "2026-05-09T09:00:00.000Z",
+    "viewCount": 1454,
+    "inquiryCount": 4,
+    "preSaleVetCheckAvailable": true,
+    "preSaleVetCheckFee": 220
+  },
+  {
+    "id": "mk-9",
+    "slug": "sphynx-nova",
+    "kind": "sale",
+    "petName": "Nova",
+    "species": "cat",
+    "breed": {
+      "en": "Sphynx",
+      "ar": "سفينكس"
+    },
+    "gender": "female",
+    "ageMonths": 7,
+    "size": "sm",
+    "color": {
+      "en": "As shown in photos",
+      "ar": "كما في الصور"
+    },
+    "photos": [
+      "/img/stock/127028.jpg",
+      "/img/stock/1404819.jpg",
+      "/img/stock/1170986.jpg"
+    ],
+    "description": {
+      "en": "Nova comes from a fully documented line with health screening on both parents. Vaccinations are up to date and the medical record transfers automatically to the new owner.",
+      "ar": "Nova من سلالة موثّقة بالكامل مع فحص صحي للوالدين. التطعيمات محدّثة وينتقل السجل الطبي تلقائيًا إلى المالك الجديد."
+    },
+    "price": 8900,
+    "negotiable": false,
+    "breederId": "br-1",
+    "cityId": "c-dammam",
+    "pedigreeCertificate": {
+      "url": "#",
+      "registry": {
+        "en": "International Cat Association",
+        "ar": "الرابطة الدولية للقطط"
+      },
+      "verified": false
+    },
+    "healthDocuments": [
+      {
+        "id": "mk-8-hd1",
+        "name": {
+          "en": "Vaccination card",
+          "ar": "بطاقة التطعيم"
+        },
+        "url": "#",
+        "verified": true
+      },
+      {
+        "id": "mk-8-hd2",
+        "name": {
+          "en": "Genetic screening report",
+          "ar": "تقرير الفحص الجيني"
+        },
+        "url": "#",
+        "verified": true
+      }
+    ],
+    "vaccinated": true,
+    "healthRecordComplete": true,
+    "championBloodline": true,
+    "moderation": "approved",
+    "status": "sold",
+    "commissionPercent": 8,
+    "publishedAt": "2026-06-07T09:00:00.000Z",
+    "viewCount": 269,
+    "inquiryCount": 31,
+    "preSaleVetCheckAvailable": true,
+    "preSaleVetCheckFee": 220
+  },
+  {
+    "id": "mk-10",
+    "slug": "border-collie-ranger",
+    "kind": "rent",
+    "petName": "Ranger",
+    "species": "dog",
+    "breed": {
+      "en": "Border Collie",
+      "ar": "بوردر كولي"
+    },
+    "gender": "male",
+    "ageMonths": 24,
+    "size": "md",
+    "color": {
+      "en": "As shown in photos",
+      "ar": "كما في الصور"
+    },
+    "photos": [
+      "/img/stock/406014.jpg",
+      "/img/stock/1254140.jpg",
+      "/img/stock/1805164.jpg"
+    ],
+    "description": {
+      "en": "Ranger comes from a fully documented line with health screening on both parents. Vaccinations are up to date and the medical record transfers automatically to the new owner.",
+      "ar": "Ranger من سلالة موثّقة بالكامل مع فحص صحي للوالدين. التطعيمات محدّثة وينتقل السجل الطبي تلقائيًا إلى المالك الجديد."
+    },
+    "price": 0,
+    "rentPricePerDay": 280,
+    "negotiable": true,
+    "breederId": "br-2",
+    "cityId": "c-riyadh",
+    "pedigreeCertificate": {
+      "url": "#",
+      "registry": {
+        "en": "International Cat Association",
+        "ar": "الرابطة الدولية للقطط"
+      },
+      "verified": true
+    },
+    "healthDocuments": [
+      {
+        "id": "mk-9-hd1",
+        "name": {
+          "en": "Vaccination card",
+          "ar": "بطاقة التطعيم"
+        },
+        "url": "#",
+        "verified": true
+      },
+      {
+        "id": "mk-9-hd2",
+        "name": {
+          "en": "Genetic screening report",
+          "ar": "تقرير الفحص الجيني"
+        },
+        "url": "#",
+        "verified": false
+      }
+    ],
+    "vaccinated": true,
+    "healthRecordComplete": true,
+    "championBloodline": false,
+    "moderation": "approved",
+    "status": "reserved",
+    "commissionPercent": 8,
+    "publishedAt": "2026-07-14T09:00:00.000Z",
+    "viewCount": 1965,
+    "inquiryCount": 50,
+    "preSaleVetCheckAvailable": true,
+    "preSaleVetCheckFee": 220
+  }
+]

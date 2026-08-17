@@ -1,0 +1,721 @@
+[
+  {
+    "id": "v-1",
+    "slug": "dr-yasmin-farouk",
+    "name": {
+      "en": "Dr. Yasmin Farouk",
+      "ar": "د. ياسمين فاروق"
+    },
+    "avatar": "/img/stock/5452293.jpg",
+    "title": {
+      "en": "Licensed Veterinarian",
+      "ar": "طبيب بيطري مرخّص"
+    },
+    "specialties": [
+      {
+        "en": "Cats & dogs",
+        "ar": "القطط والكلاب"
+      },
+      {
+        "en": "Internal medicine",
+        "ar": "الباطنية"
+      }
+    ],
+    "speciesFocus": [
+      "cat",
+      "dog"
+    ],
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "licenseNumber": "VET-SA-40200",
+    "licenseVerifiedAt": "2025-08-25T09:00:00.000Z",
+    "accreditation": "approved",
+    "experienceYears": 12,
+    "bio": {
+      "en": "Dr. Yasmin Farouk has 12 years of clinical experience and consults daily through Aleef. Cases are reviewed against the pet's full medical history before every session.",
+      "ar": "يمتلك د. ياسمين فاروق خبرة 12 سنة في الممارسة السريرية ويقدّم استشاراته يوميًا عبر أليف، مع مراجعة التاريخ الطبي الكامل قبل كل جلسة."
+    },
+    "cityId": "c-riyadh",
+    "clinic": {
+      "en": "Aleef Veterinary Network",
+      "ar": "شبكة أليف البيطرية"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 117,
+      "breakdown": [
+        11,
+        4,
+        7,
+        21,
+        74
+      ]
+    },
+    "consultationFee": 120,
+    "followUpFee": 72,
+    "platformCommissionPercent": 20,
+    "online": true,
+    "onDuty": true,
+    "responseMinutes": 5,
+    "consultationsCompleted": 203,
+    "supportsVideo": true,
+    "supportsChat": true,
+    "nextSlots": [
+      "2026-07-25T11:00:00.000Z",
+      "2026-07-25T14:00:00.000Z",
+      "2026-07-25T18:00:00.000Z",
+      "2026-07-26T11:00:00.000Z",
+      "2026-07-27T11:00:00.000Z"
+    ],
+    "education": [
+      {
+        "en": "DVM, King Faisal University",
+        "ar": "بكالوريوس الطب البيطري، جامعة الملك فيصل"
+      },
+      {
+        "en": "MSc Small Animal Medicine, RVC London",
+        "ar": "ماجستير طب الحيوانات الصغيرة، لندن"
+      }
+    ],
+    "certifications": [
+      {
+        "en": "Board certified — Small animal practice",
+        "ar": "شهادة البورد في ممارسة الحيوانات الصغيرة"
+      },
+      {
+        "en": "Advanced telemedicine certification",
+        "ar": "شهادة متقدمة في الطب عن بُعد"
+      }
+    ]
+  },
+  {
+    "id": "v-2",
+    "slug": "dr-omar-al-rashid",
+    "name": {
+      "en": "Dr. Omar Al-Rashid",
+      "ar": "د. عمر الراشد"
+    },
+    "avatar": "/img/stock/3825586.jpg",
+    "title": {
+      "en": "Licensed Veterinarian",
+      "ar": "طبيب بيطري مرخّص"
+    },
+    "specialties": [
+      {
+        "en": "Surgery",
+        "ar": "الجراحة"
+      },
+      {
+        "en": "Orthopaedics",
+        "ar": "العظام"
+      }
+    ],
+    "speciesFocus": [
+      "dog",
+      "cat"
+    ],
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "licenseNumber": "VET-SA-40201",
+    "licenseVerifiedAt": "2026-04-04T09:00:00.000Z",
+    "accreditation": "approved",
+    "experienceYears": 15,
+    "bio": {
+      "en": "Dr. Omar Al-Rashid has 15 years of clinical experience and consults daily through Aleef. Cases are reviewed against the pet's full medical history before every session.",
+      "ar": "يمتلك د. عمر الراشد خبرة 15 سنة في الممارسة السريرية ويقدّم استشاراته يوميًا عبر أليف، مع مراجعة التاريخ الطبي الكامل قبل كل جلسة."
+    },
+    "cityId": "c-jeddah",
+    "clinic": {
+      "en": "Aleef Veterinary Network",
+      "ar": "شبكة أليف البيطرية"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 422,
+      "breakdown": [
+        41,
+        13,
+        25,
+        76,
+        267
+      ]
+    },
+    "consultationFee": 180,
+    "followUpFee": 108,
+    "platformCommissionPercent": 20,
+    "online": true,
+    "onDuty": false,
+    "responseMinutes": 18,
+    "consultationsCompleted": 2323,
+    "supportsVideo": true,
+    "supportsChat": true,
+    "nextSlots": [
+      "2026-07-25T11:00:00.000Z",
+      "2026-07-25T14:00:00.000Z",
+      "2026-07-25T18:00:00.000Z",
+      "2026-07-26T11:00:00.000Z",
+      "2026-07-27T11:00:00.000Z"
+    ],
+    "education": [
+      {
+        "en": "DVM, King Faisal University",
+        "ar": "بكالوريوس الطب البيطري، جامعة الملك فيصل"
+      },
+      {
+        "en": "MSc Small Animal Medicine, RVC London",
+        "ar": "ماجستير طب الحيوانات الصغيرة، لندن"
+      }
+    ],
+    "certifications": [
+      {
+        "en": "Board certified — Small animal practice",
+        "ar": "شهادة البورد في ممارسة الحيوانات الصغيرة"
+      },
+      {
+        "en": "Advanced telemedicine certification",
+        "ar": "شهادة متقدمة في الطب عن بُعد"
+      }
+    ]
+  },
+  {
+    "id": "v-3",
+    "slug": "dr-hala-mansour",
+    "name": {
+      "en": "Dr. Hala Mansour",
+      "ar": "د. هالة منصور"
+    },
+    "avatar": "/img/stock/6129681.jpg",
+    "title": {
+      "en": "Licensed Veterinarian",
+      "ar": "طبيب بيطري مرخّص"
+    },
+    "specialties": [
+      {
+        "en": "Dermatology",
+        "ar": "الجلدية"
+      },
+      {
+        "en": "Allergies",
+        "ar": "الحساسية"
+      }
+    ],
+    "speciesFocus": [
+      "cat",
+      "dog"
+    ],
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "licenseNumber": "VET-SA-40202",
+    "licenseVerifiedAt": "2025-11-17T09:00:00.000Z",
+    "accreditation": "approved",
+    "experienceYears": 9,
+    "bio": {
+      "en": "Dr. Hala Mansour has 9 years of clinical experience and consults daily through Aleef. Cases are reviewed against the pet's full medical history before every session.",
+      "ar": "يمتلك د. هالة منصور خبرة 9 سنة في الممارسة السريرية ويقدّم استشاراته يوميًا عبر أليف، مع مراجعة التاريخ الطبي الكامل قبل كل جلسة."
+    },
+    "cityId": "c-dammam",
+    "clinic": {
+      "en": "Aleef Veterinary Network",
+      "ar": "شبكة أليف البيطرية"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 247,
+      "breakdown": [
+        21,
+        7,
+        15,
+        44,
+        160
+      ]
+    },
+    "consultationFee": 140,
+    "followUpFee": 84,
+    "platformCommissionPercent": 20,
+    "online": false,
+    "onDuty": false,
+    "responseMinutes": 13,
+    "consultationsCompleted": 936,
+    "supportsVideo": true,
+    "supportsChat": true,
+    "nextSlots": [
+      "2026-07-25T11:00:00.000Z",
+      "2026-07-25T14:00:00.000Z",
+      "2026-07-25T18:00:00.000Z",
+      "2026-07-26T11:00:00.000Z",
+      "2026-07-27T11:00:00.000Z"
+    ],
+    "education": [
+      {
+        "en": "DVM, King Faisal University",
+        "ar": "بكالوريوس الطب البيطري، جامعة الملك فيصل"
+      },
+      {
+        "en": "MSc Small Animal Medicine, RVC London",
+        "ar": "ماجستير طب الحيوانات الصغيرة، لندن"
+      }
+    ],
+    "certifications": [
+      {
+        "en": "Board certified — Small animal practice",
+        "ar": "شهادة البورد في ممارسة الحيوانات الصغيرة"
+      },
+      {
+        "en": "Advanced telemedicine certification",
+        "ar": "شهادة متقدمة في الطب عن بُعد"
+      }
+    ]
+  },
+  {
+    "id": "v-4",
+    "slug": "dr-saeed-al-amri",
+    "name": {
+      "en": "Dr. Saeed Al-Amri",
+      "ar": "د. سعيد العمري"
+    },
+    "avatar": "/img/stock/4173251.jpg",
+    "title": {
+      "en": "Licensed Veterinarian",
+      "ar": "طبيب بيطري مرخّص"
+    },
+    "specialties": [
+      {
+        "en": "Avian medicine",
+        "ar": "طب الطيور"
+      }
+    ],
+    "speciesFocus": [
+      "bird"
+    ],
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "licenseNumber": "VET-SA-40203",
+    "licenseVerifiedAt": "2026-03-28T09:00:00.000Z",
+    "accreditation": "approved",
+    "experienceYears": 11,
+    "bio": {
+      "en": "Dr. Saeed Al-Amri has 11 years of clinical experience and consults daily through Aleef. Cases are reviewed against the pet's full medical history before every session.",
+      "ar": "يمتلك د. سعيد العمري خبرة 11 سنة في الممارسة السريرية ويقدّم استشاراته يوميًا عبر أليف، مع مراجعة التاريخ الطبي الكامل قبل كل جلسة."
+    },
+    "cityId": "c-dubai",
+    "clinic": {
+      "en": "Aleef Veterinary Network",
+      "ar": "شبكة أليف البيطرية"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 14,
+      "breakdown": [
+        0,
+        0,
+        1,
+        3,
+        10
+      ]
+    },
+    "consultationFee": 150,
+    "followUpFee": 90,
+    "platformCommissionPercent": 20,
+    "online": true,
+    "onDuty": true,
+    "responseMinutes": 8,
+    "consultationsCompleted": 677,
+    "supportsVideo": true,
+    "supportsChat": true,
+    "nextSlots": [
+      "2026-07-25T11:00:00.000Z",
+      "2026-07-25T14:00:00.000Z",
+      "2026-07-25T18:00:00.000Z",
+      "2026-07-26T11:00:00.000Z",
+      "2026-07-27T11:00:00.000Z"
+    ],
+    "education": [
+      {
+        "en": "DVM, King Faisal University",
+        "ar": "بكالوريوس الطب البيطري، جامعة الملك فيصل"
+      },
+      {
+        "en": "MSc Small Animal Medicine, RVC London",
+        "ar": "ماجستير طب الحيوانات الصغيرة، لندن"
+      }
+    ],
+    "certifications": [
+      {
+        "en": "Board certified — Small animal practice",
+        "ar": "شهادة البورد في ممارسة الحيوانات الصغيرة"
+      },
+      {
+        "en": "Advanced telemedicine certification",
+        "ar": "شهادة متقدمة في الطب عن بُعد"
+      }
+    ]
+  },
+  {
+    "id": "v-5",
+    "slug": "dr-nadia-kamal",
+    "name": {
+      "en": "Dr. Nadia Kamal",
+      "ar": "د. نادية كمال"
+    },
+    "avatar": "/img/stock/5206940.jpg",
+    "title": {
+      "en": "Licensed Veterinarian",
+      "ar": "طبيب بيطري مرخّص"
+    },
+    "specialties": [
+      {
+        "en": "Exotics",
+        "ar": "الحيوانات النادرة"
+      },
+      {
+        "en": "Reptiles",
+        "ar": "الزواحف"
+      }
+    ],
+    "speciesFocus": [
+      "reptile",
+      "rabbit",
+      "hamster"
+    ],
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "licenseNumber": "VET-SA-40204",
+    "licenseVerifiedAt": "2025-09-13T09:00:00.000Z",
+    "accreditation": "approved",
+    "experienceYears": 7,
+    "bio": {
+      "en": "Dr. Nadia Kamal has 7 years of clinical experience and consults daily through Aleef. Cases are reviewed against the pet's full medical history before every session.",
+      "ar": "يمتلك د. نادية كمال خبرة 7 سنة في الممارسة السريرية ويقدّم استشاراته يوميًا عبر أليف، مع مراجعة التاريخ الطبي الكامل قبل كل جلسة."
+    },
+    "cityId": "c-riyadh",
+    "clinic": {
+      "en": "Aleef Veterinary Network",
+      "ar": "شبكة أليف البيطرية"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 241,
+      "breakdown": [
+        10,
+        7,
+        14,
+        43,
+        167
+      ]
+    },
+    "consultationFee": 130,
+    "followUpFee": 78,
+    "platformCommissionPercent": 20,
+    "online": false,
+    "onDuty": false,
+    "responseMinutes": 13,
+    "consultationsCompleted": 744,
+    "supportsVideo": true,
+    "supportsChat": true,
+    "nextSlots": [
+      "2026-07-25T11:00:00.000Z",
+      "2026-07-25T14:00:00.000Z",
+      "2026-07-25T18:00:00.000Z",
+      "2026-07-26T11:00:00.000Z",
+      "2026-07-27T11:00:00.000Z"
+    ],
+    "education": [
+      {
+        "en": "DVM, King Faisal University",
+        "ar": "بكالوريوس الطب البيطري، جامعة الملك فيصل"
+      },
+      {
+        "en": "MSc Small Animal Medicine, RVC London",
+        "ar": "ماجستير طب الحيوانات الصغيرة، لندن"
+      }
+    ],
+    "certifications": [
+      {
+        "en": "Board certified — Small animal practice",
+        "ar": "شهادة البورد في ممارسة الحيوانات الصغيرة"
+      },
+      {
+        "en": "Advanced telemedicine certification",
+        "ar": "شهادة متقدمة في الطب عن بُعد"
+      }
+    ]
+  },
+  {
+    "id": "v-6",
+    "slug": "dr-faisal-buhairi",
+    "name": {
+      "en": "Dr. Faisal Buhairi",
+      "ar": "د. فيصل البحيري"
+    },
+    "avatar": "/img/stock/5327585.jpg",
+    "title": {
+      "en": "Licensed Veterinarian",
+      "ar": "طبيب بيطري مرخّص"
+    },
+    "specialties": [
+      {
+        "en": "Emergency & critical care",
+        "ar": "الطوارئ والعناية الحرجة"
+      }
+    ],
+    "speciesFocus": [
+      "cat",
+      "dog"
+    ],
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "licenseNumber": "VET-SA-40205",
+    "licenseVerifiedAt": "2025-11-03T09:00:00.000Z",
+    "accreditation": "approved",
+    "experienceYears": 14,
+    "bio": {
+      "en": "Dr. Faisal Buhairi has 14 years of clinical experience and consults daily through Aleef. Cases are reviewed against the pet's full medical history before every session.",
+      "ar": "يمتلك د. فيصل البحيري خبرة 14 سنة في الممارسة السريرية ويقدّم استشاراته يوميًا عبر أليف، مع مراجعة التاريخ الطبي الكامل قبل كل جلسة."
+    },
+    "cityId": "c-jeddah",
+    "clinic": {
+      "en": "Aleef Veterinary Network",
+      "ar": "شبكة أليف البيطرية"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 464,
+      "breakdown": [
+        17,
+        14,
+        28,
+        84,
+        321
+      ]
+    },
+    "consultationFee": 210,
+    "followUpFee": 126,
+    "platformCommissionPercent": 20,
+    "online": true,
+    "onDuty": true,
+    "responseMinutes": 3,
+    "consultationsCompleted": 1356,
+    "supportsVideo": true,
+    "supportsChat": true,
+    "nextSlots": [
+      "2026-07-25T11:00:00.000Z",
+      "2026-07-25T14:00:00.000Z",
+      "2026-07-25T18:00:00.000Z",
+      "2026-07-26T11:00:00.000Z",
+      "2026-07-27T11:00:00.000Z"
+    ],
+    "education": [
+      {
+        "en": "DVM, King Faisal University",
+        "ar": "بكالوريوس الطب البيطري، جامعة الملك فيصل"
+      },
+      {
+        "en": "MSc Small Animal Medicine, RVC London",
+        "ar": "ماجستير طب الحيوانات الصغيرة، لندن"
+      }
+    ],
+    "certifications": [
+      {
+        "en": "Board certified — Small animal practice",
+        "ar": "شهادة البورد في ممارسة الحيوانات الصغيرة"
+      },
+      {
+        "en": "Advanced telemedicine certification",
+        "ar": "شهادة متقدمة في الطب عن بُعد"
+      }
+    ]
+  },
+  {
+    "id": "v-7",
+    "slug": "dr-mona-zayed",
+    "name": {
+      "en": "Dr. Mona Zayed",
+      "ar": "د. منى زايد"
+    },
+    "avatar": "/img/stock/3845810.jpg",
+    "title": {
+      "en": "Licensed Veterinarian",
+      "ar": "طبيب بيطري مرخّص"
+    },
+    "specialties": [
+      {
+        "en": "Nutrition",
+        "ar": "التغذية"
+      },
+      {
+        "en": "Preventive care",
+        "ar": "الطب الوقائي"
+      }
+    ],
+    "speciesFocus": [
+      "cat",
+      "dog",
+      "rabbit"
+    ],
+    "languages": [
+      "ar",
+      "en",
+      "fr"
+    ],
+    "licenseNumber": "VET-SA-40206",
+    "licenseVerifiedAt": "2025-04-04T09:00:00.000Z",
+    "accreditation": "approved",
+    "experienceYears": 8,
+    "bio": {
+      "en": "Dr. Mona Zayed has 8 years of clinical experience and consults daily through Aleef. Cases are reviewed against the pet's full medical history before every session.",
+      "ar": "يمتلك د. منى زايد خبرة 8 سنة في الممارسة السريرية ويقدّم استشاراته يوميًا عبر أليف، مع مراجعة التاريخ الطبي الكامل قبل كل جلسة."
+    },
+    "cityId": "c-dammam",
+    "clinic": {
+      "en": "Aleef Veterinary Network",
+      "ar": "شبكة أليف البيطرية"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 473,
+      "breakdown": [
+        12,
+        14,
+        28,
+        85,
+        334
+      ]
+    },
+    "consultationFee": 110,
+    "followUpFee": 66,
+    "platformCommissionPercent": 20,
+    "online": true,
+    "onDuty": false,
+    "responseMinutes": 18,
+    "consultationsCompleted": 2355,
+    "supportsVideo": true,
+    "supportsChat": true,
+    "nextSlots": [
+      "2026-07-25T11:00:00.000Z",
+      "2026-07-25T14:00:00.000Z",
+      "2026-07-25T18:00:00.000Z",
+      "2026-07-26T11:00:00.000Z",
+      "2026-07-27T11:00:00.000Z"
+    ],
+    "education": [
+      {
+        "en": "DVM, King Faisal University",
+        "ar": "بكالوريوس الطب البيطري، جامعة الملك فيصل"
+      },
+      {
+        "en": "MSc Small Animal Medicine, RVC London",
+        "ar": "ماجستير طب الحيوانات الصغيرة، لندن"
+      }
+    ],
+    "certifications": [
+      {
+        "en": "Board certified — Small animal practice",
+        "ar": "شهادة البورد في ممارسة الحيوانات الصغيرة"
+      },
+      {
+        "en": "Advanced telemedicine certification",
+        "ar": "شهادة متقدمة في الطب عن بُعد"
+      }
+    ]
+  },
+  {
+    "id": "v-8",
+    "slug": "dr-riyadh-hakim",
+    "name": {
+      "en": "Dr. Riyadh Hakim",
+      "ar": "د. رياض حكيم"
+    },
+    "avatar": "/img/stock/5215024.jpg",
+    "title": {
+      "en": "Licensed Veterinarian",
+      "ar": "طبيب بيطري مرخّص"
+    },
+    "specialties": [
+      {
+        "en": "Equine medicine",
+        "ar": "طب الخيول"
+      }
+    ],
+    "speciesFocus": [
+      "horse"
+    ],
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "licenseNumber": "VET-SA-40207",
+    "licenseVerifiedAt": "2026-01-24T09:00:00.000Z",
+    "accreditation": "pending",
+    "experienceYears": 18,
+    "bio": {
+      "en": "Dr. Riyadh Hakim has 18 years of clinical experience and consults daily through Aleef. Cases are reviewed against the pet's full medical history before every session.",
+      "ar": "يمتلك د. رياض حكيم خبرة 18 سنة في الممارسة السريرية ويقدّم استشاراته يوميًا عبر أليف، مع مراجعة التاريخ الطبي الكامل قبل كل جلسة."
+    },
+    "cityId": "c-dubai",
+    "clinic": {
+      "en": "Aleef Veterinary Network",
+      "ar": "شبكة أليف البيطرية"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 343,
+      "breakdown": [
+        28,
+        10,
+        21,
+        62,
+        222
+      ]
+    },
+    "consultationFee": 320,
+    "followUpFee": 192,
+    "platformCommissionPercent": 20,
+    "online": false,
+    "onDuty": false,
+    "responseMinutes": 4,
+    "consultationsCompleted": 350,
+    "supportsVideo": true,
+    "supportsChat": true,
+    "nextSlots": [
+      "2026-07-25T11:00:00.000Z",
+      "2026-07-25T14:00:00.000Z",
+      "2026-07-25T18:00:00.000Z",
+      "2026-07-26T11:00:00.000Z",
+      "2026-07-27T11:00:00.000Z"
+    ],
+    "education": [
+      {
+        "en": "DVM, King Faisal University",
+        "ar": "بكالوريوس الطب البيطري، جامعة الملك فيصل"
+      },
+      {
+        "en": "MSc Small Animal Medicine, RVC London",
+        "ar": "ماجستير طب الحيوانات الصغيرة، لندن"
+      }
+    ],
+    "certifications": [
+      {
+        "en": "Board certified — Small animal practice",
+        "ar": "شهادة البورد في ممارسة الحيوانات الصغيرة"
+      },
+      {
+        "en": "Advanced telemedicine certification",
+        "ar": "شهادة متقدمة في الطب عن بُعد"
+      }
+    ]
+  }
+]

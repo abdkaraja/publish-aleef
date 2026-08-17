@@ -1,0 +1,155 @@
+[
+  {
+    "id": "lt-1",
+    "customerId": "u-001",
+    "points": 168,
+    "direction": "earn",
+    "source": "purchase",
+    "description": {
+      "en": "Order AL-52004",
+      "ar": "الطلب AL-52004"
+    },
+    "createdAt": "2025-12-28T09:00:00.000Z",
+    "expiresAt": "2027-01-15T09:00:00.000Z"
+  },
+  {
+    "id": "lt-2",
+    "customerId": "u-001",
+    "points": 60,
+    "direction": "earn",
+    "source": "consultation",
+    "description": {
+      "en": "Vet consultation with Dr. Yasmin",
+      "ar": "استشارة مع د. ياسمين"
+    },
+    "createdAt": "2026-04-26T09:00:00.000Z",
+    "expiresAt": "2026-10-11T09:00:00.000Z"
+  },
+  {
+    "id": "lt-3",
+    "customerId": "u-001",
+    "points": 500,
+    "direction": "earn",
+    "source": "adoption",
+    "description": {
+      "en": "Completed adoption follow-up",
+      "ar": "إتمام متابعة التبني"
+    },
+    "createdAt": "2025-10-27T09:00:00.000Z",
+    "expiresAt": "2026-10-04T09:00:00.000Z"
+  },
+  {
+    "id": "lt-4",
+    "customerId": "u-001",
+    "points": -500,
+    "direction": "redeem",
+    "source": "redemption",
+    "description": {
+      "en": "Redeemed SAR 50 store credit",
+      "ar": "استبدال رصيد ٥٠ ر.س"
+    },
+    "createdAt": "2026-02-23T09:00:00.000Z"
+  },
+  {
+    "id": "lt-5",
+    "customerId": "u-001",
+    "points": 40,
+    "direction": "earn",
+    "source": "review",
+    "description": {
+      "en": "Verified product review",
+      "ar": "تقييم منتج موثّق"
+    },
+    "createdAt": "2026-06-22T09:00:00.000Z",
+    "expiresAt": "2027-07-10T09:00:00.000Z"
+  },
+  {
+    "id": "lt-6",
+    "customerId": "u-001",
+    "points": 85,
+    "direction": "earn",
+    "source": "booking",
+    "description": {
+      "en": "Grooming session GR-4103",
+      "ar": "جلسة عناية GR-4103"
+    },
+    "createdAt": "2025-12-23T09:00:00.000Z",
+    "expiresAt": "2027-04-14T09:00:00.000Z"
+  },
+  {
+    "id": "lt-7",
+    "customerId": "u-001",
+    "points": 300,
+    "direction": "earn",
+    "source": "referral",
+    "description": {
+      "en": "Friend placed a first order",
+      "ar": "صديقك أنشأ أول طلب"
+    },
+    "createdAt": "2026-04-21T09:00:00.000Z",
+    "expiresAt": "2027-01-07T09:00:00.000Z"
+  },
+  {
+    "id": "lt-8",
+    "customerId": "u-001",
+    "points": 250,
+    "direction": "earn",
+    "source": "lost_found",
+    "description": {
+      "en": "Helped reunite a lost pet",
+      "ar": "ساعدت في إعادة حيوان مفقود"
+    },
+    "createdAt": "2025-10-22T09:00:00.000Z",
+    "expiresAt": "2027-07-29T09:00:00.000Z"
+  },
+  {
+    "id": "lt-9",
+    "customerId": "u-001",
+    "points": 200,
+    "direction": "earn",
+    "source": "challenge",
+    "description": {
+      "en": "Completed the profile challenge",
+      "ar": "أكملت تحدي الملف الشخصي"
+    },
+    "createdAt": "2026-02-18T09:00:00.000Z",
+    "expiresAt": "2026-11-11T09:00:00.000Z"
+  },
+  {
+    "id": "lt-10",
+    "customerId": "u-001",
+    "points": -1000,
+    "direction": "redeem",
+    "source": "redemption",
+    "description": {
+      "en": "Donated to Kind Paws Association",
+      "ar": "تبرع لجمعية الأكف الرحيمة"
+    },
+    "createdAt": "2026-06-17T09:00:00.000Z"
+  },
+  {
+    "id": "lt-11",
+    "customerId": "u-001",
+    "points": 94,
+    "direction": "earn",
+    "source": "purchase",
+    "description": {
+      "en": "Order AL-52011",
+      "ar": "الطلب AL-52011"
+    },
+    "createdAt": "2025-10-18T09:00:00.000Z",
+    "expiresAt": "2027-08-05T09:00:00.000Z"
+  },
+  {
+    "id": "lt-12",
+    "customerId": "u-001",
+    "points": -120,
+    "direction": "expire",
+    "source": "expire",
+    "description": {
+      "en": "Points expired",
+      "ar": "انتهاء صلاحية نقاط"
+    },
+    "createdAt": "2026-04-17T09:00:00.000Z"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "id": "u-001",
+    "name": {
+      "en": "Layla Al-Harbi",
+      "ar": "ليلى الحربي"
+    },
+    "email": "owner@aleef.app",
+    "phone": "+966 516 764 221",
+    "avatar": "/img/stock/774909.jpg",
+    "roles": [
+      "customer"
+    ],
+    "activeRole": "customer",
+    "cityId": "c-riyadh",
+    "joinedAt": "2024-05-04T09:00:00.000Z",
+    "addresses": [
+      {
+        "id": "u-001-addr-1",
+        "label": {
+          "en": "Home",
+          "ar": "المنزل"
+        },
+        "recipient": "Layla Al-Harbi",
+        "phone": "+966 516 764 221",
+        "cityId": "c-riyadh",
+        "district": "Al Olaya",
+        "street": "43 King Abdulaziz Rd",
+        "building": "12",
+        "isDefault": true,
+        "type": "home"
+      },
+      {
+        "id": "u-001-addr-2",
+        "label": {
+          "en": "Work",
+          "ar": "العمل"
+        },
+        "recipient": "Layla Al-Harbi",
+        "phone": "+966 526 402 407",
+        "cityId": "c-riyadh",
+        "district": "Al Malqa",
+        "street": "37 Olaya St",
+        "building": "Tower 6",
+        "isDefault": false,
+        "type": "work"
+      }
+    ],
+    "petIds": [
+      "pt-1",
+      "pt-2",
+      "pt-3",
+      "pt-4"
+    ],
+    "membershipId": "mem-1",
+    "walletBalance": 407,
+    "verified": true,
+    "language": "ar",
+    "notificationPrefs": {
+      "push": true,
+      "sms": true,
+      "email": true,
+      "whatsapp": false,
+      "dailyCap": 3,
+      "quietHours": [
+        "22:00",
+        "08:00"
+      ],
+      "marketing": true
+    },
+    "stats": {
+      "orders": 21,
+      "totalSpent": 9546,
+      "consultations": 7,
+      "bookings": 22,
+      "adoptions": 1
+    }
+  },
+  {
+    "id": "u-050",
+    "name": {
+      "en": "Dr. Yasmin Farouk",
+      "ar": "د. ياسمين فاروق"
+    },
+    "email": "vet@aleef.app",
+    "phone": "+966 512 354 173",
+    "avatar": "/img/stock/733872.jpg",
+    "roles": [
+      "vet",
+      "customer"
+    ],
+    "activeRole": "vet",
+    "cityId": "c-riyadh",
+    "joinedAt": "2024-11-25T09:00:00.000Z",
+    "addresses": [
+      {
+        "id": "u-050-addr-1",
+        "label": {
+          "en": "Home",
+          "ar": "المنزل"
+        },
+        "recipient": "Dr. Yasmin Farouk",
+        "phone": "+966 512 354 173",
+        "cityId": "c-riyadh",
+        "district": "Al Olaya",
+        "street": "1 King Abdulaziz Rd",
+        "building": "26",
+        "isDefault": true,
+        "type": "home"
+      },
+      {
+        "id": "u-050-addr-2",
+        "label": {
+          "en": "Work",
+          "ar": "العمل"
+        },
+        "recipient": "Dr. Yasmin Farouk",
+        "phone": "+966 524 892 711",
+        "cityId": "c-riyadh",
+        "district": "Al Malqa",
+        "street": "43 Olaya St",
+        "building": "Tower 10",
+        "isDefault": false,
+        "type": "work"
+      }
+    ],
+    "petIds": [],
+    "walletBalance": 12,
+    "verified": true,
+    "language": "ar",
+    "notificationPrefs": {
+      "push": true,
+      "sms": true,
+      "email": true,
+      "whatsapp": false,
+      "dailyCap": 3,
+      "quietHours": [
+        "22:00",
+        "08:00"
+      ],
+      "marketing": true
+    },
+    "stats": {
+      "orders": 19,
+      "totalSpent": 11620,
+      "consultations": 14,
+      "bookings": 9,
+      "adoptions": 2
+    }
+  },
+  {
+    "id": "u-060",
+    "name": {
+      "en": "Maha Al-Otaibi",
+      "ar": "مها العتيبي"
+    },
+    "email": "host@aleef.app",
+    "phone": "+966 517 655 112",
+    "avatar": "/img/stock/1222271.jpg",
+    "roles": [
+      "host",
+      "customer"
+    ],
+    "activeRole": "host",
+    "cityId": "c-jeddah",
+    "joinedAt": "2025-10-18T09:00:00.000Z",
+    "addresses": [
+      {
+        "id": "u-060-addr-1",
+        "label": {
+          "en": "Home",
+          "ar": "المنزل"
+        },
+        "recipient": "Maha Al-Otaibi",
+        "phone": "+966 517 655 112",
+        "cityId": "c-jeddah",
+        "district": "Al Rawdah",
+        "street": "2 King Abdulaziz Rd",
+        "building": "13",
+        "isDefault": true,
+        "type": "home"
+      },
+      {
+        "id": "u-060-addr-2",
+        "label": {
+          "en": "Work",
+          "ar": "العمل"
+        },
+        "recipient": "Maha Al-Otaibi",
+        "phone": "+966 531 293 298",
+        "cityId": "c-jeddah",
+        "district": "Al Shatea",
+        "street": "54 Olaya St",
+        "building": "Tower 7",
+        "isDefault": false,
+        "type": "work"
+      }
+    ],
+    "petIds": [
+      "pt-5"
+    ],
+    "walletBalance": 172,
+    "verified": true,
+    "language": "ar",
+    "notificationPrefs": {
+      "push": true,
+      "sms": true,
+      "email": true,
+      "whatsapp": false,
+      "dailyCap": 3,
+      "quietHours": [
+        "22:00",
+        "08:00"
+      ],
+      "marketing": true
+    },
+    "stats": {
+      "orders": 28,
+      "totalSpent": 8985,
+      "consultations": 7,
+      "bookings": 6,
+      "adoptions": 2
+    }
+  },
+  {
+    "id": "u-070",
+    "name": {
+      "en": "Tariq Nassar",
+      "ar": "طارق نصار"
+    },
+    "email": "groomer@aleef.app",
+    "phone": "+966 558 500 143",
+    "avatar": "/img/stock/1181690.jpg",
+    "roles": [
+      "groomer",
+      "customer"
+    ],
+    "activeRole": "groomer",
+    "cityId": "c-riyadh",
+    "joinedAt": "2025-03-28T09:00:00.000Z",
+    "addresses": [
+      {
+        "id": "u-070-addr-1",
+        "label": {
+          "en": "Home",
+          "ar": "المنزل"
+        },
+        "recipient": "Tariq Nassar",
+        "phone": "+966 558 500 143",
+        "cityId": "c-riyadh",
+        "district": "Al Olaya",
+        "street": "31 King Abdulaziz Rd",
+        "building": "28",
+        "isDefault": true,
+        "type": "home"
+      },
+      {
+        "id": "u-070-addr-2",
+        "label": {
+          "en": "Work",
+          "ar": "العمل"
+        },
+        "recipient": "Tariq Nassar",
+        "phone": "+966 552 862 857",
+        "cityId": "c-riyadh",
+        "district": "Al Malqa",
+        "street": "25 Olaya St",
+        "building": "Tower 2",
+        "isDefault": false,
+        "type": "work"
+      }
+    ],
+    "petIds": [],
+    "walletBalance": 796,
+    "verified": true,
+    "language": "ar",
+    "notificationPrefs": {
+      "push": true,
+      "sms": true,
+      "email": true,
+      "whatsapp": false,
+      "dailyCap": 3,
+      "quietHours": [
+        "22:00",
+        "08:00"
+      ],
+      "marketing": true
+    },
+    "stats": {
+      "orders": 13,
+      "totalSpent": 6745,
+      "consultations": 16,
+      "bookings": 11,
+      "adoptions": 1
+    }
+  },
+  {
+    "id": "u-080",
+    "name": {
+      "en": "Hamad Al-Dosari",
+      "ar": "حمد الدوسري"
+    },
+    "email": "breeder@aleef.app",
+    "phone": "+966 525 595 414",
+    "avatar": "/img/stock/1130626.jpg",
+    "roles": [
+      "breeder",
+      "customer"
+    ],
+    "activeRole": "breeder",
+    "cityId": "c-dammam",
+    "joinedAt": "2025-11-04T09:00:00.000Z",
+    "addresses": [
+      {
+        "id": "u-080-addr-1",
+        "label": {
+          "en": "Home",
+          "ar": "المنزل"
+        },
+        "recipient": "Hamad Al-Dosari",
+        "phone": "+966 525 595 414",
+        "cityId": "c-dammam",
+        "district": "Al Faisaliyah",
+        "street": "46 King Abdulaziz Rd",
+        "building": "11",
+        "isDefault": true,
+        "type": "home"
+      },
+      {
+        "id": "u-080-addr-2",
+        "label": {
+          "en": "Work",
+          "ar": "العمل"
+        },
+        "recipient": "Hamad Al-Dosari",
+        "phone": "+966 515 233 952",
+        "cityId": "c-dammam",
+        "district": "Al Shatea",
+        "street": "34 Olaya St",
+        "building": "Tower 9",
+        "isDefault": false,
+        "type": "work"
+      }
+    ],
+    "petIds": [
+      "pt-6"
+    ],
+    "walletBalance": 433,
+    "verified": true,
+    "language": "ar",
+    "notificationPrefs": {
+      "push": true,
+      "sms": true,
+      "email": true,
+      "whatsapp": false,
+      "dailyCap": 3,
+      "quietHours": [
+        "22:00",
+        "08:00"
+      ],
+      "marketing": true
+    },
+    "stats": {
+      "orders": 40,
+      "totalSpent": 13239,
+      "consultations": 11,
+      "bookings": 20,
+      "adoptions": 0
+    }
+  },
+  {
+    "id": "u-100",
+    "name": {
+      "en": "Aleef Operations",
+      "ar": "إدارة أليف"
+    },
+    "email": "admin@aleef.app",
+    "phone": "+966 542 968 425",
+    "avatar": "/img/stock/1181690.jpg",
+    "roles": [
+      "admin",
+      "customer"
+    ],
+    "activeRole": "admin",
+    "cityId": "c-riyadh",
+    "joinedAt": "2024-11-01T09:00:00.000Z",
+    "addresses": [
+      {
+        "id": "u-100-addr-1",
+        "label": {
+          "en": "Home",
+          "ar": "المنزل"
+        },
+        "recipient": "Aleef Operations",
+        "phone": "+966 542 968 425",
+        "cityId": "c-riyadh",
+        "district": "Al Olaya",
+        "street": "15 King Abdulaziz Rd",
+        "building": "22",
+        "isDefault": true,
+        "type": "home"
+      },
+      {
+        "id": "u-100-addr-2",
+        "label": {
+          "en": "Work",
+          "ar": "العمل"
+        },
+        "recipient": "Aleef Operations",
+        "phone": "+966 544 606 611",
+        "cityId": "c-riyadh",
+        "district": "Al Malqa",
+        "street": "33 Olaya St",
+        "building": "Tower 8",
+        "isDefault": false,
+        "type": "work"
+      }
+    ],
+    "petIds": [],
+    "walletBalance": 305,
+    "verified": true,
+    "language": "ar",
+    "notificationPrefs": {
+      "push": true,
+      "sms": true,
+      "email": true,
+      "whatsapp": false,
+      "dailyCap": 3,
+      "quietHours": [
+        "22:00",
+        "08:00"
+      ],
+      "marketing": true
+    },
+    "stats": {
+      "orders": 41,
+      "totalSpent": 16750,
+      "consultations": 13,
+      "bookings": 6,
+      "adoptions": 0
+    }
+  }
+]

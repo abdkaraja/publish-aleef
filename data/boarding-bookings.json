@@ -1,0 +1,484 @@
+[
+  {
+    "id": "bb-1",
+    "reference": "BD-7300",
+    "petId": "pt-1",
+    "petName": "Simba",
+    "ownerId": "u-001",
+    "hostId": "bh-1",
+    "hostName": {
+      "en": "Maha Al-Otaibi",
+      "ar": "مها العتيبي"
+    },
+    "service": "home_visit",
+    "checkIn": "2026-08-07T09:00:00.000Z",
+    "checkOut": "2026-08-13T09:00:00.000Z",
+    "nights": 6,
+    "nightlyRate": 145,
+    "subtotal": 870,
+    "commissionPercent": 20,
+    "insuranceAddOn": 45,
+    "total": 915,
+    "escrowStatus": "held",
+    "status": "pending",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": []
+  },
+  {
+    "id": "bb-2",
+    "reference": "BD-7301",
+    "petId": "pt-2",
+    "petName": "Luna",
+    "ownerId": "u-001",
+    "hostId": "bh-2",
+    "hostName": {
+      "en": "Paws Retreat Hotel",
+      "ar": "فندق باوز ريتريت"
+    },
+    "service": "home_visit",
+    "checkIn": "2026-08-30T09:00:00.000Z",
+    "checkOut": "2026-09-06T09:00:00.000Z",
+    "nights": 7,
+    "nightlyRate": 220,
+    "subtotal": 1540,
+    "commissionPercent": 20,
+    "total": 1540,
+    "escrowStatus": "held",
+    "status": "in_stay",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": [
+      {
+        "date": "2026-08-30T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1828875.jpg"
+      },
+      {
+        "date": "2026-08-31T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/156934.jpg"
+      },
+      {
+        "date": "2026-09-01T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1404819.jpg"
+      },
+      {
+        "date": "2026-09-02T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/127028.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bb-3",
+    "reference": "BD-7302",
+    "petId": "pt-3",
+    "petName": "Rocky",
+    "ownerId": "u-001",
+    "hostId": "bh-3",
+    "hostName": {
+      "en": "Salem Family Home",
+      "ar": "بيت عائلة سالم"
+    },
+    "service": "full_boarding",
+    "checkIn": "2026-06-25T09:00:00.000Z",
+    "checkOut": "2026-07-01T09:00:00.000Z",
+    "nights": 6,
+    "nightlyRate": 120,
+    "subtotal": 720,
+    "commissionPercent": 20,
+    "total": 720,
+    "escrowStatus": "released",
+    "status": "completed",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": [
+      {
+        "date": "2026-06-25T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/2253275.jpg"
+      },
+      {
+        "date": "2026-06-26T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1490908.jpg"
+      },
+      {
+        "date": "2026-06-27T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1386422.jpg"
+      },
+      {
+        "date": "2026-06-28T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/96420.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bb-4",
+    "reference": "BD-7303",
+    "petId": "pt-4",
+    "petName": "Kiwi",
+    "ownerId": "u-001",
+    "hostId": "bh-4",
+    "hostName": {
+      "en": "Desert Tails Resort",
+      "ar": "منتجع ديزرت تيلز"
+    },
+    "service": "day_care",
+    "checkIn": "2026-08-06T09:00:00.000Z",
+    "checkOut": "2026-08-16T09:00:00.000Z",
+    "nights": 10,
+    "nightlyRate": 265,
+    "subtotal": 2650,
+    "commissionPercent": 20,
+    "insuranceAddOn": 45,
+    "total": 2695,
+    "escrowStatus": "refunded",
+    "status": "cancelled",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": []
+  },
+  {
+    "id": "bb-5",
+    "reference": "BD-7304",
+    "petId": "pt-5",
+    "petName": "Nala",
+    "ownerId": "u-060",
+    "hostId": "bh-5",
+    "hostName": {
+      "en": "Noura Garden Villa",
+      "ar": "فيلا نورة بالحديقة"
+    },
+    "service": "home_visit",
+    "checkIn": "2026-08-03T09:00:00.000Z",
+    "checkOut": "2026-08-11T09:00:00.000Z",
+    "nights": 8,
+    "nightlyRate": 165,
+    "subtotal": 1320,
+    "commissionPercent": 20,
+    "total": 1320,
+    "escrowStatus": "held",
+    "status": "pending",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": []
+  },
+  {
+    "id": "bb-6",
+    "reference": "BD-7305",
+    "petId": "pt-6",
+    "petName": "Sultan",
+    "ownerId": "u-080",
+    "hostId": "bh-6",
+    "hostName": {
+      "en": "Coastal Pet Lodge",
+      "ar": "نزل الساحل للحيوانات"
+    },
+    "service": "day_care",
+    "checkIn": "2026-08-04T09:00:00.000Z",
+    "checkOut": "2026-08-09T09:00:00.000Z",
+    "nights": 5,
+    "nightlyRate": 190,
+    "subtotal": 950,
+    "commissionPercent": 20,
+    "total": 950,
+    "escrowStatus": "refunded",
+    "status": "cancelled",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": []
+  },
+  {
+    "id": "bb-7",
+    "reference": "BD-7306",
+    "petId": "pt-1",
+    "petName": "Simba",
+    "ownerId": "u-001",
+    "hostId": "bh-7",
+    "hostName": {
+      "en": "Hana Cat Boutique",
+      "ar": "بوتيك هناء للقطط"
+    },
+    "service": "full_boarding",
+    "checkIn": "2026-02-20T09:00:00.000Z",
+    "checkOut": "2026-02-23T09:00:00.000Z",
+    "nights": 3,
+    "nightlyRate": 135,
+    "subtotal": 405,
+    "commissionPercent": 20,
+    "insuranceAddOn": 45,
+    "total": 450,
+    "escrowStatus": "released",
+    "status": "completed",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": [
+      {
+        "date": "2026-02-20T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/38867.jpg"
+      },
+      {
+        "date": "2026-02-21T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/416160.jpg"
+      },
+      {
+        "date": "2026-02-22T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1741205.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bb-8",
+    "reference": "BD-7307",
+    "petId": "pt-2",
+    "petName": "Luna",
+    "ownerId": "u-001",
+    "hostId": "bh-8",
+    "hostName": {
+      "en": "Marina Pet Suites",
+      "ar": "أجنحة المارينا"
+    },
+    "service": "full_boarding",
+    "checkIn": "2026-06-11T09:00:00.000Z",
+    "checkOut": "2026-06-23T09:00:00.000Z",
+    "nights": 12,
+    "nightlyRate": 310,
+    "subtotal": 3720,
+    "commissionPercent": 20,
+    "total": 3720,
+    "escrowStatus": "released",
+    "status": "completed",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": [
+      {
+        "date": "2026-06-11T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1056251.jpg"
+      },
+      {
+        "date": "2026-06-12T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/38867.jpg"
+      },
+      {
+        "date": "2026-06-13T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/416160.jpg"
+      },
+      {
+        "date": "2026-06-14T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1543793.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bb-9",
+    "reference": "BD-7308",
+    "petId": "pt-3",
+    "petName": "Rocky",
+    "ownerId": "u-001",
+    "hostId": "bh-1",
+    "hostName": {
+      "en": "Maha Al-Otaibi",
+      "ar": "مها العتيبي"
+    },
+    "service": "home_visit",
+    "checkIn": "2026-03-30T09:00:00.000Z",
+    "checkOut": "2026-04-07T09:00:00.000Z",
+    "nights": 8,
+    "nightlyRate": 145,
+    "subtotal": 1160,
+    "commissionPercent": 20,
+    "total": 1160,
+    "escrowStatus": "released",
+    "status": "completed",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": [
+      {
+        "date": "2026-03-30T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1108099.jpg"
+      },
+      {
+        "date": "2026-03-31T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1851164.jpg"
+      },
+      {
+        "date": "2026-04-01T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1629781.jpg"
+      },
+      {
+        "date": "2026-04-02T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/551628.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bb-10",
+    "reference": "BD-7309",
+    "petId": "pt-4",
+    "petName": "Kiwi",
+    "ownerId": "u-001",
+    "hostId": "bh-2",
+    "hostName": {
+      "en": "Paws Retreat Hotel",
+      "ar": "فندق باوز ريتريت"
+    },
+    "service": "home_visit",
+    "checkIn": "2026-08-24T09:00:00.000Z",
+    "checkOut": "2026-08-29T09:00:00.000Z",
+    "nights": 5,
+    "nightlyRate": 220,
+    "subtotal": 1100,
+    "commissionPercent": 20,
+    "insuranceAddOn": 45,
+    "total": 1145,
+    "escrowStatus": "held",
+    "status": "in_stay",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": [
+      {
+        "date": "2026-08-24T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1181181.jpg"
+      },
+      {
+        "date": "2026-08-25T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/1661179.jpg"
+      },
+      {
+        "date": "2026-08-26T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/326900.jpg"
+      },
+      {
+        "date": "2026-08-27T09:00:00.000Z",
+        "note": {
+          "en": "Ate well and enjoyed the garden this morning.",
+          "ar": "تناول طعامه جيدًا واستمتع بالحديقة هذا الصباح."
+        },
+        "photo": "/img/stock/56733.jpg"
+      }
+    ]
+  },
+  {
+    "id": "bb-11",
+    "reference": "BD-7310",
+    "petId": "pt-5",
+    "petName": "Nala",
+    "ownerId": "u-060",
+    "hostId": "bh-3",
+    "hostName": {
+      "en": "Salem Family Home",
+      "ar": "بيت عائلة سالم"
+    },
+    "service": "day_care",
+    "checkIn": "2026-09-01T09:00:00.000Z",
+    "checkOut": "2026-09-07T09:00:00.000Z",
+    "nights": 6,
+    "nightlyRate": 120,
+    "subtotal": 720,
+    "commissionPercent": 20,
+    "total": 720,
+    "escrowStatus": "refunded",
+    "status": "cancelled",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": []
+  },
+  {
+    "id": "bb-12",
+    "reference": "BD-7311",
+    "petId": "pt-6",
+    "petName": "Sultan",
+    "ownerId": "u-080",
+    "hostId": "bh-4",
+    "hostName": {
+      "en": "Desert Tails Resort",
+      "ar": "منتجع ديزرت تيلز"
+    },
+    "service": "home_visit",
+    "checkIn": "2026-07-28T09:00:00.000Z",
+    "checkOut": "2026-07-30T09:00:00.000Z",
+    "nights": 2,
+    "nightlyRate": 265,
+    "subtotal": 530,
+    "commissionPercent": 20,
+    "total": 530,
+    "escrowStatus": "held",
+    "status": "pending",
+    "vaccinationCheckPassed": true,
+    "dailyUpdates": []
+  }
+]

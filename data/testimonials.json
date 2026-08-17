@@ -1,0 +1,128 @@
+[
+  {
+    "id": "tm-1",
+    "name": {
+      "en": "Nada Al-Qahtani",
+      "ar": "ندى القحطاني"
+    },
+    "role": {
+      "en": "Cat parent",
+      "ar": "مربّية قطط"
+    },
+    "avatar": "/img/stock/1222271.jpg",
+    "quote": {
+      "en": "The medical record alone changed everything. My vet opens the file and already knows Simba’s history.",
+      "ar": "السجل الطبي وحده غيّر كل شيء. يفتح الطبيب الملف ويعرف تاريخ سيمبا فورًا."
+    },
+    "rating": 5,
+    "section": {
+      "en": "Medical record",
+      "ar": "السجل الطبي"
+    }
+  },
+  {
+    "id": "tm-2",
+    "name": {
+      "en": "Mishaal Al-Sudairi",
+      "ar": "مشعل السديري"
+    },
+    "role": {
+      "en": "Dog owner",
+      "ar": "مربّي كلاب"
+    },
+    "avatar": "/img/stock/1181686.jpg",
+    "quote": {
+      "en": "Booked a home grooming van at 9 PM and they arrived the next morning with before-and-after photos.",
+      "ar": "حجزت عربة العناية المنزلية في التاسعة مساءً ووصلوا صباح اليوم التالي مع صور قبل وبعد."
+    },
+    "rating": 5,
+    "section": {
+      "en": "Grooming",
+      "ar": "العناية"
+    }
+  },
+  {
+    "id": "tm-3",
+    "name": {
+      "en": "Dr. Rania Habib",
+      "ar": "د. رانية حبيب"
+    },
+    "role": {
+      "en": "Veterinarian",
+      "ar": "طبيبة بيطرية"
+    },
+    "avatar": "/img/stock/1516680.jpg",
+    "quote": {
+      "en": "The triage step means I see the right cases. Emergencies never sit in a generic queue.",
+      "ar": "خطوة الفرز تجعلني أستقبل الحالات المناسبة، ولا تبقى الطوارئ في طابور عام."
+    },
+    "rating": 5,
+    "section": {
+      "en": "Telehealth",
+      "ar": "الاستشارات"
+    }
+  },
+  {
+    "id": "tm-4",
+    "name": {
+      "en": "Ohoud Bin Salem",
+      "ar": "عهود بن سالم"
+    },
+    "role": {
+      "en": "Foster carer",
+      "ar": "راعية مؤقتة"
+    },
+    "avatar": "/img/stock/1181686.jpg",
+    "quote": {
+      "en": "We placed eleven cats last year through Aleef. The eligibility form filters out the wrong homes.",
+      "ar": "وضعنا إحدى عشرة قطة العام الماضي عبر أليف، ونموذج الأهلية يستبعد البيوت غير المناسبة."
+    },
+    "rating": 5,
+    "section": {
+      "en": "Adoption",
+      "ar": "التبنّي"
+    }
+  },
+  {
+    "id": "tm-5",
+    "name": {
+      "en": "Turki Al-Mutairi",
+      "ar": "تركي المطيري"
+    },
+    "role": {
+      "en": "Subscriber",
+      "ar": "مشترك"
+    },
+    "avatar": "/img/stock/1239291.jpg",
+    "quote": {
+      "en": "Autoship removed the one chore I always forgot. The litter just shows up.",
+      "ar": "الشحن التلقائي أنهى المهمة التي كنت أنساها دائمًا — يصل الرمل من تلقاء نفسه."
+    },
+    "rating": 5,
+    "section": {
+      "en": "Subscriptions",
+      "ar": "الاشتراكات"
+    }
+  },
+  {
+    "id": "tm-6",
+    "name": {
+      "en": "Salma Idris",
+      "ar": "سلمى إدريس"
+    },
+    "role": {
+      "en": "Traveller",
+      "ar": "مسافرة"
+    },
+    "avatar": "/img/stock/415829.jpg",
+    "quote": {
+      "en": "Daily photo updates while I was abroad. I could see Nala was genuinely happy.",
+      "ar": "تحديثات مصوّرة يومية أثناء سفري، وكنت أرى أن نالا سعيدة فعلًا."
+    },
+    "rating": 5,
+    "section": {
+      "en": "Boarding",
+      "ar": "الإيواء"
+    }
+  }
+]

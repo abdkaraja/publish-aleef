@@ -1,0 +1,93 @@
+[
+  {
+    "id": "sup-1",
+    "name": {
+      "en": "Gulf Pet Distribution",
+      "ar": "الخليج لتوزيع مستلزمات الحيوانات"
+    },
+    "contact": "+966 582 481 300",
+    "email": "orders@gulf-pet-distribution.com",
+    "categories": [
+      "cat-dry-food",
+      "cat-wet-food"
+    ],
+    "leadTimeDays": 6,
+    "onTimeRate": 96,
+    "qualityScore": 4.7,
+    "openPurchaseOrders": 5,
+    "status": "active"
+  },
+  {
+    "id": "sup-2",
+    "name": {
+      "en": "MedVet Supplies",
+      "ar": "ميدفيت للمستلزمات الطبية"
+    },
+    "contact": "+966 579 584 765",
+    "email": "orders@medvet-supplies.com",
+    "categories": [
+      "cat-parasite",
+      "cat-first-aid",
+      "cat-vitamins"
+    ],
+    "leadTimeDays": 9,
+    "onTimeRate": 91,
+    "qualityScore": 4.5,
+    "openPurchaseOrders": 4,
+    "status": "active"
+  },
+  {
+    "id": "sup-3",
+    "name": {
+      "en": "Nordic Pet Imports",
+      "ar": "الشمال لاستيراد مستلزمات الحيوانات"
+    },
+    "contact": "+966 541 488 307",
+    "email": "orders@nordic-pet-imports.com",
+    "categories": [
+      "cat-beds",
+      "cat-carriers"
+    ],
+    "leadTimeDays": 21,
+    "onTimeRate": 84,
+    "qualityScore": 4.2,
+    "openPurchaseOrders": 5,
+    "status": "probation"
+  },
+  {
+    "id": "sup-4",
+    "name": {
+      "en": "Riyadh Accessories Co.",
+      "ar": "شركة الرياض للإكسسوارات"
+    },
+    "contact": "+966 522 959 240",
+    "email": "orders@riyadh-accessories-co.com",
+    "categories": [
+      "cat-collars",
+      "cat-toys",
+      "cat-bowls"
+    ],
+    "leadTimeDays": 4,
+    "onTimeRate": 98,
+    "qualityScore": 4.8,
+    "openPurchaseOrders": 4,
+    "status": "active"
+  },
+  {
+    "id": "sup-5",
+    "name": {
+      "en": "AquaTech Trading",
+      "ar": "أكواتك التجارية"
+    },
+    "contact": "+966 522 553 372",
+    "email": "orders@aquatech-trading.com",
+    "categories": [
+      "cat-aquarium"
+    ],
+    "leadTimeDays": 14,
+    "onTimeRate": 88,
+    "qualityScore": 4.1,
+    "openPurchaseOrders": 6,
+    "status": "active"
+  }
+]

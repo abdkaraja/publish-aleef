@@ -1,0 +1,193 @@
+[
+  {
+    "id": "pt-1",
+    "ownerId": "u-001",
+    "name": "Simba",
+    "species": "cat",
+    "breed": {
+      "en": "Maine Coon",
+      "ar": "ماين كون"
+    },
+    "gender": "male",
+    "birthDate": "2020-05-27T09:00:00.000Z",
+    "approximateAgeMonths": 75,
+    "size": "lg",
+    "weightKg": 6.8,
+    "color": {
+      "en": "Ginger tabby",
+      "ar": "برتقالي مخطط"
+    },
+    "avatar": "/img/stock/209037.jpg",
+    "photos": [
+      "/img/stock/1741205.jpg",
+      "/img/stock/209037.jpg"
+    ],
+    "microchipId": "SA465669428",
+    "collarQrCode": "ALF-PT-1-6829",
+    "neutered": true,
+    "completeness": 88,
+    "medicallyVerified": true,
+    "dietNotes": "Grain-free wet food twice daily, dry kibble available all day.",
+    "createdAt": "2026-03-05T09:00:00.000Z",
+    "updatedAt": "2026-06-27T09:00:00.000Z"
+  },
+  {
+    "id": "pt-2",
+    "ownerId": "u-001",
+    "name": "Luna",
+    "species": "cat",
+    "breed": {
+      "en": "Persian",
+      "ar": "شيرازي"
+    },
+    "gender": "female",
+    "birthDate": "2020-04-27T09:00:00.000Z",
+    "approximateAgeMonths": 76,
+    "size": "md",
+    "weightKg": 4.2,
+    "color": {
+      "en": "Cream white",
+      "ar": "أبيض كريمي"
+    },
+    "avatar": "/img/stock/617278.jpg",
+    "photos": [
+      "/img/stock/1828875.jpg",
+      "/img/stock/1170986.jpg"
+    ],
+    "microchipId": "SA581393895",
+    "collarQrCode": "ALF-PT-2-4962",
+    "neutered": false,
+    "completeness": 74,
+    "medicallyVerified": true,
+    "dietNotes": "Grain-free wet food twice daily, dry kibble available all day.",
+    "createdAt": "2024-08-27T09:00:00.000Z",
+    "updatedAt": "2026-07-24T09:00:00.000Z"
+  },
+  {
+    "id": "pt-3",
+    "ownerId": "u-001",
+    "name": "Rocky",
+    "species": "dog",
+    "breed": {
+      "en": "Golden Retriever",
+      "ar": "جولدن ريتريفر"
+    },
+    "gender": "male",
+    "birthDate": "2021-07-21T09:00:00.000Z",
+    "approximateAgeMonths": 61,
+    "size": "xl",
+    "weightKg": 31.5,
+    "color": {
+      "en": "Golden",
+      "ar": "ذهبي"
+    },
+    "avatar": "/img/stock/1490908.jpg",
+    "photos": [
+      "/img/stock/573241.jpg",
+      "/img/stock/257540.jpg"
+    ],
+    "microchipId": "SA401466514",
+    "collarQrCode": "ALF-PT-3-8901",
+    "neutered": true,
+    "completeness": 96,
+    "medicallyVerified": true,
+    "dietNotes": "Two measured meals per day, no table scraps.",
+    "createdAt": "2026-01-03T09:00:00.000Z",
+    "updatedAt": "2026-07-05T09:00:00.000Z"
+  },
+  {
+    "id": "pt-4",
+    "ownerId": "u-001",
+    "name": "Kiwi",
+    "species": "bird",
+    "breed": {
+      "en": "African Grey",
+      "ar": "الرمادي الأفريقي"
+    },
+    "gender": "female",
+    "birthDate": "2021-04-22T09:00:00.000Z",
+    "approximateAgeMonths": 64,
+    "size": "sm",
+    "weightKg": 0.45,
+    "color": {
+      "en": "Grey & red",
+      "ar": "رمادي وأحمر"
+    },
+    "avatar": "/img/stock/1661179.jpg",
+    "photos": [
+      "/img/stock/2662434.jpg",
+      "/img/stock/2295744.jpg"
+    ],
+    "collarQrCode": "ALF-PT-4-9920",
+    "neutered": false,
+    "completeness": 52,
+    "medicallyVerified": false,
+    "dietNotes": "Two measured meals per day, no table scraps.",
+    "createdAt": "2025-10-16T09:00:00.000Z",
+    "updatedAt": "2026-06-26T09:00:00.000Z"
+  },
+  {
+    "id": "pt-5",
+    "ownerId": "u-060",
+    "name": "Nala",
+    "species": "dog",
+    "breed": {
+      "en": "Border Collie",
+      "ar": "بوردر كولي"
+    },
+    "gender": "female",
+    "birthDate": "2024-11-02T09:00:00.000Z",
+    "approximateAgeMonths": 21,
+    "size": "lg",
+    "weightKg": 19.2,
+    "color": {
+      "en": "Black & white",
+      "ar": "أسود وأبيض"
+    },
+    "avatar": "/img/stock/1851164.jpg",
+    "photos": [
+      "/img/stock/1386422.jpg",
+      "/img/stock/1851164.jpg"
+    ],
+    "microchipId": "SA413200224",
+    "collarQrCode": "ALF-PT-5-7297",
+    "neutered": true,
+    "completeness": 81,
+    "medicallyVerified": true,
+    "dietNotes": "Two measured meals per day, no table scraps.",
+    "createdAt": "2025-09-25T09:00:00.000Z",
+    "updatedAt": "2026-07-15T09:00:00.000Z"
+  },
+  {
+    "id": "pt-6",
+    "ownerId": "u-080",
+    "name": "Sultan",
+    "species": "cat",
+    "breed": {
+      "en": "British Shorthair",
+      "ar": "بريطاني قصير الشعر"
+    },
+    "gender": "male",
+    "birthDate": "2023-10-09T09:00:00.000Z",
+    "approximateAgeMonths": 34,
+    "size": "md",
+    "weightKg": 5.4,
+    "color": {
+      "en": "Blue grey",
+      "ar": "رمادي مزرق"
+    },
+    "avatar": "/img/stock/127028.jpg",
+    "photos": [
+      "/img/stock/320014.jpg",
+      "/img/stock/156934.jpg"
+    ],
+    "microchipId": "SA684757589",
+    "collarQrCode": "ALF-PT-6-6314",
+    "neutered": false,
+    "completeness": 68,
+    "medicallyVerified": true,
+    "dietNotes": "Grain-free wet food twice daily, dry kibble available all day.",
+    "createdAt": "2024-11-01T09:00:00.000Z",
+    "updatedAt": "2026-07-06T09:00:00.000Z"
+  }
+]

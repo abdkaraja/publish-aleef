@@ -1,0 +1,134 @@
+[
+  {
+    "id": "th-1",
+    "context": "adoption",
+    "contextId": "ad-2",
+    "contextLabel": {
+      "en": "Adoption — Zara",
+      "ar": "تبنٍّ — زارا"
+    },
+    "participant": {
+      "id": "pub-1",
+      "name": {
+        "en": "Kind Paws Association",
+        "ar": "جمعية الأكف الرحيمة"
+      },
+      "avatar": "/img/stock/2253275.jpg",
+      "online": true
+    },
+    "lastMessageAt": "2026-07-25T06:36:00.000Z",
+    "unreadCount": 2,
+    "encrypted": true,
+    "messages": [
+      {
+        "id": "m1",
+        "senderId": "u-001",
+        "body": {
+          "en": "Hello! Is Zara still available?",
+          "ar": "مرحبًا، هل زارا ما زالت متاحة؟"
+        },
+        "sentAt": "2026-07-24T09:00:00.000Z"
+      },
+      {
+        "id": "m2",
+        "senderId": "pub-1",
+        "body": {
+          "en": "Yes she is. Could you tell us about your home setup?",
+          "ar": "نعم ما زالت متاحة. هل يمكنك إخبارنا عن طبيعة منزلك؟"
+        },
+        "sentAt": "2026-07-24T11:24:00.000Z"
+      },
+      {
+        "id": "m3",
+        "senderId": "u-001",
+        "body": {
+          "en": "We have a villa with a fenced garden and no other dogs.",
+          "ar": "لدينا فيلا بحديقة مسوّرة ولا توجد كلاب أخرى."
+        },
+        "sentAt": "2026-07-25T01:48:00.000Z"
+      },
+      {
+        "id": "m4",
+        "senderId": "pub-1",
+        "body": {
+          "en": "Perfect. Please complete the eligibility form and we will arrange a visit.",
+          "ar": "ممتاز. أكمل نموذج الأهلية وسنرتب زيارة."
+        },
+        "sentAt": "2026-07-25T06:36:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "th-2",
+    "context": "marketplace",
+    "contextId": "mk-1",
+    "contextLabel": {
+      "en": "Marketplace — Amir",
+      "ar": "السوق — أمير"
+    },
+    "participant": {
+      "id": "br-1",
+      "name": {
+        "en": "Hamad Al-Dosari",
+        "ar": "حمد الدوسري"
+      },
+      "avatar": "/img/stock/220453.jpg",
+      "online": false
+    },
+    "lastMessageAt": "2026-07-23T09:00:00.000Z",
+    "unreadCount": 0,
+    "encrypted": true,
+    "messages": [
+      {
+        "id": "m5",
+        "senderId": "u-001",
+        "body": {
+          "en": "Are both parents health tested?",
+          "ar": "هل خضع الوالدان للفحص الصحي؟"
+        },
+        "sentAt": "2026-07-22T09:00:00.000Z"
+      },
+      {
+        "id": "m6",
+        "senderId": "br-1",
+        "body": {
+          "en": "Yes, the reports are attached to the listing.",
+          "ar": "نعم، التقارير مرفقة مع الإعلان."
+        },
+        "sentAt": "2026-07-23T09:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "th-3",
+    "context": "boarding",
+    "contextId": "bh-2",
+    "contextLabel": {
+      "en": "Boarding — Paws Retreat",
+      "ar": "إيواء — باوز ريتريت"
+    },
+    "participant": {
+      "id": "bh-2",
+      "name": {
+        "en": "Paws Retreat Hotel",
+        "ar": "فندق باوز ريتريت"
+      },
+      "avatar": "/img/stock/1108099.jpg",
+      "online": true
+    },
+    "lastMessageAt": "2026-07-24T18:36:00.000Z",
+    "unreadCount": 1,
+    "encrypted": true,
+    "messages": [
+      {
+        "id": "m7",
+        "senderId": "bh-2",
+        "body": {
+          "en": "Rocky settled in well — here's this morning's update.",
+          "ar": "استقر روكي جيدًا — هذا تحديث هذا الصباح."
+        },
+        "sentAt": "2026-07-24T18:36:00.000Z"
+      }
+    ]
+  }
+]

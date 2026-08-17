@@ -1,0 +1,135 @@
+[
+  {
+    "id": "as-1",
+    "reference": "SUB-8100",
+    "customerId": "u-001",
+    "productId": "p-001",
+    "productName": {
+      "en": "Grain-Free Salmon Adult Dry Food 3kg",
+      "ar": "طعام جاف خالٍ من الحبوب بالسلمون ٣ كجم"
+    },
+    "productImage": "/img/stock/5731864.jpg",
+    "quantity": 2,
+    "intervalWeeks": 6,
+    "unitPrice": 189,
+    "discountPercent": 10,
+    "nextChargeAt": "2026-08-08T09:00:00.000Z",
+    "createdAt": "2025-07-26T09:00:00.000Z",
+    "cyclesCompleted": 2,
+    "totalSaved": 318,
+    "status": "active",
+    "paymentRetries": 0,
+    "paymentToken": "tok_40068870"
+  },
+  {
+    "id": "as-2",
+    "reference": "SUB-8101",
+    "customerId": "u-001",
+    "productId": "p-002",
+    "productName": {
+      "en": "Chicken & Rice Puppy Formula 5kg",
+      "ar": "تركيبة الدجاج والأرز للجراء ٥ كجم"
+    },
+    "productImage": "/img/stock/458806.jpg",
+    "quantity": 1,
+    "intervalWeeks": 4,
+    "unitPrice": 229,
+    "discountPercent": 15,
+    "nextChargeAt": "2026-08-03T09:00:00.000Z",
+    "createdAt": "2025-09-25T09:00:00.000Z",
+    "cyclesCompleted": 9,
+    "totalSaved": 135,
+    "status": "active",
+    "paymentRetries": 0,
+    "paymentToken": "tok_41068a03"
+  },
+  {
+    "id": "as-3",
+    "reference": "SUB-8102",
+    "customerId": "u-001",
+    "productId": "p-003",
+    "productName": {
+      "en": "Senior Joint Support Kibble 4kg",
+      "ar": "طعام دعم المفاصل لكبار السن ٤ كجم"
+    },
+    "productImage": "/img/stock/2607544.jpg",
+    "quantity": 2,
+    "intervalWeeks": 2,
+    "unitPrice": 265,
+    "discountPercent": 12.5,
+    "nextChargeAt": "2026-08-18T09:00:00.000Z",
+    "createdAt": "2025-10-17T09:00:00.000Z",
+    "cyclesCompleted": 14,
+    "totalSaved": 112,
+    "status": "active",
+    "paymentRetries": 0,
+    "paymentToken": "tok_42068b96"
+  },
+  {
+    "id": "as-4",
+    "reference": "SUB-8103",
+    "customerId": "u-001",
+    "productId": "p-004",
+    "productName": {
+      "en": "Indoor Hairball Control 2kg",
+      "ar": "طعام القطط المنزلية للتحكم بكرات الشعر ٢ كجم"
+    },
+    "productImage": "/img/stock/2023384.jpg",
+    "quantity": 2,
+    "intervalWeeks": 8,
+    "unitPrice": 149,
+    "discountPercent": 10,
+    "nextChargeAt": "2026-07-28T09:00:00.000Z",
+    "createdAt": "2026-04-17T09:00:00.000Z",
+    "cyclesCompleted": 1,
+    "totalSaved": 357,
+    "status": "active",
+    "paymentRetries": 0,
+    "paymentToken": "tok_43068d29"
+  },
+  {
+    "id": "as-5",
+    "reference": "SUB-8104",
+    "customerId": "u-001",
+    "productId": "p-005",
+    "productName": {
+      "en": "Tuna & Shrimp Wet Pouches 12×85g",
+      "ar": "أكياس رطبة بالتونة والروبيان ١٢×٨٥جم"
+    },
+    "productImage": "/img/stock/8434641.jpg",
+    "quantity": 1,
+    "intervalWeeks": 6,
+    "unitPrice": 96,
+    "discountPercent": 12.5,
+    "nextChargeAt": "2026-07-27T09:00:00.000Z",
+    "createdAt": "2025-05-10T09:00:00.000Z",
+    "cyclesCompleted": 12,
+    "totalSaved": 548,
+    "status": "payment_failed",
+    "paymentRetries": 1,
+    "lastFailureAt": "2026-07-23T09:00:00.000Z",
+    "paymentToken": "tok_44068ebc"
+  },
+  {
+    "id": "as-6",
+    "reference": "SUB-8105",
+    "customerId": "u-001",
+    "productId": "p-006",
+    "productName": {
+      "en": "Beef Stew Wet Trays 8×150g",
+      "ar": "يخنة اللحم أطباق رطبة ٨×١٥٠جم"
+    },
+    "productImage": "/img/stock/1108099.jpg",
+    "quantity": 2,
+    "intervalWeeks": 4,
+    "unitPrice": 118,
+    "discountPercent": 12.5,
+    "nextChargeAt": "2026-08-03T09:00:00.000Z",
+    "createdAt": "2025-08-24T09:00:00.000Z",
+    "cyclesCompleted": 21,
+    "totalSaved": 646,
+    "status": "paused",
+    "paymentRetries": 0,
+    "paymentToken": "tok_4506904f"
+  }
+]

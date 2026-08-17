@@ -1,0 +1,173 @@
+[
+  {
+    "id": "br-1",
+    "slug": "hamad-al-dosari",
+    "name": {
+      "en": "Hamad Al-Dosari",
+      "ar": "حمد الدوسري"
+    },
+    "avatar": "/img/stock/220453.jpg",
+    "cover": "/img/stock/1170986.jpg",
+    "cityId": "c-dammam",
+    "bio": {
+      "en": "Hamad Al-Dosari has been breeding for over a decade with a focus on health testing, early socialisation and full documentation for every animal.",
+      "ar": "يعمل حمد الدوسري في التربية منذ أكثر من عقد مع التركيز على الفحوصات الصحية والتنشئة المبكرة والتوثيق الكامل لكل حيوان."
+    },
+    "specialties": [
+      {
+        "en": "Health-tested lines",
+        "ar": "سلالات مفحوصة صحيًا"
+      },
+      {
+        "en": "Early socialisation",
+        "ar": "تنشئة مبكرة"
+      }
+    ],
+    "licenseNumber": "BRD-SA-8093",
+    "licenseVerified": true,
+    "verification": "approved",
+    "trustedBadge": true,
+    "rating": {
+      "average": 4.3,
+      "count": 346,
+      "breakdown": [
+        39,
+        10,
+        21,
+        62,
+        214
+      ]
+    },
+    "dealsCompleted": 39,
+    "responseMinutes": 30,
+    "joinedAt": "2025-10-26T09:00:00.000Z"
+  },
+  {
+    "id": "br-2",
+    "slug": "royal-cattery",
+    "name": {
+      "en": "Royal Cattery",
+      "ar": "كاتري الملكي"
+    },
+    "avatar": "/img/stock/774909.jpg",
+    "cover": "/img/stock/2253275.jpg",
+    "cityId": "c-riyadh",
+    "bio": {
+      "en": "Royal Cattery has been breeding for over a decade with a focus on health testing, early socialisation and full documentation for every animal.",
+      "ar": "يعمل كاتري الملكي في التربية منذ أكثر من عقد مع التركيز على الفحوصات الصحية والتنشئة المبكرة والتوثيق الكامل لكل حيوان."
+    },
+    "specialties": [
+      {
+        "en": "Health-tested lines",
+        "ar": "سلالات مفحوصة صحيًا"
+      },
+      {
+        "en": "Early socialisation",
+        "ar": "تنشئة مبكرة"
+      }
+    ],
+    "licenseNumber": "BRD-SA-6474",
+    "licenseVerified": true,
+    "verification": "approved",
+    "trustedBadge": true,
+    "rating": {
+      "average": 4.3,
+      "count": 381,
+      "breakdown": [
+        42,
+        11,
+        23,
+        69,
+        236
+      ]
+    },
+    "dealsCompleted": 12,
+    "responseMinutes": 162,
+    "joinedAt": "2024-09-23T09:00:00.000Z"
+  },
+  {
+    "id": "br-3",
+    "slug": "desert-wind-kennels",
+    "name": {
+      "en": "Desert Wind Kennels",
+      "ar": "مرابط ريح الصحراء"
+    },
+    "avatar": "/img/stock/1222271.jpg",
+    "cover": "/img/stock/1805164.jpg",
+    "cityId": "c-riyadh",
+    "bio": {
+      "en": "Desert Wind Kennels has been breeding for over a decade with a focus on health testing, early socialisation and full documentation for every animal.",
+      "ar": "يعمل مرابط ريح الصحراء في التربية منذ أكثر من عقد مع التركيز على الفحوصات الصحية والتنشئة المبكرة والتوثيق الكامل لكل حيوان."
+    },
+    "specialties": [
+      {
+        "en": "Health-tested lines",
+        "ar": "سلالات مفحوصة صحيًا"
+      },
+      {
+        "en": "Early socialisation",
+        "ar": "تنشئة مبكرة"
+      }
+    ],
+    "licenseNumber": "BRD-SA-4855",
+    "licenseVerified": true,
+    "verification": "approved",
+    "trustedBadge": false,
+    "rating": {
+      "average": 4.4,
+      "count": 283,
+      "breakdown": [
+        28,
+        8,
+        17,
+        51,
+        179
+      ]
+    },
+    "dealsCompleted": 151,
+    "responseMinutes": 149,
+    "joinedAt": "2024-02-27T09:00:00.000Z"
+  },
+  {
+    "id": "br-4",
+    "slug": "nadia-aviaries",
+    "name": {
+      "en": "Nadia Aviaries",
+      "ar": "مزارع نادية للطيور"
+    },
+    "avatar": "/img/stock/733872.jpg",
+    "cover": "/img/stock/1108099.jpg",
+    "cityId": "c-jeddah",
+    "bio": {
+      "en": "Nadia Aviaries has been breeding for over a decade with a focus on health testing, early socialisation and full documentation for every animal.",
+      "ar": "يعمل مزارع نادية للطيور في التربية منذ أكثر من عقد مع التركيز على الفحوصات الصحية والتنشئة المبكرة والتوثيق الكامل لكل حيوان."
+    },
+    "specialties": [
+      {
+        "en": "Health-tested lines",
+        "ar": "سلالات مفحوصة صحيًا"
+      },
+      {
+        "en": "Early socialisation",
+        "ar": "تنشئة مبكرة"
+      }
+    ],
+    "licenseVerified": false,
+    "verification": "pending",
+    "trustedBadge": false,
+    "rating": {
+      "average": 4.5,
+      "count": 461,
+      "breakdown": [
+        37,
+        14,
+        28,
+        83,
+        299
+      ]
+    },
+    "dealsCompleted": 179,
+    "responseMinutes": 37,
+    "joinedAt": "2024-05-26T09:00:00.000Z"
+  }
+]

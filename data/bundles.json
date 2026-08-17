@@ -1,0 +1,176 @@
+[
+  {
+    "id": "bn-1",
+    "slug": "new-cat-starter-bundle",
+    "name": {
+      "en": "New Cat Starter Bundle",
+      "ar": "باقة القط الجديد"
+    },
+    "description": {
+      "en": "Everything you need in one box — hand-picked by our veterinary team and priced below the individual total.",
+      "ar": "كل ما تحتاجه في صندوق واحد — باختيار فريقنا البيطري وبسعر أقل من شراء القطع منفردة."
+    },
+    "image": "/img/stock/1108099.jpg",
+    "species": [
+      "cat"
+    ],
+    "productIds": [
+      "p-004",
+      "p-029",
+      "p-050",
+      "p-054"
+    ],
+    "originalPrice": 547,
+    "bundlePrice": 449,
+    "badge": {
+      "en": "Save 18%",
+      "ar": "وفّر ١٨٪"
+    },
+    "popular": true
+  },
+  {
+    "id": "bn-2",
+    "slug": "new-puppy-welcome-kit",
+    "name": {
+      "en": "New Puppy Welcome Kit",
+      "ar": "باقة ترحيب الجرو"
+    },
+    "description": {
+      "en": "Everything you need in one box — hand-picked by our veterinary team and priced below the individual total.",
+      "ar": "كل ما تحتاجه في صندوق واحد — باختيار فريقنا البيطري وبسعر أقل من شراء القطع منفردة."
+    },
+    "image": "/img/stock/1851164.jpg",
+    "species": [
+      "dog"
+    ],
+    "productIds": [
+      "p-002",
+      "p-032",
+      "p-044",
+      "p-057"
+    ],
+    "originalPrice": 465,
+    "bundlePrice": 381,
+    "badge": {
+      "en": "Save 18%",
+      "ar": "وفّر ١٨٪"
+    },
+    "popular": true
+  },
+  {
+    "id": "bn-3",
+    "slug": "senior-dog-comfort-pack",
+    "name": {
+      "en": "Senior Dog Comfort Pack",
+      "ar": "باقة راحة الكلب المسن"
+    },
+    "description": {
+      "en": "Everything you need in one box — hand-picked by our veterinary team and priced below the individual total.",
+      "ar": "كل ما تحتاجه في صندوق واحد — باختيار فريقنا البيطري وبسعر أقل من شراء القطع منفردة."
+    },
+    "image": "/img/stock/458806.jpg",
+    "species": [
+      "dog"
+    ],
+    "productIds": [
+      "p-003",
+      "p-043",
+      "p-021",
+      "p-069"
+    ],
+    "originalPrice": 750,
+    "bundlePrice": 615,
+    "badge": {
+      "en": "Save 18%",
+      "ar": "وفّر ١٨٪"
+    },
+    "popular": false
+  },
+  {
+    "id": "bn-4",
+    "slug": "travel-ready-bundle",
+    "name": {
+      "en": "Travel Ready Bundle",
+      "ar": "باقة السفر الجاهزة"
+    },
+    "description": {
+      "en": "Everything you need in one box — hand-picked by our veterinary team and priced below the individual total.",
+      "ar": "كل ما تحتاجه في صندوق واحد — باختيار فريقنا البيطري وبسعر أقل من شراء القطع منفردة."
+    },
+    "image": "/img/stock/1629781.jpg",
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "productIds": [
+      "p-038",
+      "p-019",
+      "p-035"
+    ],
+    "originalPrice": 582,
+    "bundlePrice": 477,
+    "badge": {
+      "en": "Save 18%",
+      "ar": "وفّر ١٨٪"
+    },
+    "popular": false
+  },
+  {
+    "id": "bn-5",
+    "slug": "aquarium-beginner-set",
+    "name": {
+      "en": "Aquarium Beginner Set",
+      "ar": "طقم مبتدئ لحوض الأسماك"
+    },
+    "description": {
+      "en": "Everything you need in one box — hand-picked by our veterinary team and priced below the individual total.",
+      "ar": "كل ما تحتاجه في صندوق واحد — باختيار فريقنا البيطري وبسعر أقل من شراء القطع منفردة."
+    },
+    "image": "/img/stock/2023384.jpg",
+    "species": [
+      "fish"
+    ],
+    "productIds": [
+      "p-049",
+      "p-050",
+      "p-064"
+    ],
+    "originalPrice": 642,
+    "bundlePrice": 526,
+    "badge": {
+      "en": "Save 18%",
+      "ar": "وفّر ١٨٪"
+    },
+    "popular": false
+  },
+  {
+    "id": "bn-6",
+    "slug": "grooming-day-essentials",
+    "name": {
+      "en": "Grooming Day Essentials",
+      "ar": "أساسيات يوم العناية"
+    },
+    "description": {
+      "en": "Everything you need in one box — hand-picked by our veterinary team and priced below the individual total.",
+      "ar": "كل ما تحتاجه في صندوق واحد — باختيار فريقنا البيطري وبسعر أقل من شراء القطع منفردة."
+    },
+    "image": "/img/stock/333083.jpg",
+    "species": [
+      "cat",
+      "dog"
+    ],
+    "productIds": [
+      "p-023",
+      "p-026",
+      "p-028",
+      "p-017"
+    ],
+    "originalPrice": 313,
+    "bundlePrice": 257,
+    "badge": {
+      "en": "Save 18%",
+      "ar": "وفّر ١٨٪"
+    },
+    "popular": false
+  }
+]

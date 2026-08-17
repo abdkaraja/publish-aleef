@@ -1,0 +1,394 @@
+[
+  {
+    "id": "aa-1",
+    "listingId": "ad-1",
+    "applicantId": "u-200",
+    "applicantName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "submittedAt": "2026-06-20T09:00:00.000Z",
+    "assessment": {
+      "housingType": "farm",
+      "hasOutdoorSpace": true,
+      "householdMembers": 1,
+      "hasChildren": true,
+      "otherPets": 3,
+      "previousExperience": "none",
+      "hoursAloneDaily": 1,
+      "monthlyBudget": 1204,
+      "landlordApproval": true,
+      "commitmentAccepted": true
+    },
+    "score": 76,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "submitted"
+  },
+  {
+    "id": "aa-2",
+    "listingId": "ad-2",
+    "applicantId": "u-201",
+    "applicantName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "submittedAt": "2026-07-09T09:00:00.000Z",
+    "assessment": {
+      "housingType": "villa",
+      "hasOutdoorSpace": false,
+      "householdMembers": 4,
+      "hasChildren": false,
+      "otherPets": 0,
+      "previousExperience": "some",
+      "hoursAloneDaily": 8,
+      "monthlyBudget": 352,
+      "landlordApproval": true,
+      "commitmentAccepted": true
+    },
+    "score": 49,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "declined"
+  },
+  {
+    "id": "aa-3",
+    "listingId": "ad-3",
+    "applicantId": "u-202",
+    "applicantName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "submittedAt": "2026-07-08T09:00:00.000Z",
+    "assessment": {
+      "housingType": "farm",
+      "hasOutdoorSpace": true,
+      "householdMembers": 3,
+      "hasChildren": true,
+      "otherPets": 3,
+      "previousExperience": "some",
+      "hoursAloneDaily": 5,
+      "monthlyBudget": 845,
+      "landlordApproval": false,
+      "commitmentAccepted": true
+    },
+    "score": 78,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "submitted"
+  },
+  {
+    "id": "aa-4",
+    "listingId": "ad-4",
+    "applicantId": "u-203",
+    "applicantName": {
+      "en": "Khalid M.",
+      "ar": "خالد م."
+    },
+    "submittedAt": "2026-06-23T09:00:00.000Z",
+    "assessment": {
+      "housingType": "farm",
+      "hasOutdoorSpace": false,
+      "householdMembers": 6,
+      "hasChildren": false,
+      "otherPets": 2,
+      "previousExperience": "none",
+      "hoursAloneDaily": 4,
+      "monthlyBudget": 993,
+      "landlordApproval": false,
+      "commitmentAccepted": true
+    },
+    "score": 51,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "declined"
+  },
+  {
+    "id": "aa-5",
+    "listingId": "ad-5",
+    "applicantId": "u-204",
+    "applicantName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "submittedAt": "2026-07-06T09:00:00.000Z",
+    "assessment": {
+      "housingType": "villa",
+      "hasOutdoorSpace": true,
+      "householdMembers": 5,
+      "hasChildren": true,
+      "otherPets": 1,
+      "previousExperience": "none",
+      "hoursAloneDaily": 3,
+      "monthlyBudget": 510,
+      "landlordApproval": true,
+      "commitmentAccepted": true
+    },
+    "score": 80,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "submitted"
+  },
+  {
+    "id": "aa-6",
+    "listingId": "ad-6",
+    "applicantId": "u-205",
+    "applicantName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "submittedAt": "2026-06-25T09:00:00.000Z",
+    "assessment": {
+      "housingType": "farm",
+      "hasOutdoorSpace": false,
+      "householdMembers": 6,
+      "hasChildren": false,
+      "otherPets": 0,
+      "previousExperience": "some",
+      "hoursAloneDaily": 8,
+      "monthlyBudget": 473,
+      "landlordApproval": false,
+      "commitmentAccepted": true
+    },
+    "score": 53,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "declined"
+  },
+  {
+    "id": "aa-7",
+    "listingId": "ad-7",
+    "applicantId": "u-206",
+    "applicantName": {
+      "en": "Nora A.",
+      "ar": "نورة ع."
+    },
+    "submittedAt": "2026-07-12T09:00:00.000Z",
+    "assessment": {
+      "housingType": "farm",
+      "hasOutdoorSpace": true,
+      "householdMembers": 1,
+      "hasChildren": true,
+      "otherPets": 3,
+      "previousExperience": "some",
+      "hoursAloneDaily": 1,
+      "monthlyBudget": 249,
+      "landlordApproval": true,
+      "commitmentAccepted": true
+    },
+    "score": 82,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "submitted"
+  },
+  {
+    "id": "aa-8",
+    "listingId": "ad-8",
+    "applicantId": "u-207",
+    "applicantName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "submittedAt": "2026-06-27T09:00:00.000Z",
+    "assessment": {
+      "housingType": "farm",
+      "hasOutdoorSpace": false,
+      "householdMembers": 4,
+      "hasChildren": false,
+      "otherPets": 2,
+      "previousExperience": "extensive",
+      "hoursAloneDaily": 2,
+      "monthlyBudget": 794,
+      "landlordApproval": true,
+      "commitmentAccepted": true
+    },
+    "score": 55,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "declined"
+  },
+  {
+    "id": "aa-9",
+    "listingId": "ad-9",
+    "applicantId": "u-208",
+    "applicantName": {
+      "en": "Reem K.",
+      "ar": "ريم ك."
+    },
+    "submittedAt": "2026-07-06T09:00:00.000Z",
+    "assessment": {
+      "housingType": "villa",
+      "hasOutdoorSpace": true,
+      "householdMembers": 1,
+      "hasChildren": true,
+      "otherPets": 3,
+      "previousExperience": "some",
+      "hoursAloneDaily": 5,
+      "monthlyBudget": 433,
+      "landlordApproval": true,
+      "commitmentAccepted": true
+    },
+    "score": 84,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "shortlisted"
+  },
+  {
+    "id": "aa-10",
+    "listingId": "ad-10",
+    "applicantId": "u-209",
+    "applicantName": {
+      "en": "Faisal R.",
+      "ar": "فيصل ر."
+    },
+    "submittedAt": "2026-06-21T09:00:00.000Z",
+    "assessment": {
+      "housingType": "apartment",
+      "hasOutdoorSpace": false,
+      "householdMembers": 2,
+      "hasChildren": false,
+      "otherPets": 0,
+      "previousExperience": "extensive",
+      "hoursAloneDaily": 2,
+      "monthlyBudget": 504,
+      "landlordApproval": true,
+      "commitmentAccepted": true
+    },
+    "score": 57,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "declined"
+  },
+  {
+    "id": "aa-11",
+    "listingId": "ad-11",
+    "applicantId": "u-210",
+    "applicantName": {
+      "en": "Yousef B.",
+      "ar": "يوسف ب."
+    },
+    "submittedAt": "2026-06-29T09:00:00.000Z",
+    "assessment": {
+      "housingType": "villa",
+      "hasOutdoorSpace": false,
+      "householdMembers": 2,
+      "hasChildren": false,
+      "otherPets": 2,
+      "previousExperience": "none",
+      "hoursAloneDaily": 4,
+      "monthlyBudget": 465,
+      "landlordApproval": false,
+      "commitmentAccepted": true
+    },
+    "score": 73,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "submitted"
+  },
+  {
+    "id": "aa-12",
+    "listingId": "ad-12",
+    "applicantId": "u-211",
+    "applicantName": {
+      "en": "Layla H.",
+      "ar": "ليلى ه."
+    },
+    "submittedAt": "2026-06-22T09:00:00.000Z",
+    "assessment": {
+      "housingType": "apartment",
+      "hasOutdoorSpace": true,
+      "householdMembers": 1,
+      "hasChildren": true,
+      "otherPets": 1,
+      "previousExperience": "some",
+      "hoursAloneDaily": 5,
+      "monthlyBudget": 993,
+      "landlordApproval": true,
+      "commitmentAccepted": true
+    },
+    "score": 46,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "declined"
+  },
+  {
+    "id": "aa-13",
+    "listingId": "ad-1",
+    "applicantId": "u-212",
+    "applicantName": {
+      "en": "Omar S.",
+      "ar": "عمر س."
+    },
+    "submittedAt": "2026-06-21T09:00:00.000Z",
+    "assessment": {
+      "housingType": "villa",
+      "hasOutdoorSpace": false,
+      "householdMembers": 6,
+      "hasChildren": false,
+      "otherPets": 0,
+      "previousExperience": "some",
+      "hoursAloneDaily": 2,
+      "monthlyBudget": 285,
+      "landlordApproval": false,
+      "commitmentAccepted": true
+    },
+    "score": 75,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "submitted"
+  },
+  {
+    "id": "aa-14",
+    "listingId": "ad-2",
+    "applicantId": "u-213",
+    "applicantName": {
+      "en": "Sara T.",
+      "ar": "سارة ت."
+    },
+    "submittedAt": "2026-07-06T09:00:00.000Z",
+    "assessment": {
+      "housingType": "farm",
+      "hasOutdoorSpace": true,
+      "householdMembers": 5,
+      "hasChildren": true,
+      "otherPets": 3,
+      "previousExperience": "none",
+      "hoursAloneDaily": 5,
+      "monthlyBudget": 877,
+      "landlordApproval": false,
+      "commitmentAccepted": true
+    },
+    "score": 48,
+    "motivation": {
+      "en": "We have wanted to welcome a rescue for a long time and finally have the space and time to do it properly.",
+      "ar": "كنا نرغب منذ وقت طويل في استقبال حيوان مُنقذ، وأصبح لدينا الآن المساحة والوقت الكافيان."
+    },
+    "status": "declined"
+  }
+]

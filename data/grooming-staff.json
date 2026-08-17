@@ -1,0 +1,230 @@
+[
+  {
+    "id": "gst-1",
+    "name": {
+      "en": "Tariq Nassar",
+      "ar": "طارق نصار"
+    },
+    "avatar": "/img/stock/220453.jpg",
+    "role": {
+      "en": "Senior grooming specialist",
+      "ar": "أخصائي عناية أول"
+    },
+    "cityId": "c-riyadh",
+    "districts": [
+      "Al Olaya",
+      "Al Malqa",
+      "Al Narjis"
+    ],
+    "skills": [
+      {
+        "en": "Low-stress handling",
+        "ar": "تعامل منخفض التوتر"
+      },
+      {
+        "en": "Breed-specific styling",
+        "ar": "تصفيف حسب السلالة"
+      }
+    ],
+    "rating": {
+      "average": 4.5,
+      "count": 330,
+      "breakdown": [
+        27,
+        10,
+        20,
+        59,
+        214
+      ]
+    },
+    "sessionsCompleted": 1269,
+    "punctualityRate": 98,
+    "mobileVan": true,
+    "vanPlate": "RUH 6224",
+    "available": true,
+    "weeklyCapacity": 32,
+    "bookedThisWeek": 12
+  },
+  {
+    "id": "gst-2",
+    "name": {
+      "en": "Amal Sadiq",
+      "ar": "أمل صادق"
+    },
+    "avatar": "/img/stock/774909.jpg",
+    "role": {
+      "en": "Senior grooming specialist",
+      "ar": "أخصائي عناية أول"
+    },
+    "cityId": "c-riyadh",
+    "districts": [
+      "Al Olaya",
+      "Al Malqa",
+      "Al Narjis"
+    ],
+    "skills": [
+      {
+        "en": "Low-stress handling",
+        "ar": "تعامل منخفض التوتر"
+      },
+      {
+        "en": "Breed-specific styling",
+        "ar": "تصفيف حسب السلالة"
+      }
+    ],
+    "rating": {
+      "average": 4.5,
+      "count": 157,
+      "breakdown": [
+        13,
+        5,
+        9,
+        28,
+        102
+      ]
+    },
+    "sessionsCompleted": 1065,
+    "punctualityRate": 93,
+    "mobileVan": false,
+    "available": true,
+    "weeklyCapacity": 32,
+    "bookedThisWeek": 19
+  },
+  {
+    "id": "gst-3",
+    "name": {
+      "en": "Bilal Haddad",
+      "ar": "بلال حداد"
+    },
+    "avatar": "/img/stock/1222271.jpg",
+    "role": {
+      "en": "Senior grooming specialist",
+      "ar": "أخصائي عناية أول"
+    },
+    "cityId": "c-jeddah",
+    "districts": [
+      "Al Rawdah",
+      "Al Shatea",
+      "Al Salamah"
+    ],
+    "skills": [
+      {
+        "en": "Low-stress handling",
+        "ar": "تعامل منخفض التوتر"
+      },
+      {
+        "en": "Breed-specific styling",
+        "ar": "تصفيف حسب السلالة"
+      }
+    ],
+    "rating": {
+      "average": 4.6,
+      "count": 389,
+      "breakdown": [
+        26,
+        12,
+        23,
+        70,
+        258
+      ]
+    },
+    "sessionsCompleted": 213,
+    "punctualityRate": 92,
+    "mobileVan": true,
+    "vanPlate": "RUH 1538",
+    "available": true,
+    "weeklyCapacity": 32,
+    "bookedThisWeek": 14
+  },
+  {
+    "id": "gst-4",
+    "name": {
+      "en": "Rana Qasim",
+      "ar": "رنا قاسم"
+    },
+    "avatar": "/img/stock/1516680.jpg",
+    "role": {
+      "en": "Senior grooming specialist",
+      "ar": "أخصائي عناية أول"
+    },
+    "cityId": "c-riyadh",
+    "districts": [
+      "Al Olaya",
+      "Al Malqa",
+      "Al Narjis"
+    ],
+    "skills": [
+      {
+        "en": "Low-stress handling",
+        "ar": "تعامل منخفض التوتر"
+      },
+      {
+        "en": "Breed-specific styling",
+        "ar": "تصفيف حسب السلالة"
+      }
+    ],
+    "rating": {
+      "average": 4.9,
+      "count": 244,
+      "breakdown": [
+        6,
+        7,
+        15,
+        44,
+        172
+      ]
+    },
+    "sessionsCompleted": 1430,
+    "punctualityRate": 97,
+    "mobileVan": false,
+    "available": false,
+    "weeklyCapacity": 32,
+    "bookedThisWeek": 23
+  },
+  {
+    "id": "gst-5",
+    "name": {
+      "en": "Ziad Marwan",
+      "ar": "زياد مروان"
+    },
+    "avatar": "/img/stock/1239291.jpg",
+    "role": {
+      "en": "Senior grooming specialist",
+      "ar": "أخصائي عناية أول"
+    },
+    "cityId": "c-dammam",
+    "districts": [
+      "Al Faisaliyah",
+      "Al Shatea",
+      "Uhud"
+    ],
+    "skills": [
+      {
+        "en": "Low-stress handling",
+        "ar": "تعامل منخفض التوتر"
+      },
+      {
+        "en": "Breed-specific styling",
+        "ar": "تصفيف حسب السلالة"
+      }
+    ],
+    "rating": {
+      "average": 4.9,
+      "count": 104,
+      "breakdown": [
+        3,
+        3,
+        6,
+        19,
+        73
+      ]
+    },
+    "sessionsCompleted": 569,
+    "punctualityRate": 94,
+    "mobileVan": true,
+    "vanPlate": "RUH 6636",
+    "available": true,
+    "weeklyCapacity": 32,
+    "bookedThisWeek": 24
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "id": "cat-food",
+    "slug": "food-nutrition",
+    "name": {
+      "en": "Food & Nutrition",
+      "ar": "الغذاء والتغذية"
+    },
+    "icon": "bone",
+    "featured": true,
+    "image": "/img/stock/1851164.jpg",
+    "species": [
+      "cat",
+      "dog",
+      "bird",
+      "fish",
+      "rabbit",
+      "reptile",
+      "hamster"
+    ],
+    "children": [
+      {
+        "id": "cat-dry-food",
+        "slug": "dry-food",
+        "name": {
+          "en": "Dry food",
+          "ar": "طعام جاف"
+        },
+        "icon": "package",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-wet-food",
+        "slug": "wet-food",
+        "name": {
+          "en": "Wet food",
+          "ar": "طعام رطب"
+        },
+        "icon": "droplet",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-treats",
+        "slug": "treats-snacks",
+        "name": {
+          "en": "Treats & snacks",
+          "ar": "مكافآت وحلويات"
+        },
+        "icon": "gift",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-supplements",
+        "slug": "supplements",
+        "name": {
+          "en": "Supplements",
+          "ar": "مكملات غذائية"
+        },
+        "icon": "pill",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-prescription-diet",
+        "slug": "prescription-diets",
+        "name": {
+          "en": "Prescription diets",
+          "ar": "أنظمة علاجية"
+        },
+        "icon": "clipboard",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cat-health",
+    "slug": "health-medicine",
+    "name": {
+      "en": "Health & Medicine",
+      "ar": "الصحة والدواء"
+    },
+    "icon": "heart-pulse",
+    "featured": true,
+    "image": "/img/stock/1108099.jpg",
+    "species": [
+      "cat",
+      "dog",
+      "bird",
+      "fish",
+      "rabbit",
+      "reptile",
+      "hamster"
+    ],
+    "children": [
+      {
+        "id": "cat-parasite",
+        "slug": "flea-tick",
+        "name": {
+          "en": "Flea & tick",
+          "ar": "البراغيث والقراد"
+        },
+        "icon": "shield-check",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-dental",
+        "slug": "dental-care",
+        "name": {
+          "en": "Dental care",
+          "ar": "العناية بالأسنان"
+        },
+        "icon": "sparkles",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-first-aid",
+        "slug": "first-aid",
+        "name": {
+          "en": "First aid",
+          "ar": "الإسعافات الأولية"
+        },
+        "icon": "syringe",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-vitamins",
+        "slug": "vitamins",
+        "name": {
+          "en": "Vitamins",
+          "ar": "الفيتامينات"
+        },
+        "icon": "pill",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cat-grooming",
+    "slug": "grooming-hygiene",
+    "name": {
+      "en": "Grooming & Hygiene",
+      "ar": "العناية والنظافة"
+    },
+    "icon": "scissors",
+    "featured": true,
+    "image": "/img/stock/1108099.jpg",
+    "species": [
+      "cat",
+      "dog",
+      "bird",
+      "fish",
+      "rabbit",
+      "reptile",
+      "hamster"
+    ],
+    "children": [
+      {
+        "id": "cat-shampoo",
+        "slug": "shampoo-conditioner",
+        "name": {
+          "en": "Shampoo & conditioner",
+          "ar": "شامبو وبلسم"
+        },
+        "icon": "droplet",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-brushes",
+        "slug": "brushes-clippers",
+        "name": {
+          "en": "Brushes & clippers",
+          "ar": "فرش ومقصات"
+        },
+        "icon": "scissors",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-litter",
+        "slug": "litter-pads",
+        "name": {
+          "en": "Litter & pads",
+          "ar": "الرمل والحفاضات"
+        },
+        "icon": "package",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cat-accessories",
+    "slug": "accessories",
+    "name": {
+      "en": "Accessories",
+      "ar": "الإكسسوارات"
+    },
+    "icon": "tag",
+    "featured": true,
+    "image": "/img/stock/1108099.jpg",
+    "species": [
+      "cat",
+      "dog",
+      "bird",
+      "fish",
+      "rabbit",
+      "reptile",
+      "hamster"
+    ],
+    "children": [
+      {
+        "id": "cat-collars",
+        "slug": "collars-leashes",
+        "name": {
+          "en": "Collars & leashes",
+          "ar": "أطواق ومقاود"
+        },
+        "icon": "tag",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-smart",
+        "slug": "smart-trackers",
+        "name": {
+          "en": "Smart trackers",
+          "ar": "أجهزة تتبع ذكية"
+        },
+        "icon": "qr-code",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-carriers",
+        "slug": "carriers-travel",
+        "name": {
+          "en": "Carriers & travel",
+          "ar": "أقفاص وسفر"
+        },
+        "icon": "briefcase",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-bowls",
+        "slug": "bowls-feeders",
+        "name": {
+          "en": "Bowls & feeders",
+          "ar": "أوعية ومغذيات"
+        },
+        "icon": "droplet",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cat-home",
+    "slug": "home-comfort",
+    "name": {
+      "en": "Home & Comfort",
+      "ar": "المنزل والراحة"
+    },
+    "icon": "home",
+    "featured": false,
+    "image": "/img/stock/5731864.jpg",
+    "species": [
+      "cat",
+      "dog",
+      "bird",
+      "fish",
+      "rabbit",
+      "reptile",
+      "hamster"
+    ],
+    "children": [
+      {
+        "id": "cat-beds",
+        "slug": "beds-mats",
+        "name": {
+          "en": "Beds & mats",
+          "ar": "أسرّة وفرش"
+        },
+        "icon": "home",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-houses",
+        "slug": "houses-cages",
+        "name": {
+          "en": "Houses & cages",
+          "ar": "بيوت وأقفاص"
+        },
+        "icon": "hotel",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-aquarium",
+        "slug": "aquariums",
+        "name": {
+          "en": "Aquariums",
+          "ar": "أحواض الأسماك"
+        },
+        "icon": "fish",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cat-play",
+    "slug": "toys-training",
+    "name": {
+      "en": "Toys & Training",
+      "ar": "الألعاب والتدريب"
+    },
+    "icon": "zap",
+    "featured": false,
+    "image": "/img/stock/1108099.jpg",
+    "species": [
+      "cat",
+      "dog",
+      "bird",
+      "fish",
+      "rabbit",
+      "reptile",
+      "hamster"
+    ],
+    "children": [
+      {
+        "id": "cat-toys",
+        "slug": "interactive-toys",
+        "name": {
+          "en": "Interactive toys",
+          "ar": "ألعاب تفاعلية"
+        },
+        "icon": "zap",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-scratchers",
+        "slug": "scratchers-climbing",
+        "name": {
+          "en": "Scratchers & climbing",
+          "ar": "مخالب وتسلق"
+        },
+        "icon": "layers",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      },
+      {
+        "id": "cat-training",
+        "slug": "training-aids",
+        "name": {
+          "en": "Training aids",
+          "ar": "أدوات التدريب"
+        },
+        "icon": "target",
+        "species": [
+          "cat",
+          "dog",
+          "bird",
+          "fish",
+          "rabbit",
+          "reptile",
+          "hamster"
+        ]
+      }
+    ]
+  }
+]

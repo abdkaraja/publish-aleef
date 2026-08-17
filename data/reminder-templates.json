@@ -1,0 +1,158 @@
+[
+  {
+    "id": "rt-1",
+    "key": "vaccination_due",
+    "name": {
+      "en": "Vaccination due",
+      "ar": "تذكير التطعيم"
+    },
+    "channel": "push",
+    "subject": {
+      "en": "Vaccination due",
+      "ar": "تذكير التطعيم"
+    },
+    "body": {
+      "en": "Hi {{ownerName}}, {{petName}} is due for {{item}} in {{days}} days. Tap to take care of it now.",
+      "ar": "مرحبًا {{ownerName}}، يحتاج {{petName}} إلى {{item}} خلال {{days}} أيام. اضغط للإجراء الآن."
+    },
+    "variables": [
+      "ownerName",
+      "petName",
+      "item",
+      "days"
+    ],
+    "openRate": 29,
+    "conversionRate": 15,
+    "active": true
+  },
+  {
+    "id": "rt-2",
+    "key": "food_refill",
+    "name": {
+      "en": "Food running low",
+      "ar": "اقتراب نفاد الطعام"
+    },
+    "channel": "push",
+    "subject": {
+      "en": "Food running low",
+      "ar": "اقتراب نفاد الطعام"
+    },
+    "body": {
+      "en": "Hi {{ownerName}}, {{petName}} is due for {{item}} in {{days}} days. Tap to take care of it now.",
+      "ar": "مرحبًا {{ownerName}}، يحتاج {{petName}} إلى {{item}} خلال {{days}} أيام. اضغط للإجراء الآن."
+    },
+    "variables": [
+      "ownerName",
+      "petName",
+      "item",
+      "days"
+    ],
+    "openRate": 53,
+    "conversionRate": 9,
+    "active": true
+  },
+  {
+    "id": "rt-3",
+    "key": "booking_reminder",
+    "name": {
+      "en": "Appointment in 2 hours",
+      "ar": "موعدك بعد ساعتين"
+    },
+    "channel": "sms",
+    "subject": {
+      "en": "Appointment in 2 hours",
+      "ar": "موعدك بعد ساعتين"
+    },
+    "body": {
+      "en": "Hi {{ownerName}}, {{petName}} is due for {{item}} in {{days}} days. Tap to take care of it now.",
+      "ar": "مرحبًا {{ownerName}}، يحتاج {{petName}} إلى {{item}} خلال {{days}} أيام. اضغط للإجراء الآن."
+    },
+    "variables": [
+      "ownerName",
+      "petName",
+      "item",
+      "days"
+    ],
+    "openRate": 43,
+    "conversionRate": 12,
+    "active": true
+  },
+  {
+    "id": "rt-4",
+    "key": "subscription_renewal",
+    "name": {
+      "en": "Subscription renews soon",
+      "ar": "تجديد الاشتراك قريبًا"
+    },
+    "channel": "email",
+    "subject": {
+      "en": "Subscription renews soon",
+      "ar": "تجديد الاشتراك قريبًا"
+    },
+    "body": {
+      "en": "Hi {{ownerName}}, {{petName}} is due for {{item}} in {{days}} days. Tap to take care of it now.",
+      "ar": "مرحبًا {{ownerName}}، يحتاج {{petName}} إلى {{item}} خلال {{days}} أيام. اضغط للإجراء الآن."
+    },
+    "variables": [
+      "ownerName",
+      "petName",
+      "item",
+      "days"
+    ],
+    "openRate": 61,
+    "conversionRate": 13,
+    "active": true
+  },
+  {
+    "id": "rt-5",
+    "key": "lost_pet_alert",
+    "name": {
+      "en": "Lost pet nearby",
+      "ar": "حيوان مفقود بالقرب منك"
+    },
+    "channel": "push",
+    "subject": {
+      "en": "Lost pet nearby",
+      "ar": "حيوان مفقود بالقرب منك"
+    },
+    "body": {
+      "en": "Hi {{ownerName}}, {{petName}} is due for {{item}} in {{days}} days. Tap to take care of it now.",
+      "ar": "مرحبًا {{ownerName}}، يحتاج {{petName}} إلى {{item}} خلال {{days}} أيام. اضغط للإجراء الآن."
+    },
+    "variables": [
+      "ownerName",
+      "petName",
+      "item",
+      "days"
+    ],
+    "openRate": 58,
+    "conversionRate": 19,
+    "active": true
+  },
+  {
+    "id": "rt-6",
+    "key": "points_expiring",
+    "name": {
+      "en": "Your points expire soon",
+      "ar": "نقاطك على وشك الانتهاء"
+    },
+    "channel": "email",
+    "subject": {
+      "en": "Your points expire soon",
+      "ar": "نقاطك على وشك الانتهاء"
+    },
+    "body": {
+      "en": "Hi {{ownerName}}, {{petName}} is due for {{item}} in {{days}} days. Tap to take care of it now.",
+      "ar": "مرحبًا {{ownerName}}، يحتاج {{petName}} إلى {{item}} خلال {{days}} أيام. اضغط للإجراء الآن."
+    },
+    "variables": [
+      "ownerName",
+      "petName",
+      "item",
+      "days"
+    ],
+    "openRate": 56,
+    "conversionRate": 17,
+    "active": false
+  }
+]

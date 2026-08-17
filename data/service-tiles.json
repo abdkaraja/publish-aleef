@@ -1,0 +1,156 @@
+[
+  {
+    "id": "st-1",
+    "name": {
+      "en": "Supplies store",
+      "ar": "متجر المستلزمات"
+    },
+    "description": {
+      "en": "Food, health, toys and accessories curated by vets.",
+      "ar": "طعام وصحة وألعاب وإكسسوارات باختيار الأطباء."
+    },
+    "icon": "store",
+    "link": "/shop",
+    "tone": "brand"
+  },
+  {
+    "id": "st-2",
+    "name": {
+      "en": "Vet consultations",
+      "ar": "استشارات بيطرية"
+    },
+    "description": {
+      "en": "Chat or video with a licensed vet in minutes.",
+      "ar": "محادثة أو مكالمة مع طبيب مرخّص خلال دقائق."
+    },
+    "icon": "stethoscope",
+    "link": "/vets",
+    "tone": "care"
+  },
+  {
+    "id": "st-3",
+    "name": {
+      "en": "Medical record",
+      "ar": "السجل الطبي"
+    },
+    "description": {
+      "en": "One digital health file that follows your pet for life.",
+      "ar": "ملف صحي رقمي يرافق حيوانك مدى الحياة."
+    },
+    "icon": "heart-pulse",
+    "link": "/account/pets",
+    "tone": "brand"
+  },
+  {
+    "id": "st-4",
+    "name": {
+      "en": "Grooming & care",
+      "ar": "العناية والتجميل"
+    },
+    "description": {
+      "en": "At our centre or at your door with a mobile van.",
+      "ar": "في مركزنا أو أمام بابك بعربة متنقلة."
+    },
+    "icon": "scissors",
+    "link": "/grooming",
+    "tone": "accent"
+  },
+  {
+    "id": "st-5",
+    "name": {
+      "en": "Boarding & sitting",
+      "ar": "الإيواء والاستضافة"
+    },
+    "description": {
+      "en": "Verified hosts with escrow-protected payments.",
+      "ar": "مضيفون موثّقون مع دفع محمي بالضمان."
+    },
+    "icon": "hotel",
+    "link": "/boarding",
+    "tone": "brand"
+  },
+  {
+    "id": "st-6",
+    "name": {
+      "en": "Adoption",
+      "ar": "التبنّي"
+    },
+    "description": {
+      "en": "Moderated listings from shelters and individuals.",
+      "ar": "إعلانات مراجَعة من الملاجئ والأفراد."
+    },
+    "icon": "hand-heart",
+    "link": "/adoption",
+    "tone": "rescue"
+  },
+  {
+    "id": "st-7",
+    "name": {
+      "en": "Lost & found",
+      "ar": "المفقودات"
+    },
+    "description": {
+      "en": "Geo-targeted alerts and smart photo matching.",
+      "ar": "تنبيهات جغرافية ومطابقة ذكية للصور."
+    },
+    "icon": "siren",
+    "link": "/lost-found",
+    "tone": "rescue"
+  },
+  {
+    "id": "st-8",
+    "name": {
+      "en": "Buy, rent & mating",
+      "ar": "البيع والتأجير"
+    },
+    "description": {
+      "en": "A regulated marketplace for verified breeders.",
+      "ar": "سوق منظّم للمربّين الموثّقين."
+    },
+    "icon": "tag",
+    "link": "/marketplace",
+    "tone": "accent"
+  },
+  {
+    "id": "st-9",
+    "name": {
+      "en": "Subscriptions",
+      "ar": "الاشتراكات"
+    },
+    "description": {
+      "en": "Autoship consumables and save on every delivery.",
+      "ar": "شحن تلقائي للمستهلكات وتوفير في كل توصيلة."
+    },
+    "icon": "repeat",
+    "link": "/subscriptions",
+    "tone": "loyal"
+  },
+  {
+    "id": "st-10",
+    "name": {
+      "en": "Smart reminders",
+      "ar": "التذكيرات الذكية"
+    },
+    "description": {
+      "en": "Vaccination, medication and refill alerts.",
+      "ar": "تنبيهات التطعيم والدواء وإعادة الشراء."
+    },
+    "icon": "bell",
+    "link": "/account/reminders",
+    "tone": "care"
+  },
+  {
+    "id": "st-11",
+    "name": {
+      "en": "Rewards & points",
+      "ar": "المكافآت والنقاط"
+    },
+    "description": {
+      "en": "Earn on purchases, bookings and good deeds.",
+      "ar": "اكسب من الشراء والحجوزات والأعمال الطيبة."
+    },
+    "icon": "award",
+    "link": "/loyalty",
+    "tone": "loyal"
+  }
+]

@@ -1,0 +1,1761 @@
+{
+  "headline": [
+    {
+      "id": "k-gmv",
+      "label": {
+        "en": "Gross merchandise value",
+        "ar": "إجمالي قيمة المبيعات"
+      },
+      "value": 1284600,
+      "unit": "currency",
+      "delta": 12.4,
+      "tone": "brand",
+      "trend": [
+        141580,
+        152059,
+        167823,
+        167101,
+        182865,
+        193344,
+        197907,
+        208386
+      ]
+    },
+    {
+      "id": "k-orders",
+      "label": {
+        "en": "Orders this month",
+        "ar": "الطلبات هذا الشهر"
+      },
+      "value": 3184,
+      "unit": "count",
+      "delta": 8.1,
+      "tone": "accent",
+      "trend": [
+        397,
+        422,
+        437,
+        461,
+        495,
+        519,
+        534,
+        559
+      ]
+    },
+    {
+      "id": "k-mrr",
+      "label": {
+        "en": "Monthly recurring revenue",
+        "ar": "الإيراد الشهري المتكرر"
+      },
+      "value": 118400,
+      "unit": "currency",
+      "delta": 6.7,
+      "tone": "loyal",
+      "trend": [
+        14910,
+        15077,
+        16365,
+        17653,
+        17820,
+        19108,
+        20396,
+        20563
+      ]
+    },
+    {
+      "id": "k-aov",
+      "label": {
+        "en": "Average order value",
+        "ar": "متوسط قيمة الطلب"
+      },
+      "value": 403,
+      "unit": "currency",
+      "delta": 2.9,
+      "tone": "care",
+      "trend": [
+        397,
+        406,
+        405,
+        413,
+        431,
+        439,
+        438,
+        447
+      ]
+    },
+    {
+      "id": "k-consults",
+      "label": {
+        "en": "Consultations completed",
+        "ar": "الاستشارات المكتملة"
+      },
+      "value": 1462,
+      "unit": "count",
+      "delta": 18.3,
+      "tone": "care",
+      "trend": [
+        173,
+        180,
+        200,
+        208,
+        228,
+        235,
+        256,
+        263
+      ]
+    },
+    {
+      "id": "k-active",
+      "label": {
+        "en": "Active pet profiles",
+        "ar": "ملفات حيوانات نشطة"
+      },
+      "value": 18420,
+      "unit": "count",
+      "delta": 4.2,
+      "tone": "brand",
+      "trend": [
+        2192,
+        2307,
+        2322,
+        2437,
+        2483,
+        2598,
+        2782,
+        2897
+      ]
+    },
+    {
+      "id": "k-churn",
+      "label": {
+        "en": "Subscription churn",
+        "ar": "تسرّب الاشتراكات"
+      },
+      "value": 3.4,
+      "unit": "percent",
+      "delta": -0.6,
+      "tone": "success",
+      "trend": [
+        5.1,
+        4.8,
+        4.4,
+        4.1,
+        3.9,
+        3.7,
+        3.5,
+        3.4
+      ]
+    },
+    {
+      "id": "k-nps",
+      "label": {
+        "en": "Customer satisfaction",
+        "ar": "رضا العملاء"
+      },
+      "value": 4.8,
+      "unit": "count",
+      "delta": 1.1,
+      "tone": "success",
+      "trend": [
+        4.5,
+        4.6,
+        4.6,
+        4.7,
+        4.7,
+        4.7,
+        4.8,
+        4.8
+      ]
+    }
+  ],
+  "revenueByMonth": [
+    {
+      "month": "Feb",
+      "store": 320931,
+      "services": 147007,
+      "subscriptions": 66198
+    },
+    {
+      "month": "Mar",
+      "store": 366129,
+      "services": 168272,
+      "subscriptions": 76803
+    },
+    {
+      "month": "Apr",
+      "store": 390576,
+      "services": 194944,
+      "subscriptions": 83830
+    },
+    {
+      "month": "May",
+      "store": 400276,
+      "services": 209980,
+      "subscriptions": 94948
+    },
+    {
+      "month": "Jun",
+      "store": 432355,
+      "services": 212941,
+      "subscriptions": 100442
+    },
+    {
+      "month": "Jul",
+      "store": 476545,
+      "services": 249229,
+      "subscriptions": 110398
+    }
+  ],
+  "revenueStreams": [
+    {
+      "id": "rs-1",
+      "name": {
+        "en": "Store margin",
+        "ar": "هامش المتجر"
+      },
+      "mechanism": {
+        "en": "Difference between supplier cost and retail price",
+        "ar": "الفرق بين سعر المورد وسعر البيع"
+      },
+      "notes": {
+        "en": "Primary and most stable source",
+        "ar": "المصدر الأساسي والأكثر استقرارًا"
+      },
+      "monthlyValue": 486000,
+      "sharePercent": 41,
+      "tone": "brand"
+    },
+    {
+      "id": "rs-2",
+      "name": {
+        "en": "Consultation commission",
+        "ar": "عمولة الاستشارات"
+      },
+      "mechanism": {
+        "en": "20% platform / 80% veterinarian",
+        "ar": "٢٠٪ للمنصة و٨٠٪ للطبيب"
+      },
+      "notes": {
+        "en": "Adjustable per specialty",
+        "ar": "قابلة للتعديل حسب التخصص"
+      },
+      "monthlyValue": 142000,
+      "sharePercent": 12,
+      "tone": "care"
+    },
+    {
+      "id": "rs-3",
+      "name": {
+        "en": "Boarding commission",
+        "ar": "عمولة الإيواء"
+      },
+      "mechanism": {
+        "en": "15%–25% of each booking value",
+        "ar": "١٥٪–٢٥٪ من قيمة كل حجز"
+      },
+      "notes": {
+        "en": "Funds held in escrow until check-out",
+        "ar": "تُحفظ الأموال كضمان حتى المغادرة"
+      },
+      "monthlyValue": 118000,
+      "sharePercent": 10,
+      "tone": "brand"
+    },
+    {
+      "id": "rs-4",
+      "name": {
+        "en": "Marketplace commission",
+        "ar": "عمولة السوق"
+      },
+      "mechanism": {
+        "en": "Percentage of each in-app deal",
+        "ar": "نسبة من كل صفقة داخل التطبيق"
+      },
+      "notes": {
+        "en": "Encourages use of official channels",
+        "ar": "يشجّع استخدام القنوات الرسمية"
+      },
+      "monthlyValue": 96000,
+      "sharePercent": 8,
+      "tone": "accent"
+    },
+    {
+      "id": "rs-5",
+      "name": {
+        "en": "Grooming commission",
+        "ar": "عمولة العناية"
+      },
+      "mechanism": {
+        "en": "Per-booking commission or provider SaaS fee",
+        "ar": "عمولة لكل حجز أو رسوم اشتراك للمزوّد"
+      },
+      "notes": {
+        "en": "Monthly SaaS model is an alternative",
+        "ar": "يمكن اعتماد نموذج اشتراك شهري بديل"
+      },
+      "monthlyValue": 88000,
+      "sharePercent": 7,
+      "tone": "accent"
+    },
+    {
+      "id": "rs-6",
+      "name": {
+        "en": "Autoship subscriptions",
+        "ar": "اشتراكات الشحن التلقائي"
+      },
+      "mechanism": {
+        "en": "Recurring payments for consumables",
+        "ar": "مدفوعات متكررة للمنتجات المستهلكة"
+      },
+      "notes": {
+        "en": "Raises purchase frequency and retention",
+        "ar": "يرفع تكرار الشراء ومعدل الاحتفاظ"
+      },
+      "monthlyValue": 74000,
+      "sharePercent": 6,
+      "tone": "loyal"
+    },
+    {
+      "id": "rs-7",
+      "name": {
+        "en": "Membership packages",
+        "ar": "باقات العضوية"
+      },
+      "mechanism": {
+        "en": "Monthly or annual bundled subscription",
+        "ar": "اشتراك شهري أو سنوي مجمّع"
+      },
+      "notes": {
+        "en": "Guaranteed recurring revenue",
+        "ar": "إيراد متكرر مضمون"
+      },
+      "monthlyValue": 68000,
+      "sharePercent": 6,
+      "tone": "loyal"
+    },
+    {
+      "id": "rs-8",
+      "name": {
+        "en": "Smart QR collars",
+        "ar": "الأطواق الذكية"
+      },
+      "mechanism": {
+        "en": "Physical product with a high margin",
+        "ar": "منتج مادي بهامش ربح مرتفع"
+      },
+      "notes": {
+        "en": "Supports the lost-pet section",
+        "ar": "يدعم قسم المفقودات"
+      },
+      "monthlyValue": 42000,
+      "sharePercent": 4,
+      "tone": "rescue"
+    },
+    {
+      "id": "rs-9",
+      "name": {
+        "en": "Insurance commission",
+        "ar": "عمولة التأمين"
+      },
+      "mechanism": {
+        "en": "Partnership commission on each policy",
+        "ar": "عمولة شراكة على كل وثيقة"
+      },
+      "notes": {
+        "en": "Low operating cost",
+        "ar": "تكلفة تشغيل منخفضة"
+      },
+      "monthlyValue": 38000,
+      "sharePercent": 3,
+      "tone": "info"
+    },
+    {
+      "id": "rs-10",
+      "name": {
+        "en": "Brand sponsorships",
+        "ar": "الرعايات التجارية"
+      },
+      "mechanism": {
+        "en": "Ad placements inside the store",
+        "ar": "مساحات إعلانية داخل المتجر"
+      },
+      "notes": {
+        "en": "Activated as the user base grows",
+        "ar": "تُفعّل مع نمو قاعدة المستخدمين"
+      },
+      "monthlyValue": 32000,
+      "sharePercent": 3,
+      "tone": "warning"
+    }
+  ],
+  "ordersByStatus": [
+    {
+      "status": "under_review",
+      "count": 84
+    },
+    {
+      "status": "preparing",
+      "count": 212
+    },
+    {
+      "status": "shipped",
+      "count": 341
+    },
+    {
+      "status": "in_transit",
+      "count": 178
+    },
+    {
+      "status": "delivered",
+      "count": 2246
+    },
+    {
+      "status": "returned",
+      "count": 74
+    },
+    {
+      "status": "cancelled",
+      "count": 49
+    }
+  ],
+  "sectionKpis": [
+    {
+      "sectionId": "store",
+      "sectionName": {
+        "en": "Supplies store",
+        "ar": "متجر المستلزمات"
+      },
+      "metrics": [
+        {
+          "id": "sk-1",
+          "label": {
+            "en": "Conversion rate",
+            "ar": "معدل التحويل"
+          },
+          "description": {
+            "en": "Visitors who completed a purchase",
+            "ar": "نسبة الزوار الذين أتمّوا الشراء"
+          },
+          "value": 3.8,
+          "unit": "percent",
+          "delta": 0.4,
+          "tone": "brand"
+        },
+        {
+          "id": "sk-2",
+          "label": {
+            "en": "Average order value",
+            "ar": "متوسط قيمة الطلب"
+          },
+          "description": {
+            "en": "Average spend per order",
+            "ar": "متوسط الإنفاق لكل طلب"
+          },
+          "value": 403,
+          "unit": "currency",
+          "delta": 2.9,
+          "tone": "brand"
+        },
+        {
+          "id": "sk-3",
+          "label": {
+            "en": "Stockout rate",
+            "ar": "معدل نفاد المخزون"
+          },
+          "description": {
+            "en": "Products that ran out before resupply",
+            "ar": "المنتجات التي نفدت قبل إعادة التوريد"
+          },
+          "value": 2.1,
+          "unit": "percent",
+          "delta": -0.8,
+          "tone": "success"
+        },
+        {
+          "id": "sk-4",
+          "label": {
+            "en": "Return rate",
+            "ar": "معدل الإرجاع"
+          },
+          "description": {
+            "en": "Returned orders out of total",
+            "ar": "الطلبات المرتجعة من الإجمالي"
+          },
+          "value": 2.4,
+          "unit": "percent",
+          "delta": -0.3,
+          "tone": "success"
+        }
+      ]
+    },
+    {
+      "sectionId": "adoption",
+      "sectionName": {
+        "en": "Adoption",
+        "ar": "التبنّي"
+      },
+      "metrics": [
+        {
+          "id": "sk-5",
+          "label": {
+            "en": "Adoptions per month",
+            "ar": "حالات التبني شهريًا"
+          },
+          "description": {
+            "en": "Primary success indicator",
+            "ar": "المؤشر الأساسي للنجاح"
+          },
+          "value": 86,
+          "unit": "count",
+          "delta": 14.2,
+          "tone": "rescue"
+        },
+        {
+          "id": "sk-6",
+          "label": {
+            "en": "Average listing lifespan",
+            "ar": "متوسط عمر الإعلان"
+          },
+          "description": {
+            "en": "Days before adoption — lower is better",
+            "ar": "الأيام قبل التبني — الأقل أفضل"
+          },
+          "value": 18.4,
+          "unit": "days",
+          "delta": -6.1,
+          "tone": "success"
+        },
+        {
+          "id": "sk-7",
+          "label": {
+            "en": "Listings rejected",
+            "ar": "الإعلانات المرفوضة"
+          },
+          "description": {
+            "en": "Quality and fraud-attempt indicator",
+            "ar": "مؤشر الجودة ومحاولات الاحتيال"
+          },
+          "value": 7.8,
+          "unit": "percent",
+          "delta": -1.4,
+          "tone": "warning"
+        }
+      ]
+    },
+    {
+      "sectionId": "lost_found",
+      "sectionName": {
+        "en": "Lost & found",
+        "ar": "المفقودات"
+      },
+      "metrics": [
+        {
+          "id": "sk-8",
+          "label": {
+            "en": "Cases closed as found",
+            "ar": "الحالات المنتهية بالعثور"
+          },
+          "description": {
+            "en": "Most important effectiveness indicator",
+            "ar": "أهم مؤشر لفاعلية القسم"
+          },
+          "value": 62.5,
+          "unit": "percent",
+          "delta": 4.8,
+          "tone": "rescue"
+        },
+        {
+          "id": "sk-9",
+          "label": {
+            "en": "Time to closure",
+            "ar": "زمن إغلاق البلاغ"
+          },
+          "description": {
+            "en": "Average hours from report to reunion",
+            "ar": "متوسط الساعات من البلاغ حتى لمّ الشمل"
+          },
+          "value": 31,
+          "unit": "hours",
+          "delta": -12.4,
+          "tone": "success"
+        },
+        {
+          "id": "sk-10",
+          "label": {
+            "en": "Geo alerts sent",
+            "ar": "التنبيهات الجغرافية المرسلة"
+          },
+          "description": {
+            "en": "Community engagement indicator",
+            "ar": "مؤشر تفاعل المجتمع"
+          },
+          "value": 48200,
+          "unit": "count",
+          "delta": 22.1,
+          "tone": "rescue"
+        }
+      ]
+    },
+    {
+      "sectionId": "marketplace",
+      "sectionName": {
+        "en": "Buy, rent & mating",
+        "ar": "البيع والتأجير"
+      },
+      "metrics": [
+        {
+          "id": "sk-11",
+          "label": {
+            "en": "Monthly GMV",
+            "ar": "إجمالي المبيعات الشهرية"
+          },
+          "description": {
+            "en": "Value transacted through the section",
+            "ar": "قيمة المعاملات عبر القسم"
+          },
+          "value": 486000,
+          "unit": "currency",
+          "delta": 9.6,
+          "tone": "accent"
+        },
+        {
+          "id": "sk-12",
+          "label": {
+            "en": "Deals inside official chat",
+            "ar": "الصفقات عبر المحادثة الرسمية"
+          },
+          "description": {
+            "en": "Adherence to official channels",
+            "ar": "مدى الالتزام بالقنوات الرسمية"
+          },
+          "value": 78.4,
+          "unit": "percent",
+          "delta": 5.2,
+          "tone": "accent"
+        },
+        {
+          "id": "sk-13",
+          "label": {
+            "en": "Average breeder rating",
+            "ar": "متوسط تقييم المربّين"
+          },
+          "description": {
+            "en": "Market quality and trust indicator",
+            "ar": "مؤشر جودة السوق والثقة"
+          },
+          "value": 4.6,
+          "unit": "count",
+          "delta": 1.8,
+          "tone": "success"
+        }
+      ]
+    },
+    {
+      "sectionId": "grooming",
+      "sectionName": {
+        "en": "Grooming & care",
+        "ar": "العناية والتجميل"
+      },
+      "metrics": [
+        {
+          "id": "sk-14",
+          "label": {
+            "en": "Slot utilisation",
+            "ar": "معدل استغلال المواعيد"
+          },
+          "description": {
+            "en": "Booked slots out of total capacity",
+            "ar": "المواعيد المحجوزة من إجمالي الطاقة"
+          },
+          "value": 81.2,
+          "unit": "percent",
+          "delta": 3.4,
+          "tone": "accent"
+        },
+        {
+          "id": "sk-15",
+          "label": {
+            "en": "Cancelled or conflicting",
+            "ar": "الملغاة أو المتعارضة"
+          },
+          "description": {
+            "en": "Scheduling quality indicator",
+            "ar": "مؤشر جودة إدارة الجدولة"
+          },
+          "value": 2.8,
+          "unit": "percent",
+          "delta": -1.1,
+          "tone": "success"
+        },
+        {
+          "id": "sk-16",
+          "label": {
+            "en": "Average service rating",
+            "ar": "متوسط تقييم الخدمة"
+          },
+          "description": {
+            "en": "Customer satisfaction with staff",
+            "ar": "رضا العملاء عن الطاقم"
+          },
+          "value": 4.7,
+          "unit": "count",
+          "delta": 0.9,
+          "tone": "success"
+        }
+      ]
+    },
+    {
+      "sectionId": "telehealth",
+      "sectionName": {
+        "en": "Telehealth",
+        "ar": "الاستشارات عن بُعد"
+      },
+      "metrics": [
+        {
+          "id": "sk-17",
+          "label": {
+            "en": "Consultations per month",
+            "ar": "الاستشارات شهريًا"
+          },
+          "description": {
+            "en": "Primary growth indicator",
+            "ar": "مؤشر النمو الأساسي"
+          },
+          "value": 1462,
+          "unit": "count",
+          "delta": 18.3,
+          "tone": "care"
+        },
+        {
+          "id": "sk-18",
+          "label": {
+            "en": "Instant consult wait",
+            "ar": "انتظار الاستشارة الفورية"
+          },
+          "description": {
+            "en": "Service quality in urgent cases",
+            "ar": "جودة الخدمة في الحالات العاجلة"
+          },
+          "value": 6,
+          "unit": "minutes",
+          "delta": -18.2,
+          "tone": "success"
+        },
+        {
+          "id": "sk-19",
+          "label": {
+            "en": "Complaints per 100",
+            "ar": "الشكاوى لكل ١٠٠ استشارة"
+          },
+          "description": {
+            "en": "Medical practice quality and safety",
+            "ar": "جودة وسلامة الممارسة الطبية"
+          },
+          "value": 0.6,
+          "unit": "count",
+          "delta": -0.2,
+          "tone": "success"
+        }
+      ]
+    },
+    {
+      "sectionId": "medical_record",
+      "sectionName": {
+        "en": "Medical record",
+        "ar": "السجل الطبي"
+      },
+      "metrics": [
+        {
+          "id": "sk-20",
+          "label": {
+            "en": "Fully completed profiles",
+            "ar": "الملفات المكتملة"
+          },
+          "description": {
+            "en": "Quality of data available to the system",
+            "ar": "جودة البيانات المتاحة للنظام"
+          },
+          "value": 64.8,
+          "unit": "percent",
+          "delta": 7.2,
+          "tone": "brand"
+        },
+        {
+          "id": "sk-21",
+          "label": {
+            "en": "Medically verified profiles",
+            "ar": "الملفات الموثّقة طبيًا"
+          },
+          "description": {
+            "en": "Record trust and resale value",
+            "ar": "ثقة السجل وقيمته عند البيع"
+          },
+          "value": 41.3,
+          "unit": "percent",
+          "delta": 5.6,
+          "tone": "brand"
+        },
+        {
+          "id": "sk-22",
+          "label": {
+            "en": "Updates per profile",
+            "ar": "التحديثات لكل ملف"
+          },
+          "description": {
+            "en": "Monthly engagement with the section",
+            "ar": "التفاعل الشهري مع القسم"
+          },
+          "value": 2.4,
+          "unit": "count",
+          "delta": 0.3,
+          "tone": "brand"
+        }
+      ]
+    },
+    {
+      "sectionId": "boarding",
+      "sectionName": {
+        "en": "Boarding & sitting",
+        "ar": "الإيواء والاستضافة"
+      },
+      "metrics": [
+        {
+          "id": "sk-23",
+          "label": {
+            "en": "Host occupancy",
+            "ar": "إشغال المضيفين"
+          },
+          "description": {
+            "en": "Booked nights out of total capacity",
+            "ar": "الليالي المحجوزة من إجمالي الطاقة"
+          },
+          "value": 72.6,
+          "unit": "percent",
+          "delta": 6.4,
+          "tone": "brand"
+        },
+        {
+          "id": "sk-24",
+          "label": {
+            "en": "Daily-update compliance",
+            "ar": "الالتزام بالتحديث اليومي"
+          },
+          "description": {
+            "en": "Owner experience while away",
+            "ar": "تجربة المالك أثناء الغياب"
+          },
+          "value": 93.1,
+          "unit": "percent",
+          "delta": 2.2,
+          "tone": "success"
+        },
+        {
+          "id": "sk-25",
+          "label": {
+            "en": "Open disputes",
+            "ar": "النزاعات المفتوحة"
+          },
+          "description": {
+            "en": "Quality of host verification",
+            "ar": "جودة عملية توثيق المضيفين"
+          },
+          "value": 4,
+          "unit": "count",
+          "delta": -33.3,
+          "tone": "success"
+        }
+      ]
+    },
+    {
+      "sectionId": "subscriptions",
+      "sectionName": {
+        "en": "Subscriptions",
+        "ar": "الاشتراكات"
+      },
+      "metrics": [
+        {
+          "id": "sk-26",
+          "label": {
+            "en": "Monthly recurring revenue",
+            "ar": "الإيراد الشهري المتكرر"
+          },
+          "description": {
+            "en": "Health indicator for the model",
+            "ar": "مؤشر صحة النموذج"
+          },
+          "value": 118400,
+          "unit": "currency",
+          "delta": 6.7,
+          "tone": "loyal"
+        },
+        {
+          "id": "sk-27",
+          "label": {
+            "en": "Churn rate",
+            "ar": "معدل التسرّب"
+          },
+          "description": {
+            "en": "Subscriber satisfaction",
+            "ar": "رضا المشتركين"
+          },
+          "value": 3.4,
+          "unit": "percent",
+          "delta": -0.6,
+          "tone": "success"
+        },
+        {
+          "id": "sk-28",
+          "label": {
+            "en": "Average subscription life",
+            "ar": "متوسط عمر الاشتراك"
+          },
+          "description": {
+            "en": "Long-term loyalty indicator",
+            "ar": "مؤشر الولاء طويل الأمد"
+          },
+          "value": 11.2,
+          "unit": "count",
+          "delta": 1.4,
+          "tone": "loyal"
+        }
+      ]
+    },
+    {
+      "sectionId": "reminders",
+      "sectionName": {
+        "en": "Smart reminders",
+        "ar": "التذكيرات الذكية"
+      },
+      "metrics": [
+        {
+          "id": "sk-29",
+          "label": {
+            "en": "Notification open rate",
+            "ar": "معدل فتح الإشعارات"
+          },
+          "description": {
+            "en": "Wording and timing quality",
+            "ar": "جودة الصياغة والتوقيت"
+          },
+          "value": 48.6,
+          "unit": "percent",
+          "delta": 3.1,
+          "tone": "care"
+        },
+        {
+          "id": "sk-30",
+          "label": {
+            "en": "Notification to action",
+            "ar": "التحويل إلى إجراء"
+          },
+          "description": {
+            "en": "Direct commercial impact",
+            "ar": "الأثر التجاري المباشر"
+          },
+          "value": 21.4,
+          "unit": "percent",
+          "delta": 2.8,
+          "tone": "care"
+        },
+        {
+          "id": "sk-31",
+          "label": {
+            "en": "Notifications disabled",
+            "ar": "تعطيل الإشعارات"
+          },
+          "description": {
+            "en": "Warning indicator for annoyance",
+            "ar": "مؤشر تحذيري لمستوى الإزعاج"
+          },
+          "value": 1.9,
+          "unit": "percent",
+          "delta": -0.4,
+          "tone": "success"
+        }
+      ]
+    }
+  ],
+  "risks": [
+    {
+      "id": "rk-1",
+      "section": "store",
+      "risk": {
+        "en": "Sudden stockout of a popular product",
+        "ar": "نفاد مفاجئ لمنتج شائع"
+      },
+      "mitigation": {
+        "en": "Early alerts at 20% above the reorder point plus backup supplier contracts",
+        "ar": "تنبيهات مبكرة عند ٢٠٪ فوق حد إعادة الطلب مع عقود موردين احتياطيين"
+      },
+      "severity": "high",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-2",
+      "section": "store",
+      "risk": {
+        "en": "Expired medicines or food reaching customers",
+        "ar": "وصول أدوية أو أطعمة منتهية للعملاء"
+      },
+      "mitigation": {
+        "en": "Mandatory expiry tracking per batch and automatic alerts 60 days ahead",
+        "ar": "تتبع إلزامي لتاريخ الصلاحية لكل دفعة مع تنبيه تلقائي قبل ٦٠ يومًا"
+      },
+      "severity": "critical",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-3",
+      "section": "store",
+      "risk": {
+        "en": "Fraud on cash-on-delivery orders",
+        "ar": "احتيال في طلبات الدفع عند الاستلام"
+      },
+      "mitigation": {
+        "en": "Cap on unpaid COD orders per customer plus behavioural scoring",
+        "ar": "حد أقصى للطلبات غير المدفوعة لكل عميل مع تقييم سلوك الشراء"
+      },
+      "severity": "medium",
+      "status": "monitored"
+    },
+    {
+      "id": "rk-4",
+      "section": "adoption",
+      "risk": {
+        "en": "Section misused for disguised selling",
+        "ar": "استخدام القسم للبيع المُقنّع"
+      },
+      "mitigation": {
+        "en": "Mandatory pre-publication review and immediate ban on repetition",
+        "ar": "مراجعة إلزامية قبل النشر وحظر فوري عند التكرار"
+      },
+      "severity": "high",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-5",
+      "section": "adoption",
+      "risk": {
+        "en": "Adopter abandoning the animal later",
+        "ar": "تخلي المتبنّي عن الحيوان لاحقًا"
+      },
+      "mitigation": {
+        "en": "Eligibility assessment form plus a 30-day follow-up",
+        "ar": "نموذج تقييم الأهلية مع متابعة بعد ٣٠ يومًا"
+      },
+      "severity": "medium",
+      "status": "monitored"
+    },
+    {
+      "id": "rk-6",
+      "section": "lost_found",
+      "risk": {
+        "en": "False or nuisance reports",
+        "ar": "بلاغات كاذبة أو مزعجة"
+      },
+      "mitigation": {
+        "en": "Graduated escalation, ban system and manual review of repeat accounts",
+        "ar": "تصعيد متدرج ونظام حظر ومراجعة يدوية للحسابات المتكررة"
+      },
+      "severity": "medium",
+      "status": "monitored"
+    },
+    {
+      "id": "rk-7",
+      "section": "lost_found",
+      "risk": {
+        "en": "Notification fatigue",
+        "ar": "إرهاق المستخدم من الإشعارات"
+      },
+      "mitigation": {
+        "en": "Precise geographic targeting and a daily notification cap",
+        "ar": "استهداف جغرافي دقيق وحد يومي للإشعارات"
+      },
+      "severity": "medium",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-8",
+      "section": "marketplace",
+      "risk": {
+        "en": "Deals arranged outside the app",
+        "ar": "إتمام الصفقات خارج التطبيق"
+      },
+      "mitigation": {
+        "en": "Warranty and verified rating granted only for in-app deals",
+        "ar": "الضمان والتقييم الموثّق يُمنحان فقط للصفقات داخل التطبيق"
+      },
+      "severity": "high",
+      "status": "action_required"
+    },
+    {
+      "id": "rk-9",
+      "section": "marketplace",
+      "risk": {
+        "en": "Selling sick or undocumented animals",
+        "ar": "بيع حيوانات مريضة أو غير موثّقة"
+      },
+      "mitigation": {
+        "en": "Mandatory health record upload before any sale listing is published",
+        "ar": "رفع إلزامي للسجل الصحي قبل نشر أي إعلان بيع"
+      },
+      "severity": "critical",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-10",
+      "section": "grooming",
+      "risk": {
+        "en": "Double booking for the same specialist",
+        "ar": "حجزان متعارضان لنفس الأخصائي"
+      },
+      "mitigation": {
+        "en": "Immediate slot locking on confirmation and real-time calendar sync",
+        "ar": "قفل فوري للموعد عند التأكيد ومزامنة لحظية للتقويم"
+      },
+      "severity": "medium",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-11",
+      "section": "grooming",
+      "risk": {
+        "en": "Home-service specialist delay or absence",
+        "ar": "تأخر أو غياب أخصائي الخدمة المنزلية"
+      },
+      "mitigation": {
+        "en": "Automatic replacement system plus compensation for the customer",
+        "ar": "نظام استبدال تلقائي مع تعويض للعميل المتضرر"
+      },
+      "severity": "medium",
+      "status": "monitored"
+    },
+    {
+      "id": "rk-12",
+      "section": "telehealth",
+      "risk": {
+        "en": "Misdiagnosis or medical negligence",
+        "ar": "تشخيص خاطئ أو إهمال طبي"
+      },
+      "mitigation": {
+        "en": "Strict licence documentation, complaint review and account suspension",
+        "ar": "توثيق صارم للتراخيص ومراجعة الشكاوى وتعليق الحسابات"
+      },
+      "severity": "critical",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-13",
+      "section": "telehealth",
+      "risk": {
+        "en": "Poor connection during video calls",
+        "ar": "ضعف الاتصال أثناء المكالمات المرئية"
+      },
+      "mitigation": {
+        "en": "Automatic fallback to text chat when the connection repeatedly drops",
+        "ar": "تحويل تلقائي إلى المحادثة النصية عند تكرار انقطاع الاتصال"
+      },
+      "severity": "low",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-14",
+      "section": "medical_record",
+      "risk": {
+        "en": "Inaccurate data entered by owners",
+        "ar": "بيانات غير دقيقة يدخلها المالك"
+      },
+      "mitigation": {
+        "en": "Clear interface separation between vet-verified and user-entered fields",
+        "ar": "فصل واضح في الواجهة بين الحقول الموثّقة من الطبيب وحقول المستخدم"
+      },
+      "severity": "medium",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-15",
+      "section": "medical_record",
+      "risk": {
+        "en": "Data loss during ownership transfer",
+        "ar": "فقدان البيانات أثناء نقل الملكية"
+      },
+      "mitigation": {
+        "en": "Permanent archival copy retained by the system regardless of transfer",
+        "ar": "نسخة أرشيفية دائمة يحتفظ بها النظام بغض النظر عن النقل"
+      },
+      "severity": "high",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-16",
+      "section": "boarding",
+      "risk": {
+        "en": "Neglect or mistreatment of the animal",
+        "ar": "إهمال أو سوء معاملة الحيوان"
+      },
+      "mitigation": {
+        "en": "Strict verification, mandatory daily updates and instant suspension",
+        "ar": "توثيق صارم وتحديثات يومية إلزامية وتعليق فوري عند الشكوى"
+      },
+      "severity": "critical",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-17",
+      "section": "boarding",
+      "risk": {
+        "en": "Unvaccinated animal endangering other guests",
+        "ar": "حيوان غير مطعّم يعرّض الآخرين للخطر"
+      },
+      "mitigation": {
+        "en": "Automatic medical-record check blocks booking without valid vaccinations",
+        "ar": "فحص تلقائي للسجل الطبي يمنع الحجز بدون تطعيمات سارية"
+      },
+      "severity": "high",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-18",
+      "section": "subscriptions",
+      "risk": {
+        "en": "Repeated charge failures from expired cards",
+        "ar": "تكرار فشل الخصم بسبب بطاقات منتهية"
+      },
+      "mitigation": {
+        "en": "Proactive reminder 3 days before renewal plus scheduled retries",
+        "ar": "تذكير استباقي قبل ٣ أيام من التجديد مع محاولات مجدولة"
+      },
+      "severity": "medium",
+      "status": "mitigated"
+    },
+    {
+      "id": "rk-19",
+      "section": "subscriptions",
+      "risk": {
+        "en": "Sudden cancellations disrupting inventory planning",
+        "ar": "إلغاءات مفاجئة تربك تخطيط المخزون"
+      },
+      "mitigation": {
+        "en": "Safety margin in forecasting and periodic cancellation-reason analysis",
+        "ar": "هامش أمان في التنبؤ وتحليل دوري لأسباب الإلغاء"
+      },
+      "severity": "low",
+      "status": "monitored"
+    },
+    {
+      "id": "rk-20",
+      "section": "reminders",
+      "risk": {
+        "en": "Delivery delay missing a critical appointment",
+        "ar": "تأخر الإرسال يفوّت موعدًا حرجًا"
+      },
+      "mitigation": {
+        "en": "Dual escalation channel (SMS + push) for critical reminders",
+        "ar": "قناة تصعيد مزدوجة (رسالة نصية + إشعار) للتذكيرات الحرجة"
+      },
+      "severity": "high",
+      "status": "mitigated"
+    }
+  ],
+  "topProducts": [
+    {
+      "productId": "p-068",
+      "name": {
+        "en": "Paw Balm Protective 60g",
+        "ar": "بلسم حماية الكفوف ٦٠جم"
+      },
+      "units": 2372,
+      "revenue": 99624
+    },
+    {
+      "productId": "p-065",
+      "name": {
+        "en": "UVB Reptile Lamp 26W",
+        "ar": "مصباح UVB للزواحف ٢٦ واط"
+      },
+      "units": 2371,
+      "revenue": 374618
+    },
+    {
+      "productId": "p-031",
+      "name": {
+        "en": "Training Pads 50 pcs",
+        "ar": "حفاضات تدريب ٥٠ قطعة"
+      },
+      "units": 2329,
+      "revenue": 183991
+    },
+    {
+      "productId": "p-058",
+      "name": {
+        "en": "Agility Training Cones 8 pcs",
+        "ar": "أقماع تدريب الرشاقة ٨ قطع"
+      },
+      "units": 2326,
+      "revenue": 297728
+    },
+    {
+      "productId": "p-018",
+      "name": {
+        "en": "Water Additive Fresh Breath 500ml",
+        "ar": "إضافة مياه لإنعاش النفس ٥٠٠مل"
+      },
+      "units": 2325,
+      "revenue": 134850
+    },
+    {
+      "productId": "p-026",
+      "name": {
+        "en": "Professional Slicker Brush",
+        "ar": "فرشاة تصفيف احترافية"
+      },
+      "units": 2299,
+      "revenue": 158631
+    },
+    {
+      "productId": "p-044",
+      "name": {
+        "en": "Plush Donut Bed M",
+        "ar": "سرير دائري ناعم وسط"
+      },
+      "units": 2298,
+      "revenue": 363084
+    },
+    {
+      "productId": "p-042",
+      "name": {
+        "en": "Circulating Water Fountain 2.5L",
+        "ar": "نافورة مياه دوّارة ٢٫٥ لتر"
+      },
+      "units": 2236,
+      "revenue": 400244
+    }
+  ],
+  "slowMoving": [
+    {
+      "productId": "p-022",
+      "name": {
+        "en": "Calming Chews with L-Theanine",
+        "ar": "أقراص مهدئة بالثيانين"
+      },
+      "daysInStock": 138,
+      "stock": 165
+    },
+    {
+      "productId": "p-010",
+      "name": {
+        "en": "Salmon Oil Skin & Coat 250ml",
+        "ar": "زيت السلمون للجلد والفراء ٢٥٠مل"
+      },
+      "daysInStock": 238,
+      "stock": 110
+    },
+    {
+      "productId": "p-015",
+      "name": {
+        "en": "Repellent Collar 8 Months",
+        "ar": "طوق طارد للحشرات ٨ أشهر"
+      },
+      "daysInStock": 198,
+      "stock": 82
+    },
+    {
+      "productId": "p-003",
+      "name": {
+        "en": "Senior Joint Support Kibble 4kg",
+        "ar": "طعام دعم المفاصل لكبار السن ٤ كجم"
+      },
+      "daysInStock": 141,
+      "stock": 53
+    },
+    {
+      "productId": "p-011",
+      "name": {
+        "en": "Probiotic Digestive Powder 60g",
+        "ar": "مسحوق بروبيوتيك للهضم ٦٠جم"
+      },
+      "daysInStock": 138,
+      "stock": 89
+    },
+    {
+      "productId": "p-049",
+      "name": {
+        "en": "Nano Aquarium Kit 20L",
+        "ar": "حوض أسماك نانو ٢٠ لتر"
+      },
+      "daysInStock": 107,
+      "stock": 80
+    }
+  ],
+  "stockAlerts": [
+    {
+      "productId": "p-007",
+      "name": {
+        "en": "Turkey Pâté Kitten Cans 6×100g",
+        "ar": "معجون الديك الرومي للقطط الصغيرة ٦×١٠٠جم"
+      },
+      "stock": 19,
+      "reorderPoint": 24
+    },
+    {
+      "productId": "p-016",
+      "name": {
+        "en": "Deworming Tablets 4 pcs",
+        "ar": "أقراص علاج الديدان ٤ حبات"
+      },
+      "stock": 1,
+      "reorderPoint": 24
+    },
+    {
+      "productId": "p-024",
+      "name": {
+        "en": "Deshedding Conditioner 400ml",
+        "ar": "بلسم مقلل تساقط الشعر ٤٠٠مل"
+      },
+      "stock": 20,
+      "reorderPoint": 24
+    },
+    {
+      "productId": "p-026",
+      "name": {
+        "en": "Professional Slicker Brush",
+        "ar": "فرشاة تصفيف احترافية"
+      },
+      "stock": 4,
+      "reorderPoint": 24
+    },
+    {
+      "productId": "p-030",
+      "name": {
+        "en": "Activated Carbon Litter 10L",
+        "ar": "رمل بالكربون المنشط ١٠ لتر"
+      },
+      "stock": 7,
+      "reorderPoint": 24
+    },
+    {
+      "productId": "p-038",
+      "name": {
+        "en": "Airline-Approved Carrier M",
+        "ar": "قفص سفر معتمد للطيران وسط"
+      },
+      "stock": 22,
+      "reorderPoint": 24
+    },
+    {
+      "productId": "p-040",
+      "name": {
+        "en": "Ceramic Elevated Bowls Set",
+        "ar": "طقم أوعية سيراميك مرتفعة"
+      },
+      "stock": 24,
+      "reorderPoint": 24
+    },
+    {
+      "productId": "p-043",
+      "name": {
+        "en": "Orthopaedic Memory Foam Bed L",
+        "ar": "سرير طبي بإسفنج ذاكرة كبير"
+      },
+      "stock": 22,
+      "reorderPoint": 24
+    }
+  ],
+  "expiryAlerts": [
+    {
+      "productId": "p-032",
+      "name": {
+        "en": "Reflective Nylon Collar",
+        "ar": "طوق نايلون عاكس"
+      },
+      "lot": "LOT-1031",
+      "expiresAt": "2026-09-12T09:00:00.000Z",
+      "quantity": 128
+    },
+    {
+      "productId": "p-046",
+      "name": {
+        "en": "Wooden Outdoor Kennel",
+        "ar": "بيت خشبي خارجي"
+      },
+      "lot": "LOT-1045",
+      "expiresAt": "2026-09-09T09:00:00.000Z",
+      "quantity": 39
+    },
+    {
+      "productId": "p-048",
+      "name": {
+        "en": "Bird Flight Cage Large",
+        "ar": "قفص طيران كبير للطيور"
+      },
+      "lot": "LOT-1047",
+      "expiresAt": "2026-09-15T09:00:00.000Z",
+      "quantity": 70
+    },
+    {
+      "productId": "p-056",
+      "name": {
+        "en": "Modular Cat Climbing Tree",
+        "ar": "شجرة تسلق قطط معيارية"
+      },
+      "lot": "LOT-1055",
+      "expiresAt": "2026-08-25T09:00:00.000Z",
+      "quantity": 203
+    }
+  ],
+  "cohortRetention": [
+    {
+      "cohort": "Feb",
+      "values": [
+        100,
+        68,
+        54,
+        47,
+        43,
+        40
+      ]
+    },
+    {
+      "cohort": "Mar",
+      "values": [
+        100,
+        68,
+        54,
+        47,
+        43
+      ]
+    },
+    {
+      "cohort": "Apr",
+      "values": [
+        100,
+        68,
+        54,
+        47
+      ]
+    },
+    {
+      "cohort": "May",
+      "values": [
+        100,
+        68,
+        54
+      ]
+    },
+    {
+      "cohort": "Jun",
+      "values": [
+        100,
+        68
+      ]
+    }
+  ],
+  "liveFeed": [
+    {
+      "id": "lf-feed-0",
+      "at": "2026-07-25T09:00:00.000Z",
+      "message": {
+        "en": "New order AL-52031 · SAR 486",
+        "ar": "طلب جديد AL-52031 · ٤٨٦ ر.س"
+      },
+      "type": "order"
+    },
+    {
+      "id": "lf-feed-1",
+      "at": "2026-07-25T08:36:00.000Z",
+      "message": {
+        "en": "Emergency consultation routed to Dr. Faisal",
+        "ar": "توجيه استشارة طارئة إلى د. فيصل"
+      },
+      "type": "consultation"
+    },
+    {
+      "id": "lf-feed-2",
+      "at": "2026-07-25T08:12:00.000Z",
+      "message": {
+        "en": "Adoption listing submitted for review",
+        "ar": "إعلان تبنٍّ جديد بانتظار المراجعة"
+      },
+      "type": "moderation"
+    },
+    {
+      "id": "lf-feed-3",
+      "at": "2026-07-25T07:48:00.000Z",
+      "message": {
+        "en": "Lost pet reported in Al Narjis · 3 km radius",
+        "ar": "بلاغ حيوان مفقود في النرجس · نطاق ٣ كم"
+      },
+      "type": "lost_found"
+    },
+    {
+      "id": "lf-feed-4",
+      "at": "2026-07-25T07:24:00.000Z",
+      "message": {
+        "en": "Host Paws Retreat uploaded a daily update",
+        "ar": "رفع المضيف باوز ريتريت تحديثًا يوميًا"
+      },
+      "type": "boarding"
+    },
+    {
+      "id": "lf-feed-5",
+      "at": "2026-07-25T07:00:00.000Z",
+      "message": {
+        "en": "Autoship SUB-8103 charged successfully",
+        "ar": "تم خصم الاشتراك SUB-8103 بنجاح"
+      },
+      "type": "subscription"
+    },
+    {
+      "id": "lf-feed-6",
+      "at": "2026-07-25T06:36:00.000Z",
+      "message": {
+        "en": "Low stock alert: Clumping Tofu Litter 6L",
+        "ar": "تنبيه مخزون منخفض: رمل التوفو ٦ لتر"
+      },
+      "type": "inventory"
+    },
+    {
+      "id": "lf-feed-7",
+      "at": "2026-07-25T06:12:00.000Z",
+      "message": {
+        "en": "Breeder licence submitted for verification",
+        "ar": "تقديم رخصة مربٍّ للتوثيق"
+      },
+      "type": "moderation"
+    }
+  ],
+  "cityBreakdown": [
+    {
+      "cityId": "c-riyadh",
+      "name": {
+        "en": "Riyadh",
+        "ar": "الرياض"
+      },
+      "users": 1282,
+      "revenue": 517118
+    },
+    {
+      "cityId": "c-jeddah",
+      "name": {
+        "en": "Jeddah",
+        "ar": "جدة"
+      },
+      "users": 6688,
+      "revenue": 160143
+    },
+    {
+      "cityId": "c-dammam",
+      "name": {
+        "en": "Dammam",
+        "ar": "الدمام"
+      },
+      "users": 3393,
+      "revenue": 378522
+    },
+    {
+      "cityId": "c-dubai",
+      "name": {
+        "en": "Dubai",
+        "ar": "دبي"
+      },
+      "users": 1617,
+      "revenue": 350525
+    }
+  ],
+  "subscriptionMetrics": {
+    "mrr": 118400,
+    "mrrGrowth": 6.7,
+    "churnRate": 3.4,
+    "ltv": 2840,
+    "activeSubscriptions": 6010,
+    "trend": [
+      {
+        "month": "Feb",
+        "mrr": 82000,
+        "churn": 5.2
+      },
+      {
+        "month": "Mar",
+        "mrr": 89400,
+        "churn": 4.9
+      },
+      {
+        "month": "Apr",
+        "mrr": 96800,
+        "churn": 4.6
+      },
+      {
+        "month": "May",
+        "mrr": 104200,
+        "churn": 4.2
+      },
+      {
+        "month": "Jun",
+        "mrr": 111600,
+        "churn": 3.9
+      },
+      {
+        "month": "Jul",
+        "mrr": 119000,
+        "churn": 3.6
+      }
+    ]
+  },
+  "moderationQueue": [
+    {
+      "type": "adoption",
+      "label": {
+        "en": "Adoption listings",
+        "ar": "إعلانات التبنّي"
+      },
+      "pending": 6,
+      "link": "/admin/adoption"
+    },
+    {
+      "type": "marketplace",
+      "label": {
+        "en": "Marketplace listings",
+        "ar": "إعلانات السوق"
+      },
+      "pending": 4,
+      "link": "/admin/marketplace"
+    },
+    {
+      "type": "vets",
+      "label": {
+        "en": "Vet accreditation",
+        "ar": "اعتماد الأطباء"
+      },
+      "pending": 2,
+      "link": "/admin/vets"
+    },
+    {
+      "type": "hosts",
+      "label": {
+        "en": "Host verification",
+        "ar": "توثيق المضيفين"
+      },
+      "pending": 3,
+      "link": "/admin/hosts"
+    },
+    {
+      "type": "returns",
+      "label": {
+        "en": "Return requests",
+        "ar": "طلبات الإرجاع"
+      },
+      "pending": 5,
+      "link": "/admin/returns"
+    },
+    {
+      "type": "disputes",
+      "label": {
+        "en": "Open disputes",
+        "ar": "النزاعات المفتوحة"
+      },
+      "pending": 4,
+      "link": "/admin/disputes"
+    }
+  ]
+}

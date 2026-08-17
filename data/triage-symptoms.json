@@ -1,0 +1,290 @@
+[
+  {
+    "id": "ts-1",
+    "label": {
+      "en": "Vomiting",
+      "ar": "قيء"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 3,
+    "category": {
+      "en": "Digestive",
+      "ar": "الجهاز الهضمي"
+    }
+  },
+  {
+    "id": "ts-2",
+    "label": {
+      "en": "Diarrhoea",
+      "ar": "إسهال"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 3,
+    "category": {
+      "en": "Digestive",
+      "ar": "الجهاز الهضمي"
+    }
+  },
+  {
+    "id": "ts-3",
+    "label": {
+      "en": "Loss of appetite",
+      "ar": "فقدان الشهية"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 2,
+    "category": {
+      "en": "Digestive",
+      "ar": "الجهاز الهضمي"
+    }
+  },
+  {
+    "id": "ts-4",
+    "label": {
+      "en": "Lethargy",
+      "ar": "خمول"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 2,
+    "category": {
+      "en": "General",
+      "ar": "عام"
+    }
+  },
+  {
+    "id": "ts-5",
+    "label": {
+      "en": "Difficulty breathing",
+      "ar": "صعوبة في التنفس"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 5,
+    "category": {
+      "en": "Respiratory",
+      "ar": "الجهاز التنفسي"
+    }
+  },
+  {
+    "id": "ts-6",
+    "label": {
+      "en": "Persistent coughing",
+      "ar": "سعال مستمر"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 3,
+    "category": {
+      "en": "Respiratory",
+      "ar": "الجهاز التنفسي"
+    }
+  },
+  {
+    "id": "ts-7",
+    "label": {
+      "en": "Limping",
+      "ar": "عرج"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 2,
+    "category": {
+      "en": "Musculoskeletal",
+      "ar": "العضلات والعظام"
+    }
+  },
+  {
+    "id": "ts-8",
+    "label": {
+      "en": "Seizure",
+      "ar": "نوبة تشنج"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 5,
+    "category": {
+      "en": "Neurological",
+      "ar": "الجهاز العصبي"
+    }
+  },
+  {
+    "id": "ts-9",
+    "label": {
+      "en": "Itching or hair loss",
+      "ar": "حكة أو تساقط الشعر"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 1,
+    "category": {
+      "en": "Skin",
+      "ar": "الجلد"
+    }
+  },
+  {
+    "id": "ts-10",
+    "label": {
+      "en": "Eye discharge",
+      "ar": "إفرازات بالعين"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 2,
+    "category": {
+      "en": "Eyes",
+      "ar": "العيون"
+    }
+  },
+  {
+    "id": "ts-11",
+    "label": {
+      "en": "Blood in urine",
+      "ar": "دم في البول"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 4,
+    "category": {
+      "en": "Urinary",
+      "ar": "المسالك البولية"
+    }
+  },
+  {
+    "id": "ts-12",
+    "label": {
+      "en": "Straining to urinate",
+      "ar": "صعوبة في التبول"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 4,
+    "category": {
+      "en": "Urinary",
+      "ar": "المسالك البولية"
+    }
+  },
+  {
+    "id": "ts-13",
+    "label": {
+      "en": "Swollen abdomen",
+      "ar": "انتفاخ البطن"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 4,
+    "category": {
+      "en": "General",
+      "ar": "عام"
+    }
+  },
+  {
+    "id": "ts-14",
+    "label": {
+      "en": "Bad breath",
+      "ar": "رائحة فم كريهة"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 1,
+    "category": {
+      "en": "Dental",
+      "ar": "الأسنان"
+    }
+  },
+  {
+    "id": "ts-15",
+    "label": {
+      "en": "Excessive thirst",
+      "ar": "عطش مفرط"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 2,
+    "category": {
+      "en": "General",
+      "ar": "عام"
+    }
+  },
+  {
+    "id": "ts-16",
+    "label": {
+      "en": "Trauma or injury",
+      "ar": "إصابة أو حادث"
+    },
+    "species": [
+      "cat",
+      "dog",
+      "rabbit",
+      "bird"
+    ],
+    "weight": 5,
+    "category": {
+      "en": "Emergency",
+      "ar": "الطوارئ"
+    }
+  }
+]
